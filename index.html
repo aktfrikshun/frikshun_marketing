@@ -217,11 +217,11 @@
       <p class="section-subtitle">FrikShun brings together a diverse team of senior engineers, architects, and consultants with deep expertise across industries</p>
       <div class="team-stats">
         <div class="stat-card">
-          <div class="stat-number">50+</div>
-          <div class="stat-label">Senior Engineers</div>
+          <div class="stat-number">Diverse team</div>
+          <div class="stat-label">of Senior Engineers</div>
         </div>
         <div class="stat-card">
-          <div class="stat-number">15+</div>
+          <div class="stat-number">25+</div>
           <div class="stat-label">Years Experience</div>
         </div>
         <div class="stat-card">
@@ -363,7 +363,13 @@
           </div>
         </div>
         <div class="contact-form">
-          <form>
+          <form action="https://formsubmit.co/aktfrikshun@gmail.com" method="POST" id="contact-form">
+            <!-- FormSubmit configuration -->
+            <input type="hidden" name="_captcha" value="false">
+            <input type="hidden" name="_subject" value="New Contact from FrikShun Website">
+            <input type="hidden" name="_next" value="https://frikshun.com/thank-you.html">
+            <input type="hidden" name="_template" value="box">
+            
             <div class="form-group">
               <label for="name">Name</label>
               <input type="text" id="name" name="name" required>
@@ -380,7 +386,7 @@
               <label for="message">Project Details</label>
               <textarea id="message" name="message" rows="5" required></textarea>
             </div>
-            <button type="submit" class="btn btn-large">Send Message</button>
+            <button type="submit" class="btn btn-large" id="submit-btn">Send Message</button>
           </form>
         </div>
       </div>
@@ -443,12 +449,41 @@
       });
     });
 
-    // Form submission handler
-    document.querySelector('.contact-form form').addEventListener('submit', function(e) {
-      e.preventDefault();
-      alert('Thank you for your interest! We will contact you soon.');
-      this.reset();
-    });
+    // Form submission handler with loading state
+    const contactForm = document.getElementById('contact-form');
+    const submitBtn = document.getElementById('submit-btn');
+    
+    if (contactForm && submitBtn) {
+      contactForm.addEventListener('submit', function(e) {
+        const originalText = submitBtn.textContent;
+        
+        // Show loading state
+        submitBtn.textContent = 'Sending...';
+        submitBtn.disabled = true;
+        submitBtn.style.opacity = '0.7';
+        submitBtn.style.cursor = 'not-allowed';
+        
+        // Form will submit to FormSubmit, which will redirect to thank-you page
+        // No need to prevent default - let it submit normally
+      });
+      
+      // Form validation feedback
+      const inputs = contactForm.querySelectorAll('input[required], textarea[required]');
+      
+      inputs.forEach(input => {
+        input.addEventListener('invalid', function(e) {
+          e.preventDefault();
+          this.style.borderColor = '#ef4444';
+          this.focus();
+        });
+        
+        input.addEventListener('input', function() {
+          if (this.validity.valid) {
+            this.style.borderColor = '';
+          }
+        });
+      });
+    }
   </script>
 </body>
 </html>
