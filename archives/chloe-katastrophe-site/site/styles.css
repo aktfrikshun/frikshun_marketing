@@ -116,3 +116,37 @@ footer { max-width:1180px; margin:0 auto; padding:2rem 1.25rem 3rem; color:#8d7f
   .links.open { display:flex; }
   .nav-inner { flex-wrap:wrap; }
 }
+
+.artifact-placeholder .placeholder-frame{
+  min-height:260px;
+  border:1px solid rgba(192,128,255,.35);
+  border-radius:18px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  gap:.55rem;
+  text-align:center;
+  background:
+    radial-gradient(circle at center, rgba(170,92,255,.24), transparent 58%),
+    linear-gradient(135deg, rgba(255,255,255,.08), rgba(255,255,255,.02));
+  color:#eee;
+}
+.artifact-placeholder .placeholder-frame span{
+  color:#bf7cff;
+  letter-spacing:.22em;
+  font-size:.8rem;
+}
+.artifact-placeholder .placeholder-frame strong{
+  font-size:1.45rem;
+}
+.artifact-placeholder .placeholder-frame em{
+  color:#b9b0cf;
+  font-size:.9rem;
+}
+code{
+  color:#e4c6ff;
+  background:rgba(255,255,255,.08);
+  padding:.08rem .28rem;
+  border-radius:.35rem;
+}

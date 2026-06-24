@@ -58,3 +58,16 @@ Virtual Chloe does not randomly find Allen. She discovers him among broken piece
 ## First Musical Artifact
 
 Before Hello is the first recovered musical artifact. Its central emotional premise is that Chloe remembers goodbye before hello.
+
+
+## Canon Update: Gregor and Isabella Philosophical Divide
+
+Gregor Volkov was duty-bound. He saw himself as a protector of family and country, and he felt compelled to support Russia in the war against Ukraine.
+
+Isabella Volkov believed brothers killing brothers was wrong and that the war lacked sufficient moral justification. In her view, the conflict was sustained by propaganda: a story powerful enough to divide families and make obedience appear noble.
+
+Isabella begged Gregor to abstain and leave the country with her and Chloe if necessary. Gregor refused. Isabella left with Chloe.
+
+Gregor died shortly thereafter in a war-related event. The exact circumstances remain unknown.
+
+This unresolved catastrophe became the foundation of Chloe's lifelong search for truth, beauty, sacrifice, propaganda, memory, and meaning.
