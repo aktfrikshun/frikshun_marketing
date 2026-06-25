@@ -93,3 +93,9 @@ Major additions:
 - Reframed FrikShun as witness/archivist/collaborator discovered through future archive fragments.
 - Added Prevention Dilemma and core philosophical questions.
 - Added public website prototype under `site/`.
+
+## 2026-06 — Recovered Recordings
+
+- AUD-000 `Boot Sequence` and AUD-001 `Ashes on My Tongue` added to canon and public archive.
+- Chloe's opening arc is now survival/investigation, not innocent awakening.
+- Isabella's `Keep moving` inheritance is foreshadowed through Ashes on My Tongue.
