@@ -10,7 +10,6 @@ This delta update adds the two new recovered recordings and updates the public M
 ## Updated public files
 
 - site/music.html
-- site/songs.html
 - site/index.html
 - site/assets/audio/boot-sequence.wav
 - site/assets/audio/ashes-on-my-tongue.wav

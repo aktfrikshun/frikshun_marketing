@@ -93,7 +93,7 @@ Affected Files:
 - site/index.html
 - site/archive.html
 - site/timeline.html
-- site/songs.html
+- site/music.html
 - site/musings.html
 
 ---
