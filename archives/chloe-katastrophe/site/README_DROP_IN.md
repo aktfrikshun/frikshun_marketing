@@ -2,7 +2,7 @@
 
 Drop the contents of this folder into:
 
-/archives/chloe-katastrophe-site/site
+archives/chloe-katastrophe/site
 
 New pages:
 - gallery.html
