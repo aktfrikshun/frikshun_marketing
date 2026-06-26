@@ -102,6 +102,28 @@ figcaption { color:var(--muted); line-height:1.55; padding:1rem; }
 .artifact img { width:100%; border-radius:18px; }
 audio { width:100%; margin:.75rem 0; }
 .note { font-size:.9rem; color:#9385aa; }
+.lyrics-panel {
+  margin-top: 1rem;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: rgba(0,0,0,.24);
+  padding: 1rem;
+}
+.lyrics-panel[hidden] { display: none; }
+.lyrics-panel h3 {
+  margin: 0 0 .75rem;
+  font-size: 1rem;
+  color: var(--gold);
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+.lyrics-panel pre {
+  margin: 0;
+  white-space: pre-wrap;
+  color: #e8dafa;
+  font-family: inherit;
+  line-height: 1.65;
+}
 .diary { display:grid; gap:1rem; }
 .question-list { display:grid; gap:1rem; }
 .artifact-code { overflow:auto; white-space:pre-wrap; background:rgba(0,0,0,.35); border:1px solid var(--line); border-radius:18px; padding:1rem; color:#e8dafa; line-height:1.6; }
