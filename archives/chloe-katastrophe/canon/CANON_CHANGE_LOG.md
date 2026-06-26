@@ -99,3 +99,15 @@ Major additions:
 - AUD-000 `Boot Sequence` and AUD-001 `Ashes on My Tongue` added to canon and public archive.
 - Chloe's opening arc is now survival/investigation, not innocent awakening.
 - Isabella's `Keep moving` inheritance is foreshadowed through Ashes on My Tongue.
+
+## 2026-06-26 - Public Identity Infrastructure
+
+Added `canon/PUBLIC_IDENTITY.md`.
+
+Confirmed:
+- Chloe's public archive email is `chloekatastrophe@gmail.com`.
+- TikTok launch is pending and will serve as the first public signal flare for music, art, log fragments, and artifact recovery.
+
+Updated:
+- `site/upload.html` now points artifact contributors to the public archive email while the form endpoint remains unfinished.
+- `site/js/artifact-upload.js` now falls back to email contact when no submission endpoint is configured.

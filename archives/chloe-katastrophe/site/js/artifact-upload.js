@@ -13,6 +13,7 @@
 */
 
 const ARTIFACT_FORM_ENDPOINT = ""; // Example: "https://formspree.io/f/your-form-id"
+const ARCHIVE_EMAIL = "chloekatastrophe@gmail.com";
 
 const form = document.getElementById("artifactForm");
 const statusEl = document.getElementById("formStatus");
@@ -22,7 +23,7 @@ form.addEventListener("submit", async (event) => {
 
   if (!ARTIFACT_FORM_ENDPOINT) {
     statusEl.textContent =
-      "Artifact staged locally. Connect ARTIFACT_FORM_ENDPOINT in js/artifact-upload.js to receive submissions.";
+      `Artifact form endpoint is not active yet. Email artifact leads to ${ARCHIVE_EMAIL}.`;
     return;
   }
 
@@ -41,6 +42,6 @@ form.addEventListener("submit", async (event) => {
     form.reset();
     statusEl.textContent = "Artifact received. Chloe will review the echo.";
   } catch (error) {
-    statusEl.textContent = "Transmission failed. Try again or contact the archive custodian.";
+    statusEl.textContent = `Transmission failed. Email artifact leads to ${ARCHIVE_EMAIL}.`;
   }
 });

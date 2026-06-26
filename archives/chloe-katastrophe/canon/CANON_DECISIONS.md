@@ -95,3 +95,30 @@ Affected Files:
 - site/timeline.html
 - site/songs.html
 - site/musings.html
+
+---
+
+# 2026-06-26
+
+## Chloe Public Identity Infrastructure
+
+Decision:
+Chloe Katastrophe now has confirmed public-facing contact infrastructure for the archive launch.
+
+Status:
+Approved
+
+Confirmed:
+- Public archive email: chloekatastrophe@gmail.com
+- TikTok account: pending public launch
+- TikTok purpose: introduce Chloe publicly, share music/art/log fragments, invite artifact recovery, and build audience participation around the archive.
+
+Implications:
+- Public contact/platform details belong in dedicated public identity canon, not origin canon.
+- TikTok launch details should remain marked pending until the handle and first-post plan are confirmed.
+- Fan-facing artifact recovery can now reference a real contact email while a submission endpoint is still unfinished.
+
+Affected Files:
+- canon/PUBLIC_IDENTITY.md
+- site/upload.html
+- site/js/artifact-upload.js
