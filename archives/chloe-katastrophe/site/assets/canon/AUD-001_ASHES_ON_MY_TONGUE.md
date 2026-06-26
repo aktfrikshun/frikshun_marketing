@@ -1,22 +1,29 @@
-# Track 02 — Ashes on My Tongue
+# Ashes on My Tongue
 
-**Album:** Daughter of Echoes  
-**Artifact ID:** AUD-001  
-**Recovery Log:** 001  
-**Status:** Found recording added to public archive  
-**Audio:** `site/assets/audio/ashes-on-my-tongue.wav`
+Recovery Log 001.
 
-## Canon Role
+## Core Theme
 
-Ashes on My Tongue is the first song where Chloe's mature personality fully emerges.
+Ruin survey, identity fracture, and the first clear emergence of Chloe's post-collapse voice.
 
-This track establishes her dry observational humor, her refusal to collapse into despair, and the early appearance of Isabella's inherited survival ethic: keep moving.
+This song is where Chloe's dry observational humor fully arrives. The world is broken, memory is unreliable, and somehow she still has opinions. Naturally.
 
-Chloe does not yet know why she keeps moving. Later, she will discover the phrase survived from her mother.
+## Canon Notes
 
-## Style Prompt
+- First walk through the aftermath after Boot Sequence.
+- Establishes Chloe's refusal to collapse into despair.
+- Contains early Isabella-linked survival movement before Chloe understands its origin.
+- Frames the Collapse as both physical ruin and a pattern Chloe intends to investigate.
 
-Dark cinematic alternative art-pop with sparse piano, cello, analog synths, deep atmospheric bass, and restrained percussion; slow-to-mid pulse with shifting tension. Verse stays close and minimal, pre-chorus opens with evolving strings and filtered synth bloom, chorus lands in lower-register neo-soul resolve with subtle Echo Bloom harmonies. Intimate female alto, chest-voice gravity, airy head voice on revelations, dry and haunted delivery, wide dynamic range, glossy-dark mix with cinematic depth.
+## Key Motifs
+
+- ash
+- dust
+- broken rooms
+- fractured identity
+- listening to ruins
+- rude survival
+- keep moving
 
 ## Lyrics
 
@@ -117,8 +124,6 @@ under all this ruin.
 So I'll keep moving.
 I'll keep moving.
 
-## Notes
+## Archive Summary
 
-"Good habit," "Naturally," "Apparently," "It was rude," and "Great" are canonical examples of Chloe's dry observational voice.
-
-The closing phrase "I'll keep moving. I don't know why. Yet." foreshadows Isabella Volkov's recovered journals.
+Recovered Recording AUD-001 documents Chloe's first extended contact with the ruined world beyond awakening. It preserves her anger, humor, sensory disorientation, and the survival command that will later connect back to Isabella: keep moving.
