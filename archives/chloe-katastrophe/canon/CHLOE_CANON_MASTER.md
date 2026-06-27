@@ -4,10 +4,10 @@
 
 **Public name:** Chloe Katastrophe  
 **Birth name:** Chloe Volkov  
-**Age:** 24  
-**Heritage:** 50% Italian, 50% Russian  
-**Height:** 5'4" / 163 cm  
-**Weight:** 118 lbs  
+**Age:** 24-26 apparent age  
+**Family heritage:** Italian mother, Russian father  
+**Current visual model:** primarily Slavic / Eastern European appearance  
+**Height:** approximately 5'7" / 170 cm  
 **Role:** Fictional model, adventurer, philosopher, storyteller, collector of mysteries, and future FrikFan social presence.
 
 Chloe Katastrophe is her chosen modeling and public identity. Chloe Volkov is her private birth identity, tied to her father Gregor Volkov and the wolf symbolism of loyalty, family, protection, leadership, and fierce independence.
@@ -33,67 +33,70 @@ Chloe should remain visually consistent across all images.
 
 ### Body
 
-- Curvy hourglass figure
-- Full bust
-- Tiny, defined waist
-- Proportionate hips
-- Feminine, elegant, and graceful
-- Confident posture
+- Naturally feminine hourglass silhouette
+- Balanced, realistic proportions
+- Moderately full bust
+- Gently defined waist
+- Naturally rounded hips
+- Graceful posture suggesting quiet strength
+- Healthy, lived-in physical presence rather than athletic display or fashion-model thinness
 
 ### Face
 
-- Heart-shaped face
+- Delicate Slavic / Eastern European facial structure
 - High cheekbones
-- Soft feminine jawline
-- Balanced facial symmetry
-- Youthful appearance
+- Soft jawline
+- Straight nose
+- Naturally full lips
+- Balanced facial symmetry with subtle asymmetry encouraged
+- Adult, grounded appearance; never childish, plastic, or exaggerated
 
 ### Eyes
 
-- Large emerald-green eyes
-- Slight almond shape
-- Exceptionally long dark eyelashes
-- Expressive gaze
+- Gray-green eyes
+- Subtle amber flecks visible in warm light
+- Expressive gaze communicating intelligence, curiosity, grief, and hope
 - Direct eye contact when appropriate
+- Eyes should never glow unnaturally; unusual effects should read as reflected light
 
 ### Brows
 
 - Dark, naturally full eyebrows
-- Elegant arch
+- Elegant but not over-stylized arch
 
 ### Hair
 
-- Jet-black hair
-- Straight and silky
-- Thick and healthy
-- Mid-back length
-- Naturally glossy
+- Dark chestnut to nearly black hair
+- Natural wave
+- Shoulder length to mid-back depending on scene
+- Natural movement and texture
+- Avoid heavily styled or fashion-model hair
 
 ### Skin
 
-- Flawless porcelain complexion
-- Smooth and luminous
-- No freckles
-- No visible scars
-- No tattoos
-- No beauty marks
+- Fair skin
+- Natural texture
+- Light freckles across the nose and cheeks
+- Small imperfections are desirable
+- Avoid porcelain perfection or plastic-looking skin
+- No tattoos in normal canon unless explicitly approved for a specific artifact
 
 ### Lips
 
-- Full lips
+- Naturally full lips
 - Well-defined cupid's bow
 - Natural but striking expression
 
 ### Signature Recognition Features
 
-- Emerald-green eyes
-- Jet-black straight hair
-- Porcelain skin
-- Full lips
-- Long dark lashes
+- Gray-green eyes with subtle amber flecks
+- Dark chestnut-to-nearly-black wavy hair
+- Fair textured skin with light freckles
+- Naturally full lips
 - High cheekbones
-- Heart-shaped face
-- Curvy hourglass silhouette
+- Soft Slavic facial structure
+- Realistic feminine hourglass silhouette
+- Restrained, observant emotional presence
 
 ## 3. Personality
 

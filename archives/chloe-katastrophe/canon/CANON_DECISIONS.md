@@ -122,3 +122,31 @@ Affected Files:
 - canon/PUBLIC_IDENTITY.md
 - site/upload.html
 - site/js/artifact-upload.js
+
+
+---
+
+# 2026-06-27
+
+## Chloe Model v1 Visual Identity Alignment
+
+Decision:
+Chloe Model v1 from FrikShun Image Studio is the current production visual identity canon for Chloe Katastrophe and supersedes the older marketing-archive visual text for new generation work.
+
+Status:
+Approved
+
+Implications:
+- Chloe's active generation appearance is now 24-26 apparent age, primarily Slavic / Eastern European, approximately 5'7", with gray-green eyes and subtle amber flecks, fair natural skin texture with light freckles, dark chestnut-to-nearly-black naturally wavy hair, and a realistic feminine hourglass silhouette.
+- Older emerald-eye, porcelain-skin, straight jet-black-hair, 5'4" / 118 lb descriptions remain archive history, not the current production target.
+- Narrative parentage remains Gregor Volkov as Chloe's Russian father and Isabella Volkov as Chloe's Italian mother.
+- Future image, video, album art, and social prompts should use Chloe Model v1 unless Allen explicitly requests the older reference-board style.
+
+Affected Files:
+- canon/CHLOE_CANON_MASTER.md
+- canon/CANON_CHANGE_LOG.md
+- canon/CANON_DECISIONS.md
+- visuals/VISUAL_REFERENCE_GUIDE.md
+- visuals/VISUAL_EVOLUTION_LOG.md
+- visuals/MODELING_CONCEPTS.md
+- prompts/image_prompts/CHLOE_BASELINE_IMAGE_PROMPT.md

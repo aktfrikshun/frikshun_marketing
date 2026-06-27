@@ -4,39 +4,41 @@
 
 This guide exists to preserve visual consistency across generated images, illustrations, photography concepts, model sheets, graphic novel panels, social posts, and FrikFan content.
 
-## Canonical Visual Reference Set A
+## Canonical Visual Reference Set
 
-The first approved character reference board generated in chat is **Canonical Visual Reference Set A**.
+**Chloe Model v1** is the current production-ready visual identity foundation for Chloe Katastrophe.
 
-Store the approved image in the Project Visual Reference Library and refer to it whenever generating new images of Chloe.
+Primary reference source:
+`/Users/allentaylor/src/frikshun_image_studio/studio/reference-packs/chloe_model_v1/MODEL_CARD.md`
 
-When creating future images, upload or attach the approved reference image whenever possible.
+Supporting canon source:
+`/Users/allentaylor/src/frikshun_image_studio/studio/chloe-model/appearance.md`
+
+The older Canonical Visual Reference Set A remains an archive artifact and visual-history marker, but Chloe Model v1 supersedes its text descriptions for new image, video, album art, and social generation.
 
 ## Visual Priority Rule
 
-When generating Chloe, approved visual references override text descriptions.
+When generating Chloe, use the latest approved Chloe Model v1 references unless Allen explicitly requests the older reference-board style. Approved current visual references override older text descriptions.
 
-If an image diverges from the approved reference by changing her face, eye shape, body proportions, skin tone, hair texture, or overall identity, treat it as non-canonical unless intentionally approved.
+If an image diverges from Chloe Model v1 by changing her face, eye shape, body proportions, skin tone, hair texture, posture, or overall identity, treat it as non-canonical unless intentionally approved.
 
 ## Locked Physical Features
 
-- Female, age 24
-- 50% Italian / 50% Russian heritage
-- 5'4", 118 lbs
-- Curvy hourglass figure
-- Full bust, tiny waist, proportionate hips
-- Flawless porcelain skin
-- Jet-black straight silky hair, mid-back length
-- Large emerald-green eyes
-- Exceptionally long dark lashes
-- Full lips with defined cupid's bow
-- Heart-shaped face
+- Adult woman, apparent age 24-26
+- Family heritage: Italian mother, Russian father
+- Visual appearance: primarily Slavic / Eastern European, believable rather than stereotyped
+- Approximately 5'7" / 170 cm
+- Naturally feminine hourglass silhouette
+- Moderately full bust, gently defined waist, naturally rounded hips
+- Balanced, realistic proportions
+- Fair skin with natural texture and light freckles across nose and cheeks
+- Dark chestnut-to-nearly-black naturally wavy hair, shoulder length to mid-back depending on scene
+- Gray-green eyes with subtle amber flecks in warm light
+- Naturally full lips with defined cupid's bow
+- Delicate Slavic facial structure
 - High cheekbones
-- Soft feminine jawline
-- No freckles
-- No tattoos
-- No visible scars
-- No beauty marks
+- Soft jawline
+- No tattoos in normal canon unless explicitly approved for a specific artifact
 
 ## Expression Rules
 
@@ -93,20 +95,21 @@ Create and preserve:
 
 Use this as a starting point for visual generations:
 
-Chloe Katastrophe, fictional 24-year-old Italian-Russian woman, porcelain skin, large emerald-green eyes with long dark lashes, jet-black straight silky mid-back hair, heart-shaped face, high cheekbones, soft feminine jawline, full lips with defined cupid's bow, curvy hourglass figure, full bust, tiny waist, proportionate hips, elegant confident posture, subtle mysterious smile, intelligent direct gaze, gothic high-fashion adventurer aesthetic, cinematic realistic photography, consistent facial identity, consistent proportions.
+Chloe Katastrophe, adult virtual woman with a recovered human past, primarily Slavic / Eastern European appearance, gray-green eyes with subtle amber flecks, fair skin with natural texture and light freckles, dark chestnut-to-nearly-black naturally wavy hair, delicate Slavic facial structure, high cheekbones, soft jawline, naturally full lips, realistic feminine hourglass silhouette, moderately full bust, gently defined waist, naturally rounded hips, graceful posture, quiet strength, restrained intelligent gaze, gothic adventurer sensibility, cinematic realistic photography, consistent facial identity, consistent proportions.
 
 ## Negative Drift Notes
 
 Reject images where Chloe becomes:
 
-- Blonde or brown-haired
-- Blue-eyed or brown-eyed
-- Freckled
-- Tattooed in normal canon
-- Too tall or too thin
-- Generic runway model
-- Childlike
+- Blonde, brightly dyed, or generic fashion hair
+- Blue, brown, or glowing eyes
+- Plastic or porcelain-perfect skin
+- Missing natural freckles and skin texture
+- Tattoos in normal canon unless specifically approved
+- Fashion-model thinness or exaggerated anatomy
+- Childlike or overly youthful features
+- Generic runway-model drift
 - Overly stylized beyond recognition
-- Frightened or passive
-- Visually inconsistent with Reference Set A
+- Frightened, passive, or emotionally empty posing
+- Visually inconsistent with Chloe Model v1
 

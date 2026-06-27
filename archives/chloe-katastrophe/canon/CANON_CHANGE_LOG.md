@@ -111,3 +111,23 @@ Confirmed:
 Updated:
 - `site/upload.html` now points artifact contributors to the public archive email while the form endpoint remains unfinished.
 - `site/js/artifact-upload.js` now falls back to email contact when no submission endpoint is configured.
+
+
+## 2026-06-27 - Chloe Model v1 Visual Canon Alignment
+
+Updated the marketing archive to match the approved FrikShun Image Studio Chloe Model v1 visual identity.
+
+Current active visual canon:
+
+- Apparent age 24-26
+- Family heritage remains Italian mother / Russian father
+- Visual appearance reads primarily Slavic / Eastern European
+- Approximately 5'7" / 170 cm
+- Gray-green eyes with subtle amber flecks
+- Fair skin with natural texture and light freckles
+- Dark chestnut-to-nearly-black naturally wavy hair
+- Delicate Slavic facial structure, high cheekbones, soft jawline, naturally full lips
+- Realistic feminine hourglass silhouette with moderately full bust, gently defined waist, and naturally rounded hips
+- Restrained, observant, emotionally lived-in presence
+
+The older emerald-eye, porcelain-skin, straight jet-black-hair, 5'4" / 118 lb visual language is retained as archive history but no longer serves as the active generation target unless specifically requested.

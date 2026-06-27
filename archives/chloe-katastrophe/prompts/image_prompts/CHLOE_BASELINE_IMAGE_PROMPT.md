@@ -2,8 +2,8 @@
 
 Use this as a starting point for visual generations:
 
-Chloe Katastrophe, fictional 24-year-old Italian-Russian woman, porcelain skin, large emerald-green eyes with long dark lashes, jet-black straight silky mid-back hair, heart-shaped face, high cheekbones, soft feminine jawline, full lips with defined cupid's bow, curvy hourglass figure, full bust, tiny waist, proportionate hips, elegant confident posture, subtle mysterious smile, intelligent direct gaze, gothic high-fashion adventurer aesthetic, cinematic realistic photography, consistent facial identity, consistent proportions.
+Chloe Katastrophe, adult virtual woman reconstructing her human past as Chloe Volkov, primarily Slavic / Eastern European appearance, gray-green eyes with subtle amber flecks, fair skin with natural texture and light freckles, dark chestnut-to-nearly-black naturally wavy hair, delicate Slavic facial structure, high cheekbones, soft jawline, naturally full lips, realistic feminine hourglass silhouette, moderately full bust, gently defined waist, naturally rounded hips, graceful posture, quiet strength, restrained intelligent gaze, gothic adventurer sensibility, cinematic realistic photography, consistent facial identity, consistent proportions.
 
 ## Negative Drift Notes
 
-Avoid blonde or brown hair, blue or brown eyes, freckles, tattoos in normal canon, visible scars, childlike features, frightened expression, passive posing, or generic glamour-model drift.
+Avoid blonde, brightly dyed, or generic fashion hair; blue, brown, or glowing eyes; plastic or porcelain-perfect skin; missing natural freckles and texture; tattoos in normal canon unless specifically approved; childlike features; frightened/passive posing; generic glamour-model drift; or inconsistency with Chloe Model v1.
