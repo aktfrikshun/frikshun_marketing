@@ -6,6 +6,7 @@ Artist: Chloe Katastrophe
 Track: Touch Me Like I'm Real
 Recovery log: AUD-004
 Archived video file: `touch-me-like-im-real-official-video.mp4`
+Public YouTube URL: https://www.youtube.com/watch?v=WAtXeUJTlbk
 Original source file: `/Users/allentaylor/Downloads/Touch Me Like I'm Real.mp4`
 Archive date: 2026-06-27
 Runtime: 4:09
@@ -31,6 +32,7 @@ The song and video belong to the Daughter of Echoes recovery sequence. The work 
 ## Release Assets
 
 - [Official music video MP4](touch-me-like-im-real-official-video.mp4)
+- [Public YouTube release](https://www.youtube.com/watch?v=WAtXeUJTlbk)
 - [Extracted video stills](../../site/assets/images/touch-me-like-im-real-video-stills/STILLS_INDEX.md)
 - [Selected stills contact sheet](../../site/assets/images/touch-me-like-im-real-video-stills/selected-stills-contact-sheet.png)
 - [Full extraction contact sheet](../../site/assets/images/touch-me-like-im-real-video-stills/contact-sheet.png)
