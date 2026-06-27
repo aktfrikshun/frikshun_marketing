@@ -19,6 +19,8 @@ It is not a full biography, origin record, or memory log.
 
 ## Public Platform Status
 
+- SoundCloud artist page: https://soundcloud.com/chloe-katastrophe
+- SoundCloud album page — Daughter of Echoes: https://soundcloud.com/chloe-katastrophe/sets/daughter-of-echoes
 - TikTok account: pending public launch
 - TikTok purpose: introduce Chloe to the public, release music/art/log fragments, invite artifact recovery, and build the audience around the archive.
 

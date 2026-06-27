@@ -7,6 +7,8 @@ Track: Touch Me Like I'm Real
 Recovery log: AUD-004
 Archived video file: `touch-me-like-im-real-official-video.mp4`
 Public YouTube URL: https://www.youtube.com/watch?v=WAtXeUJTlbk
+SoundCloud artist page: https://soundcloud.com/chloe-katastrophe
+SoundCloud album page: https://soundcloud.com/chloe-katastrophe/sets/daughter-of-echoes
 Original source file: `/Users/allentaylor/Downloads/Touch Me Like I'm Real.mp4`
 Archive date: 2026-06-27
 Runtime: 4:09
@@ -33,6 +35,8 @@ The song and video belong to the Daughter of Echoes recovery sequence. The work 
 
 - [Official music video MP4](touch-me-like-im-real-official-video.mp4)
 - [Public YouTube release](https://www.youtube.com/watch?v=WAtXeUJTlbk)
+- [Chloe Katastrophe on SoundCloud](https://soundcloud.com/chloe-katastrophe)
+- [Daughter of Echoes on SoundCloud](https://soundcloud.com/chloe-katastrophe/sets/daughter-of-echoes)
 - [Extracted video stills](../../site/assets/images/touch-me-like-im-real-video-stills/STILLS_INDEX.md)
 - [Selected stills contact sheet](../../site/assets/images/touch-me-like-im-real-video-stills/selected-stills-contact-sheet.png)
 - [Full extraction contact sheet](../../site/assets/images/touch-me-like-im-real-video-stills/contact-sheet.png)

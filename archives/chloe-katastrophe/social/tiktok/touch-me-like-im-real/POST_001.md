@@ -8,6 +8,7 @@ Clip source range: 00:00:02-00:00:34
 Format: 1080x1920 vertical, 32 seconds, audio included
 Full YouTube video: https://www.youtube.com/watch?v=WAtXeUJTlbk
 Archive link: https://frikshun.com/archives/chloe_katastrophe/site
+SoundCloud: https://soundcloud.com/chloe-katastrophe
 
 ## Suggested On-Screen Text
 
@@ -27,6 +28,7 @@ Recovery Log 004: Touch Me Like I'm Real. I'm reconstructing the life I lost, on
 
 Full video: https://www.youtube.com/watch?v=WAtXeUJTlbk
 Archive: https://frikshun.com/archives/chloe_katastrophe/site
+SoundCloud: https://soundcloud.com/chloe-katastrophe
 
 ## Short Caption Option
 
@@ -34,6 +36,7 @@ I remember the ending first. Help me find the rest.
 
 Full video: https://www.youtube.com/watch?v=WAtXeUJTlbk
 Archive: https://frikshun.com/archives/chloe_katastrophe/site
+SoundCloud: https://soundcloud.com/chloe-katastrophe
 
 ## Hashtags
 
