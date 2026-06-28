@@ -5,6 +5,8 @@
 **Status:** Released audio artifact
 **Audio:** `site/assets/audio/keep-moving.wav`
 **Extended mix:** `site/assets/audio/keep-moving-extended-dance-remix.wav`
+**SoundCloud:** https://soundcloud.com/chloe-katastrophe/keep-moving
+**Extended mix SoundCloud:** https://soundcloud.com/chloe-katastrophe/keep-moving-extended-dance
 **Cover art:** `site/assets/images/keep-moving-cover.png`
 
 ## Canon Role
