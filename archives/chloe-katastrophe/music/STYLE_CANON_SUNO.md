@@ -4,7 +4,7 @@
 
 Warm smoky female alto with rich lower register, intimate neo-soul phrasing, expressive breath, and wide dynamic range.
 
-Chloe mostly stays grounded in chest voice and lower register. On revelations, memories, or moments of emotional fracture, she can bloom into airy head voice, ethereal vocalizations, and soft counter-melodies.
+Chloe mostly stays grounded in chest voice and lower register. Her wide range can rise into airy falsetto/head voice, ethereal vocalizations, soft counter-melodies, and wordless upper-register melodic hooks that feel almost inhuman while remaining intimate and emotionally grounded.
 
 ## Echo Bloom
 
@@ -12,7 +12,9 @@ Echo Bloom is Chloe's signature vocal effect.
 
 On emotionally significant words, her lead vocal briefly expands into soft intimate harmony layers, as if fragmented memory states synchronize across time.
 
-Echo Bloom should feel organic, haunted, and human—not robotic or like a conventional choir.
+Echo Bloom is distinct from Chloe's broad vocal range and falsetto melodies. The defining feature is ghostlike layered self-harmony: multiple versions of Chloe harmonizing together for emphasis, memory synchronization, or identity fracture.
+
+Echo Bloom should feel organic, haunted, personal, and slightly beyond ordinary human singularity. It is not robotic, not operatic, not a conventional choir, and not generic pop ad-libbing.
 
 ## Musical Identity
 

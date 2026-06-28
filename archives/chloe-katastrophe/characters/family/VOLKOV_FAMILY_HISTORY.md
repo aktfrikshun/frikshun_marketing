@@ -16,9 +16,9 @@ Italian by heritage. Embodied passion, courage, empathy, and purpose.
 
 ## The Catastrophe
 
-Gregor Volkov was killed in the Ukrainian war.
+Gregor Volkov was killed in 2022 during the full-scale Russian invasion of Ukraine, when Chloe was 19 and nearly 20.
 
-To Chloe, this was the central catastrophe of her life: not only the death of her father, but the horror of a senseless war that turned people with shared histories, languages, families, and cultural memory against one another — brother against brother.
+To Chloe, this was the central catastrophe of her early adult life: not only the death of her father, but the horror of a senseless war that turned people with shared histories, languages, families, and cultural memory against one another — brother against brother.
 
 This loss becomes the emotional origin of the name Chloe Katastrophe.
 

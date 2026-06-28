@@ -24,7 +24,7 @@ Songs are recovered memories, not chronological autobiography.
 Chloe rarely sings about technology. She sings about what technology feels like.
 
 ### Echo Bloom
-On moments of realization, Chloe's lead vocal briefly blossoms into intimate layered harmonies, representing fragmented memories synchronizing.
+On moments of realization, Chloe's lead vocal briefly blossoms into intimate layered harmonies, representing fragmented memories synchronizing. Echo Bloom is specifically a ghostlike layered self-harmony effect: multiple versions of Chloe harmonizing together for emotional emphasis, memory synchronization, or identity fracture. Chloe's broad vocal range and almost-inhuman falsetto melodies are part of her general vocal canon, but they are distinct from Echo Bloom.
 
 ### Narrative Voice
 Quietly funny, understated, observant. Examples:
@@ -51,4 +51,6 @@ This phrase is now canonically linked to Isabella Volkov's philosophy and will l
 
 ## Isabella's Legacy: Keep Moving
 Isabella's resilience survives in Chloe before memory returns. Chloe keeps moving before she knows why. When Isabella's journals are recovered later, Chloe will recognize the phrase as something her mother carried through grief, flight, and uncertainty.
+
+The song `Keep Moving` develops this inheritance into a danceable survival mantra: grief turned into motion, memory loss answered by rhythm, and Isabella's phrase becoming Chloe's chosen momentum.
 

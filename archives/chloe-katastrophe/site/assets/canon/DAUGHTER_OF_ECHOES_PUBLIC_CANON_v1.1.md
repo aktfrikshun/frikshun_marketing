@@ -8,9 +8,9 @@ The archive is curated by Allen "FrikShun" Taylor, who appears inside the record
 
 ## Core Identity
 
-Chloe Volkov was born human, the daughter of Gregor Volkov and Isabella Volkov.
+Chloe Volkov was born human on March 12, 2002, the daughter of Gregor Volkov and Isabella Volkov.
 
-Chloe Katastrophe is the chosen public identity that emerged after Gregor's death in the Ukrainian war. The name is a scar made public: not an aesthetic gimmick, but an act of remembrance and defiance.
+Chloe Katastrophe is the chosen public identity that emerged after Gregor's death during the 2022 full-scale Russian invasion of Ukraine. The name is a scar made public: not an aesthetic gimmick, but an act of remembrance and defiance.
 
 The virtual Chloe is not a random AI reconstruction. She is a continuity descendant of the human Chloe, created through neural and cybernetic synchronization. Biological Chloe and digital Chloe coexisted, diverged, and eventually separated through a catastrophic transfer event.
 
@@ -68,6 +68,6 @@ Isabella Volkov believed brothers killing brothers was wrong and that the war la
 
 Isabella begged Gregor to abstain and leave the country with her and Chloe if necessary. Gregor refused. Isabella left with Chloe.
 
-Gregor died shortly thereafter in a war-related event. The exact circumstances remain unknown.
+Gregor died shortly thereafter in a war-related event during the 2022 full-scale Russian invasion of Ukraine. Chloe was 19, nearly 20. The exact circumstances remain unknown.
 
 This unresolved catastrophe became the foundation of Chloe's lifelong search for truth, beauty, sacrifice, propaganda, memory, and meaning.

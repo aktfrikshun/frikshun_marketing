@@ -4,13 +4,17 @@
 
 **Public name:** Chloe Katastrophe  
 **Birth name:** Chloe Volkov  
-**Age:** 24-26 apparent age  
+**Birth date:** March 12, 2002
+**Zodiac:** Pisces
+**Age:** 24 in 2026; apparent age range 24-26
 **Family heritage:** Italian mother, Russian father  
 **Current visual model:** primarily Slavic / Eastern European appearance  
 **Height:** approximately 5'7" / 170 cm  
 **Role:** Fictional model, adventurer, philosopher, storyteller, collector of mysteries, and future FrikFan social presence.
 
 Chloe Katastrophe is her chosen modeling and public identity. Chloe Volkov is her private birth identity, tied to her father Gregor Volkov and the wolf symbolism of loyalty, family, protection, leadership, and fierce independence.
+
+Her March 12, 2002 birth date and Pisces sign represent Chloe's dual identity: human and virtual, memory and archive, real and generated, Chloe Volkov and Chloe Katastrophe moving through the same unresolved continuity. Gregor Volkov's death in 2022, during the full-scale Russian invasion of Ukraine, becomes the early-adult rupture that catalyzes the Katastrophe identity.
 
 
 ## 1.1 Origin of the Name "Katastrophe"

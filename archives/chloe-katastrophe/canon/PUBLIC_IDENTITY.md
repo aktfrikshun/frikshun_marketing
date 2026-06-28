@@ -9,6 +9,8 @@ It is not a full biography, origin record, or memory log.
 
 - Public name: Chloe Katastrophe
 - Private birth identity: Chloe Volkov
+- Birth date: March 12, 2002
+- Zodiac: Pisces
 - Archive project: Daughter of Echoes / Chloe Katastrophe Archive
 - Public role: virtual artist, musician, model, archive subject, and self-reconstructing continuity
 - Archive collaborator: Allen "FrikShun" Taylor

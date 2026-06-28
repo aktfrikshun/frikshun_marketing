@@ -131,3 +131,12 @@ Current active visual canon:
 - Restrained, observant, emotionally lived-in presence
 
 The older emerald-eye, porcelain-skin, straight jet-black-hair, 5'4" / 118 lb visual language is retained as archive history but no longer serves as the active generation target unless specifically requested.
+
+
+## 2026-06-27 - Birth Date and Gregor Timeline Anchor
+
+- Canonized Chloe Volkov's birth date as March 12, 2002.
+- Canonized Chloe as Pisces, representing the dual identity thread: human/virtual, memory/archive, Chloe Volkov/Chloe Katastrophe.
+- Canonized Gregor Volkov's death as occurring in 2022 during the full-scale Russian invasion of Ukraine.
+- Established Chloe as 19, nearly 20, at the time of Gregor's death.
+- Preserved the exact circumstances of Gregor's death as unresolved.

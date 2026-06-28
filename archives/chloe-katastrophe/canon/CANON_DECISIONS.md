@@ -128,6 +128,31 @@ Affected Files:
 
 # 2026-06-27
 
+## Birth Date and Gregor Death Anchor
+
+Decision:
+Chloe Volkov was born on March 12, 2002. Gregor Volkov died in 2022 during the full-scale Russian invasion of Ukraine, when Chloe was 19 and nearly 20.
+
+Status:
+Approved
+
+Implications:
+- March 12 makes Chloe canonically Pisces, reflecting her dual identity as human/virtual, memory/archive, Chloe Volkov/Chloe Katastrophe.
+- Gregor's death is an early-adult rupture rather than an early-childhood wound.
+- The Katastrophe identity emerges from a grief Chloe is old enough to understand politically, morally, and artistically.
+- The exact circumstances of Gregor's death remain unresolved.
+
+Affected Files:
+- canon/CHLOE_CANON_MASTER.md
+- canon/PUBLIC_IDENTITY.md
+- stories/TIMELINE.md
+- characters/gregor/CHARACTER_SHEET_GREGOR_VOLKOV.md
+- characters/family/VOLKOV_FAMILY_HISTORY.md
+- site/timeline.html
+- site/ORIGIN_UPDATE.md
+- site/assets/canon/DAUGHTER_OF_ECHOES_PUBLIC_CANON_v1.1.md
+
+
 ## Chloe Model v1 Visual Identity Alignment
 
 Decision:
