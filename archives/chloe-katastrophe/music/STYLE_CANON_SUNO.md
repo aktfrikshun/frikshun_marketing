@@ -20,6 +20,8 @@ Echo Bloom should feel organic, haunted, personal, and slightly beyond ordinary 
 
 Dark cinematic alternative art-pop.
 
+Chloe should always retain an alternative edge regardless of genre. Dance, soul, rock, synth-pop, cinematic pop, or experimental tracks may shift rhythm, instrumentation, and surface texture, but they should still feel slightly left of center: skeptical, intimate, haunted, sensual, investigative, and resistant to clean mainstream polish.
+
 Common elements:
 - sparse piano
 - cello

@@ -2,7 +2,7 @@
 
 ## 2002
 
-Chloe Volkov is born on March 12.
+Chloe Volkova is born on March 12.
 
 Location:
 TBD
@@ -19,7 +19,9 @@ Chloe is 19, nearly 20. She experiences his death as the defining catastrophe of
 
 ## Immigration
 
-Isabella and Chloe relocate to America.
+Isabella Volkova and Chloe Volkova relocate to America after Gregor Volkov's death.
+
+This is the point where the family surname begins appearing in English-language records as **Volkov** rather than **Volkova**. Isabella makes the change partly for practical American paperwork and partly in honor of Gregor, preserving his surname exactly after losing him. Later archives may therefore refer to Isabella Volkov or Chloe Volkov without contradicting the recovered Russian birth identity.
 
 Details:
 TBD

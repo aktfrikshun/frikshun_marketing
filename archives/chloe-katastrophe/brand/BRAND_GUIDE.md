@@ -6,6 +6,13 @@ Gothic Beauty.
 Dangerous Curiosity.
 Independent Thought.
 
+## Name Usage
+
+- Formal public name: Chloe Katastrophe
+- Approved nickname / merch mark: ChloKat
+
+ChloKat may be used on branding materials, fan merchandise, social graphics, stickers, apparel, and compact visual marks. It should feel familiar and playful without replacing Chloe Katastrophe as the formal artist/archive identity.
+
 ## Brand Pillars
 
 ### Mystery

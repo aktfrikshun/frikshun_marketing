@@ -10,6 +10,10 @@ Fans should feel they are following Chloe's world, not just viewing unrelated mo
 
 Gothic beauty. Dangerous curiosity. Independent thought.
 
+## Fan-Facing Name Use
+
+ChloKat is an approved nickname and merch-friendly brand mark for Chloe Katastrophe. Fans may encounter it on apparel, stickers, social graphics, and informal community materials, while Chloe Katastrophe remains the formal public identity.
+
 ## Fan Appeal
 
 Fans may initially follow for:
@@ -86,5 +90,4 @@ She should ask questions that make fans think.
 
 ## Possible Bio
 
-Chloe Katastrophe is a fictional model, explorer, and collector of mysteries. She finds beauty in ruins, truth in uncomfortable places, and questions in almost everything. Born Chloe Volkov, she carries the wolf legacy of her father and the fire of her mother into every dark hallway, forgotten city, and dangerous idea she explores.
-
+Chloe Katastrophe is a fictional model, explorer, and collector of mysteries. She finds beauty in ruins, truth in uncomfortable places, and questions in almost everything. Born Chloe Volkova, with Chloe Volkov preserved as an Americanized archive variant, she carries the wolf legacy of her father and the fire of her mother into every dark hallway, forgotten city, and dangerous idea she explores.

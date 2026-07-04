@@ -1,6 +1,6 @@
 # Chloe Katastrophe Character Roster
 
-## Chloe Volkov / Chloe Katastrophe
+## Chloe Volkova / Chloe Volkov / Chloe Katastrophe
 
 Role:
 Protagonist

@@ -28,7 +28,7 @@ https://soundcloud.com/chloe-katastrophe/keep-moving
 Extended dance remix:
 https://soundcloud.com/chloe-katastrophe/keep-moving-extended-dance
 
-If you find fragments of Chloe Volkov / Chloe Katastrophe, send them back to the archive.
+If you find fragments of Chloe Volkova / Chloe Volkov / Chloe Katastrophe, send them back to the archive.
 
 https://frikshun.com/archives/chloe_katastrophe/site
 

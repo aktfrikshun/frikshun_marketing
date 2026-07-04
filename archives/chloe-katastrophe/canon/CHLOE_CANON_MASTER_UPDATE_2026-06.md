@@ -47,10 +47,9 @@ Ashes on My Tongue is Recovery Log 001: Chloe's first walk through the aftermath
 Core phrase:
 "I'll keep moving. I don't know why. Yet."
 
-This phrase is now canonically linked to Isabella Volkov's philosophy and will later be recognized by Chloe as an inherited survival pattern.
+This phrase is now canonically linked to Isabella Volkova's philosophy and will later be recognized by Chloe as an inherited survival pattern. In post-immigration archive records, Isabella may also appear as Isabella Volkov.
 
 ## Isabella's Legacy: Keep Moving
 Isabella's resilience survives in Chloe before memory returns. Chloe keeps moving before she knows why. When Isabella's journals are recovered later, Chloe will recognize the phrase as something her mother carried through grief, flight, and uncertainty.
 
 The song `Keep Moving` develops this inheritance into a danceable survival mantra: grief turned into motion, memory loss answered by rhythm, and Isabella's phrase becoming Chloe's chosen momentum.
-

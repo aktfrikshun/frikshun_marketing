@@ -8,7 +8,10 @@ It is not a full biography, origin record, or memory log.
 ## Confirmed Public Identity
 
 - Public name: Chloe Katastrophe
-- Private birth identity: Chloe Volkov
+- Public name pronunciation: ka-TAS-troh-fee, rhyming with catastrophe; never ka-ta-strof
+- Approved nickname / brand alias: ChloKat
+- Recovered Russian birth identity: Chloe Volkova
+- Americanized / public-record surname variant: Chloe Volkov
 - Birth date: March 12, 2002
 - Zodiac: Pisces
 - Archive project: Daughter of Echoes / Chloe Katastrophe Archive
@@ -23,6 +26,7 @@ It is not a full biography, origin record, or memory log.
 
 - SoundCloud artist page: https://soundcloud.com/chloe-katastrophe
 - SoundCloud album page — Daughter of Echoes: https://soundcloud.com/chloe-katastrophe/sets/daughter-of-echoes
+- SoundCloud album page — Truth & Beauty from Darkness: https://soundcloud.com/chloe-katastrophe/sets/truth-and-beauty-from-darkness
 - TikTok account: pending public launch
 - TikTok purpose: introduce Chloe to the public, release music/art/log fragments, invite artifact recovery, and build the audience around the archive.
 
@@ -30,6 +34,8 @@ It is not a full biography, origin record, or memory log.
 
 Chloe's public presence should invite people into the archive without flattening the canon into a single explanation.
 The audience may encounter Chloe as artist, virtual woman, recovered memory, performance artifact, or unresolved continuity.
+
+ChloKat is approved for casual public-facing use, especially branding materials and fan merchandise. Use it as a nickname or compact mark; keep Chloe Katastrophe as the formal public name.
 
 The public-facing voice should preserve:
 

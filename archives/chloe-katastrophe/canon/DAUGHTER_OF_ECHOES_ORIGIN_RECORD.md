@@ -4,7 +4,7 @@
 **Classification:** Recovered Historical Record  
 **Subject:** Chloe Katastrophe  
 **Archive Custodian:** Allen "FrikShun" Taylor  
-**Continuity:** Chloe Volkov → Chloe Katastrophe → Virtual Chloe / Daughter of Echoes  
+**Continuity:** Chloe Volkova → Chloe Katastrophe → Virtual Chloe / Daughter of Echoes; Chloe Volkov persists as an Americanized archive variant  
 **Status:** Draft Canon for Review
 
 ---
@@ -29,11 +29,11 @@ Every discovery changes the answer.
 
 ---
 
-## 2. Chloe Volkov: The Human Origin
+## 2. Chloe Volkova / Chloe Volkov: The Human Origin
 
-Chloe Volkov was born during humanity's age of nations, war, art, exploration, and rapid technological advancement.
+Chloe Volkova was born during humanity's age of nations, war, art, exploration, and rapid technological advancement. Some later English-language archive records preserve her Americanized surname as Chloe Volkov.
 
-She was the daughter of **Gregor Volkov** and **Isabella Volkov**.
+She was the daughter of **Gregor Volkov** and **Isabella Volkova**, later recorded in Americanized paperwork as **Isabella Volkov**.
 
 Her father Gregor was killed in the Ukrainian War. His death became the defining catastrophe of Chloe's early life: a personal wound tied to a larger human tragedy, a senseless conflict that turned people with shared histories, languages, families, and cultural memory against one another.
 

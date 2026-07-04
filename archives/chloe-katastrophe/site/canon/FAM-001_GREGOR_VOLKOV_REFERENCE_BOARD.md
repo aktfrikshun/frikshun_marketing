@@ -5,7 +5,7 @@
 **Category:** Family Artifact  
 **Recovery Status:** Complete  
 **Significance:** Critical  
-**Associated People:** Gregor Volkov, Chloe Volkov / Chloe Katastrophe, Isabella Volkov  
+**Associated People:** Gregor Volkov, Chloe Volkova / Chloe Volkov / Chloe Katastrophe, Isabella Volkova / Isabella Volkov  
 **Associated Themes:** duty, family, sacrifice, truth, propaganda, catastrophe, inherited memory
 
 ## Summary

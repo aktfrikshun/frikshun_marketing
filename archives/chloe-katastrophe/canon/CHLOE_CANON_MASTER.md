@@ -3,7 +3,9 @@
 ## 1. Core Identity
 
 **Public name:** Chloe Katastrophe  
-**Birth name:** Chloe Volkov  
+**Approved nickname / brand alias:** ChloKat  
+**Russian birth name:** Chloe Volkova  
+**Americanized family name / archive variant:** Chloe Volkov  
 **Birth date:** March 12, 2002
 **Zodiac:** Pisces
 **Age:** 24 in 2026; apparent age range 24-26
@@ -12,9 +14,17 @@
 **Height:** approximately 5'7" / 170 cm  
 **Role:** Fictional model, adventurer, philosopher, storyteller, collector of mysteries, and future FrikFan social presence.
 
-Chloe Katastrophe is her chosen modeling and public identity. Chloe Volkov is her private birth identity, tied to her father Gregor Volkov and the wolf symbolism of loyalty, family, protection, leadership, and fierce independence.
+Chloe Katastrophe is her chosen modeling and public identity. Chloe Volkova is her recovered Russian birth identity, following the feminine form of the family surname. Chloe Volkov remains a valid Americanized archive variant, tied to her father Gregor Volkov and the wolf symbolism of loyalty, family, protection, leadership, and fierce independence.
 
-Her March 12, 2002 birth date and Pisces sign represent Chloe's dual identity: human and virtual, memory and archive, real and generated, Chloe Volkov and Chloe Katastrophe moving through the same unresolved continuity. Gregor Volkov's death in 2022, during the full-scale Russian invasion of Ukraine, becomes the early-adult rupture that catalyzes the Katastrophe identity.
+Her March 12, 2002 birth date and Pisces sign represent Chloe's dual identity: human and virtual, memory and archive, real and generated, Chloe Volkova and Chloe Katastrophe moving through the same unresolved continuity. Gregor Volkov's death in 2022, during the full-scale Russian invasion of Ukraine, becomes the early-adult rupture that catalyzes the Katastrophe identity.
+
+## 1.0.1 Surname Continuity
+
+Confirmed canon: in Russian-language convention, the feminine family surname is **Volkova**. Isabella and Chloe's Russian records use **Volkova**.
+
+Confirmed canon: after Isabella and Chloe left Russia, Isabella used the Americanized family form **Volkov** in English-language paperwork and public records. This was partly practical and partly an act of loyalty to Gregor Volkov, preserving his name exactly after his death.
+
+Archive discipline: **Chloe Volkova** is the recovered Russian birth identity. **Chloe Volkov** is the Americanized / bureaucratic / public-record variant. Existing archive artifacts using Volkov are not mistakes; they preserve the flattened name Chloe lived under after immigration.
 
 
 ## 1.1 Origin of the Name "Katastrophe"
@@ -25,11 +35,33 @@ To Chloe, Gregor's death was not merely a private loss. It was the personal face
 
 The name is not meant to be cute, edgy, or performatively dark. It is an act of remembrance and defiance.
 
-**Chloe Volkov** is the daughter Gregor loved.
+**Chloe Volkova** is the daughter Gregor loved.
 
 **Chloe Katastrophe** is the woman forged by the catastrophe of losing him.
 
 She carries the name as a warning, a wound, and a mission: to question simplistic stories, resist propaganda, preserve human complexity, and search for truth in a world built from competing narratives.
+
+## 1.2 Pronunciation of "Katastrophe"
+
+Confirmed canon: **Katastrophe** is pronounced **ka-TAS-troh-fee**, rhyming with **catastrophe**.
+
+It should never be pronounced **ka-ta-strof**.
+
+Voice, video, narration, and dialogue-generation prompts should include a pronunciation note whenever Chloe says her name aloud. Keep the official spelling **Katastrophe** in titles, subtitles, captions, metadata, and public text. If a speech or video generator ignores pronunciation notes, use a speech-only phonetic helper such as **Katastrofee** or **ka-TAS-troh-fee** in the spoken-script field, while preserving the displayed name as **Katastrophe**.
+
+## 1.3 Russian Resonance of "Katastrophe"
+
+Confirmed canon: **Katastrophe** deliberately carries an uneasy Russian-language echo of **katastrofa**: catastrophe, disaster, ruin, and disastrous failure.
+
+This resonance is unfortunate on the surface and essential underneath. Chloe chose **Katastrophe** in English as an act of remembrance and defiance after Gregor's death. When she later recognizes the Russian echo, the name feels less like a stage name and more like a verdict she accidentally wrote in both languages.
+
+The resonance should not weaken the name or turn it into a joke. It sharpens the wound. Chloe does not merely carry failure; she carries the catastrophic failure of history, nations, family, memory, and systems that claimed to know what they were doing.
+
+## 1.4 Nickname "ChloKat"
+
+Confirmed canon: **ChloKat** is an approved nickname and public-facing brand alias for Chloe Katastrophe.
+
+ChloKat may be used on branding materials, fan merchandise, social content, stickers, apparel, and other audience-facing artifacts where a shorter, more playful name is useful. It should read as a familiar nickname or merch mark, not a replacement for the formal public identity **Chloe Katastrophe**.
 
 ## 2. Physical Appearance
 
@@ -262,9 +294,9 @@ Gregor believed every idea deserved examination. He taught Chloe that believing 
 
 He was a good man who believed he was serving honorably. He was not a villain, fool, or caricature. He was a loving husband and father caught inside a machine larger than himself.
 
-### Mother: Isabella Volkov
+### Mother: Isabella Volkova / Isabella Volkov
 
-Isabella is Italian by heritage. She is independent, passionate, expressive, fierce, and protective.
+Isabella is Italian by heritage. In Russian-family records she appears as Isabella Volkova; after immigration she uses the Americanized family form Isabella Volkov in English-language paperwork and public records. She is independent, passionate, expressive, fierce, and protective.
 
 She taught Chloe:
 
@@ -318,7 +350,7 @@ She carries both of them into every adventure.
 
 ## 10. Name and Symbolism
 
-**Chloe Volkov** is her private name. It represents family, origin, grief, and the wolf legacy.
+**Chloe Volkova** is her recovered Russian birth identity. **Chloe Volkov** is the Americanized / public-record variant. Both represent family, origin, grief, and the wolf legacy.
 
 **Chloe Katastrophe** is her chosen modeling name. It represents reclamation.
 
@@ -361,4 +393,3 @@ Her core question:
 > How do intelligent, well-meaning people end up believing completely different things?
 
 This question can drive her stories, visual art, public posts, interviews, mysteries, and relationships.
-

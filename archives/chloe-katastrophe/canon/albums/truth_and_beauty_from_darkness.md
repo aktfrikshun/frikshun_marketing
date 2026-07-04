@@ -1,6 +1,12 @@
 # Album II — Truth & Beauty from Darkness
 
-Status: Planned / Canon Direction
+Status: Active / Canon Direction
+
+SoundCloud:
+https://soundcloud.com/chloe-katastrophe/sets/truth-and-beauty-from-darkness
+
+Cover art:
+`site/assets/images/truth-and-beauty-from-darkness-cover-v1.png`
 
 ## Concept
 
@@ -87,7 +93,7 @@ The songs should still sound like Chloe, but Human Chloe has a body, a camera, a
 5. **Ghost Town Summer** — Bright, danceable track in a forgotten place.
 6. **Postcards Never Sent** — Travel notes and unsent messages.
 7. **The Observatory** — Wonder, science, and something missing from the records.
-8. **Gregor's Shadow** — Human Chloe's father as absence and compass.
+8. **Wolf** — Gregor's wolf legacy as grief, discipline, protection, and inquiry.
 9. **Missing Frames** — Photographs and records begin disappearing.
 10. **No Return Address** — Someone may be watching, or history itself may be resisting.
 11. **Vanishing Point** — The truth starts bending around her.
