@@ -33,7 +33,47 @@ Future Chloe images should remain recognizable as the same person.
 
 # Approved Portraits
 
-None yet.
+## Chloe Artist Profile - Silver Wolf Necklace
+
+File:
+`visuals/photo_archive/artist_profiles/chloe-artist-profile-silver-wolf-necklace-2026-07-05.png`
+
+Status:
+APPROVED
+
+Purpose:
+Primary candidate for DistroKid and streaming-service artist profile images.
+
+Notes:
+Square portrait based on Chloe Model v1 identity, with the silver wolf necklace visible as the Volkov family symbol.
+
+## Chloe Artist Profile - Model v1
+
+File:
+`visuals/photo_archive/artist_profiles/chloe-artist-profile-model-v1-2026-07-05.png`
+
+Status:
+APPROVED
+
+Purpose:
+Alternate square artist profile portrait.
+
+Notes:
+Generated after correcting toward current Chloe Model v1 identity: gray-green eyes, fair freckled skin, and dark chestnut-to-nearly-black natural waves.
+
+## Chloe Artist Profile - Archive Glow
+
+File:
+`visuals/photo_archive/artist_profiles/chloe-artist-profile-archive-glow-2026-07-05.png`
+
+Status:
+EXPERIMENTAL
+
+Purpose:
+Early DistroKid artist-profile exploration.
+
+Notes:
+Atmospheric and usable as a mood reference, but less aligned with current Chloe Model v1 than the later portraits.
 
 # Approved Photoshoots
 
