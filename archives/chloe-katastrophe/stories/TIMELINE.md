@@ -1,8 +1,8 @@
 # Chloe Katastrophe Timeline
 
-## Year 0
+## 2002
 
-Chloe Volkov is born.
+Chloe Volkova is born on March 12.
 
 Location:
 TBD
@@ -11,15 +11,17 @@ TBD
 
 Raised by Gregor and Isabella.
 
-## Ukraine War
+## 2022 — Full-Scale Invasion of Ukraine
 
-Gregor Volkov is killed in the Ukrainian war.
+Gregor Volkov is killed in a war-related event during the full-scale Russian invasion of Ukraine.
 
-Chloe experiences his death as the defining catastrophe of her life: a senseless war that turned people with shared histories, languages, families, and cultural memory against one another — brother against brother.
+Chloe is 19, nearly 20. She experiences his death as the defining catastrophe of her life: a senseless war that turned people with shared histories, languages, families, and cultural memory against one another — brother against brother.
 
 ## Immigration
 
-Isabella and Chloe relocate to America.
+Isabella Volkova and Chloe Volkova relocate to America after Gregor Volkov's death.
+
+This is the point where the family surname begins appearing in English-language records as **Volkov** rather than **Volkova**. Isabella makes the change partly for practical American paperwork and partly in honor of Gregor, preserving his surname exactly after losing him. Later archives may therefore refer to Isabella Volkov or Chloe Volkov without contradicting the recovered Russian birth identity.
 
 Details:
 TBD
@@ -34,9 +36,9 @@ Begins modeling and adopts the public name Chloe Katastrophe.
 
 The name is chosen in response to Gregor Volkov's death. It is an act of remembrance and defiance, not a shallow modeling alias.
 
-## Age 24
+## 2026 / Age 24
 
-Current canon timeline.
+Current public archive timeline.
 
 Roles:
 Model, explorer, storyteller, collector of mysteries.

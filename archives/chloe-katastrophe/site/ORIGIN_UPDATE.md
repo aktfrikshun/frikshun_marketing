@@ -14,9 +14,9 @@ Not because he loved them less, but because he believed responsibility demanded 
 
 Soon afterward, Isabella left the country with Chloe. Gregor remained behind.
 
-Shortly thereafter, Gregor died in a war-related event. The exact circumstances remain unresolved in the archive.
+Shortly thereafter, in 2022, Gregor died in a war-related event during the full-scale Russian invasion of Ukraine. The exact circumstances remain unresolved in the archive.
 
-His death became the defining catastrophe of Chloe's life.
+His death became the defining catastrophe of Chloe's early adult life. Chloe was 19, nearly 20.
 
 ## Chloe Katastrophe
 

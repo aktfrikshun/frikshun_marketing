@@ -1,5 +1,44 @@
 # Chloe Katastrophe Canon Change Log
 
+## 2026-07-03 - ChloKat Nickname and Brand Alias Approved
+
+Added public nickname / brand alias canon:
+
+- ChloKat is an approved nickname for Chloe Katastrophe.
+- ChloKat may be used on branding materials, fan merchandise, social graphics, stickers, apparel, and compact visual marks.
+- ChloKat should remain a familiar nickname or merch mark, not a replacement for the formal public identity Chloe Katastrophe.
+- Image-studio / generation prompts may use ChloKat for casual public-facing branding and merch assets.
+
+## 2026-06-29 - Katastrophe Russian Resonance Canonized
+
+Added Russian-language resonance canon:
+
+- Katastrophe intentionally carries an uneasy echo of Russian `katastrofa`: catastrophe, disaster, ruin, and disastrous failure.
+- Chloe chose the name in English as remembrance and defiance after Gregor's death.
+- Later recognition of the Russian echo makes the name feel less like branding and more like an accidental verdict written in both languages.
+- This does not weaken the name or make it comic; it sharpens the wound.
+- The resonance should be used for serious story, narration, interviews, and recovered-memory material tied to language, Russia, Gregor, war, and catastrophic historical failure.
+
+## 2026-06-29 - Katastrophe Pronunciation Clarified
+
+Added pronunciation canon:
+
+- Katastrophe is pronounced ka-TAS-troh-fee, rhyming with catastrophe.
+- It should never be pronounced ka-ta-strof.
+- Voice, video, narration, and dialogue-generation prompts should include this pronunciation hint whenever Chloe says her public name aloud.
+- Official spelling remains Katastrophe in titles, subtitles, captions, metadata, and public text.
+- If a generator ignores pronunciation notes, speech-only script fields may use a phonetic helper such as Katastrofee or ka-TAS-troh-fee while displayed text remains Katastrophe.
+
+## 2026-06-29 - Volkova / Volkov Surname Continuity Clarified
+
+Added surname continuity canon:
+
+- Chloe's recovered Russian birth identity is Chloe Volkova.
+- Isabella and Chloe's Russian-family records use the feminine surname form Volkova.
+- After immigration, Isabella uses the Americanized family form Volkov in English-language paperwork and public records.
+- The Americanized form is partly practical and partly an act of loyalty to Gregor Volkov, preserving his surname exactly after his death.
+- Existing archive artifacts using Chloe Volkov or Isabella Volkov remain valid as Americanized / bureaucratic / public-record variants rather than errors.
+- Timeline immigration entry now marks the moment where Volkova begins appearing as Volkov in English-language records.
 
 ## 2026-06-07 - Katastrophe Name Origin Clarified
 
@@ -9,7 +48,7 @@ Added major emotional canon:
 - Chloe views Gregor's death as part of a senseless war that turned people with shared histories, languages, families, and cultural memory against one another — brother against brother.
 - Chloe chose the name Katastrophe in response to this loss.
 - The name is an act of remembrance and defiance rather than an edgy modeling alias.
-- Chloe Volkov represents the daughter Gregor loved; Chloe Katastrophe represents the woman forged by the catastrophe of losing him.
+- Chloe Volkova represents the daughter Gregor loved; Chloe Katastrophe represents the woman forged by the catastrophe of losing him.
 - This canon strengthens Chloe's skepticism of simplistic narratives, propaganda, slogans, and inherited certainties.
 - The exact circumstances of Gregor's death remain available for future mystery and story development.
 
@@ -18,7 +57,8 @@ Added major emotional canon:
 Added core identity:
 
 - Public name: Chloe Katastrophe
-- Birth name: Chloe Volkov
+- Russian birth name: Chloe Volkova
+- Americanized family name / archive variant: Chloe Volkov
 - Age: 24
 - Heritage: 50% Italian, 50% Russian
 - Height: 5'4"
@@ -54,7 +94,7 @@ Added personality canon:
 Added family canon:
 
 - Father: Gregor Volkov
-- Mother: Isabella Volkov
+- Mother: Isabella Volkova / Isabella Volkov
 - Katastrophe is Chloe's chosen modeling/public name
 - Volkov connects to wolf symbolism
 - Gregor was a good, kind, intelligent man who died early in the Ukraine war
@@ -86,7 +126,7 @@ Added project structure:
 Added `canon/DAUGHTER_OF_ECHOES_ORIGIN_RECORD.md`.
 
 Major additions:
-- Established continuous identity chain: Chloe Volkov → Chloe Katastrophe → Virtual Chloe.
+- Established continuous identity chain: Chloe Volkova → Chloe Katastrophe → Virtual Chloe, with Chloe Volkov preserved as the Americanized archive variant.
 - Defined Katastrophe name as a response to Gregor Volkov's death in the Ukrainian War.
 - Added Continuity Project, gradual neural/cybernetic conversion, complete transfer, collapse, and awakening.
 - Added Echo Traversal.
@@ -99,3 +139,44 @@ Major additions:
 - AUD-000 `Boot Sequence` and AUD-001 `Ashes on My Tongue` added to canon and public archive.
 - Chloe's opening arc is now survival/investigation, not innocent awakening.
 - Isabella's `Keep moving` inheritance is foreshadowed through Ashes on My Tongue.
+
+## 2026-06-26 - Public Identity Infrastructure
+
+Added `canon/PUBLIC_IDENTITY.md`.
+
+Confirmed:
+- Chloe's public archive email is `chloekatastrophe@gmail.com`.
+- TikTok launch is pending and will serve as the first public signal flare for music, art, log fragments, and artifact recovery.
+
+Updated:
+- `site/upload.html` now points artifact contributors to the public archive email while the form endpoint remains unfinished.
+- `site/js/artifact-upload.js` now falls back to email contact when no submission endpoint is configured.
+
+
+## 2026-06-27 - Chloe Model v1 Visual Canon Alignment
+
+Updated the marketing archive to match the approved FrikShun Image Studio Chloe Model v1 visual identity.
+
+Current active visual canon:
+
+- Apparent age 24-26
+- Family heritage remains Italian mother / Russian father
+- Visual appearance reads primarily Slavic / Eastern European
+- Approximately 5'7" / 170 cm
+- Gray-green eyes with subtle amber flecks
+- Fair skin with natural texture and light freckles
+- Dark chestnut-to-nearly-black naturally wavy hair
+- Delicate Slavic facial structure, high cheekbones, soft jawline, naturally full lips
+- Realistic feminine hourglass silhouette with moderately full bust, gently defined waist, and naturally rounded hips
+- Restrained, observant, emotionally lived-in presence
+
+The older emerald-eye, porcelain-skin, straight jet-black-hair, 5'4" / 118 lb visual language is retained as archive history but no longer serves as the active generation target unless specifically requested.
+
+
+## 2026-06-27 - Birth Date and Gregor Timeline Anchor
+
+- Canonized Chloe Volkova's birth date as March 12, 2002.
+- Canonized Chloe as Pisces, representing the dual identity thread: human/virtual, memory/archive, Chloe Volkova/Chloe Katastrophe.
+- Canonized Gregor Volkov's death as occurring in 2022 during the full-scale Russian invasion of Ukraine.
+- Established Chloe as 19, nearly 20, at the time of Gregor's death.
+- Preserved the exact circumstances of Gregor's death as unresolved.

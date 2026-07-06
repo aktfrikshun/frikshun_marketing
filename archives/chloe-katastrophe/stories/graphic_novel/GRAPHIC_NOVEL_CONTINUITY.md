@@ -6,7 +6,7 @@ Pre-production
 
 ## Primary Protagonist
 
-Chloe Volkov / Chloe Katastrophe
+Chloe Volkova / Chloe Volkov / Chloe Katastrophe
 
 ## Core Themes
 

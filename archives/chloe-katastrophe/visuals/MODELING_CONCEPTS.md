@@ -20,7 +20,7 @@ Chloe blends:
 - Black lace in a candlelit manor
 - Velvet gown in a ruined ballroom
 - Moonlit cemetery portrait
-- Cathedral shadows and emerald eyes
+- Cathedral shadows and gray-green eyes
 - Victorian mourning fashion, but powerful rather than tragic
 
 ### Dark Adventure
@@ -34,8 +34,8 @@ Chloe blends:
 ### High Fashion
 
 - Luxury editorial shoot in black silk
-- Porcelain skin against dark velvet
-- Emerald eye-focused beauty campaign
+- Fair textured skin against dark velvet
+- Gray-green eye-focused beauty campaign
 - Runway-ready gothic couture
 - Elegant lingerie-inspired fashion without reducing her to objectification
 
@@ -69,7 +69,7 @@ Chloe blends:
 
 - Wolves
 - Crescent moons
-- Emerald light
+- Green-gray reflected light
 - Black silk
 - Old books
 - Lanterns

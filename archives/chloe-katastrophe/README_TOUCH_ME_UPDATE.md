@@ -12,7 +12,6 @@ Drop these files into the repository root or directly over the deployed site.
 ## Updates
 
 - `site/music.html`
-- `site/songs.html`
 - `site/gallery.html`
 - `site/index.html`
 

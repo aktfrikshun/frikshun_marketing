@@ -9,7 +9,7 @@ Status:
 Deceased
 
 Cause of Death:
-Killed in the Ukrainian war
+Killed in a war-related event during the 2022 full-scale Russian invasion of Ukraine
 
 Role:
 Chloe's father
@@ -69,9 +69,9 @@ Family, loyalty, endurance, protection, independence.
 
 ## Death and Legacy
 
-Gregor Volkov was killed in the Ukrainian war.
+Gregor Volkov was killed in 2022 during the full-scale Russian invasion of Ukraine. Chloe was 19, nearly 20.
 
-For Chloe, his death became the defining catastrophe of her life. She understands the war not as a clean ideological story, but as a senseless tragedy that turned people with intertwined histories, languages, families, and cultural memory against one another — brother against brother.
+For Chloe, his death became the defining catastrophe of her early adult life. She understands the war not as a clean ideological story, but as a senseless tragedy that turned people with intertwined histories, languages, families, and cultural memory against one another — brother against brother.
 
 His death is the origin of Chloe's chosen public name, Katastrophe. She carries that name as an act of remembrance, grief, defiance, and inquiry.
 
