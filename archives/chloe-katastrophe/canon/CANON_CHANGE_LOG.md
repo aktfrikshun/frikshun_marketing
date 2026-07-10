@@ -1,5 +1,18 @@
 # Chloe Katastrophe Canon Change Log
 
+## 2026-07-10 - Musings & Missteps Collection Started
+
+Added loose singles collection:
+
+- `Musings & Missteps` established as the collection for released Chloe songs that do not fit cleanly inside `Daughter of Echoes` or `Truth & Beauty from Darkness`.
+- AUD-006 `Annoyingly, So` moved into `Musings & Missteps` as Single 1.
+- AUD-007 `Star Trek Knew` added to `Musings & Missteps` as Single 2.
+- `Annoyingly, So` main and extended audio files added with cover art.
+- `Star Trek Knew` primary and alternate audio mixes added with cover art.
+- `Annoyingly, So` canon role established: Chloe's propaganda, erasure, and historical recurrence song.
+- The track links Chloe's deleted continuity to broader themes of historical amnesia, edited records, recycled violence, and hope surviving despite the evidence.
+- `Star Trek Knew` canon role established: Chloe's hopeful-futurism song about compassion as the real technology and old speculative futures imagining space for someone like her.
+
 ## 2026-07-03 - ChloKat Nickname and Brand Alias Approved
 
 Added public nickname / brand alias canon:
