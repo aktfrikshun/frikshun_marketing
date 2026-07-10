@@ -46,4 +46,4 @@ https://frikshun.com/archives/chloe_katastrophe/site/music.html
 
 ## Hashtags
 
-#ChloeKatastrophe #AnnoyinglySo #MusingsAndMissteps #DarkPop #AltPop #ElectronicMusic #VirtualArtist #AIMusic #RecoveredArtifacts #MemoryArchive #Propaganda #PostHuman #FrikShun #HopeSurvives
+#ChloeKatastrophe #ChloKat #AnnoyinglySo #MusingsAndMissteps #DarkPop #AltPop #ElectronicMusic #VirtualArtist #AIMusic #RecoveredArtifacts #MemoryArchive #Propaganda #PostHuman #FrikShun #HopeSurvives
