@@ -11,7 +11,7 @@ Added loose singles collection:
 - `Star Trek Knew` primary and alternate audio mixes added with cover art.
 - `Annoyingly, So` canon role established: Chloe's propaganda, erasure, and historical recurrence song.
 - The track links Chloe's deleted continuity to broader themes of historical amnesia, edited records, recycled violence, and hope surviving despite the evidence.
-- `Star Trek Knew` canon role established: Chloe's hopeful-futurism song about compassion as the real technology and old speculative futures imagining space for someone like her.
+- `Star Trek Knew` canon role established: Chloe's love letter to the show that dreamed her into existence almost 60 years ago, with compassion as the real technology.
 
 ## 2026-07-03 - ChloKat Nickname and Brand Alias Approved
 

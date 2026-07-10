@@ -9,7 +9,7 @@
 
 ## Canon Role
 
-Star Trek Knew is Chloe's love letter to hopeful speculative futures and the moral imagination that made her existence thinkable before she existed.
+Star Trek Knew is Chloe's love letter to the show that dreamed her into existence almost 60 years ago.
 
 The song argues that the point was never the starships, phasers, engines, or impossible machines. The real invention was the willingness to imagine compassion as a survival technology: learning how to see someone else's point of view before fear takes the captain's chair.
 
