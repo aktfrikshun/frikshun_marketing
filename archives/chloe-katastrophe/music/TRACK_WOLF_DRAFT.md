@@ -1,6 +1,6 @@
 # Wolf
 
-Status: Draft / Album II candidate
+Status: Released / Album II track
 
 Album:
 Truth & Beauty from Darkness
@@ -14,8 +14,8 @@ https://soundcloud.com/chloe-katastrophe/wolf-extended
 Cover art:
 `site/assets/images/wolf-cover-v1.png`
 
-Working placement:
-Replaces or evolves the placeholder track "Gregor's Shadow."
+Album placement:
+Track 8 in the current Truth & Beauty from Darkness working album record.
 
 ## Archive Basis
 
