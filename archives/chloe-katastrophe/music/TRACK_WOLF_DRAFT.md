@@ -11,6 +11,12 @@ https://soundcloud.com/chloe-katastrophe/wolf
 Extended SoundCloud:
 https://soundcloud.com/chloe-katastrophe/wolf-extended
 
+Audio:
+`site/assets/audio/wolf.wav`
+
+Extended audio:
+`site/assets/audio/wolf-extended.wav`
+
 Cover art:
 `site/assets/images/wolf-cover-v1.png`
 
@@ -122,3 +128,8 @@ Warm smoky female alto with a rich lower register, intimate phrasing, restrained
 ## Suno Style Prompt
 
 Dark cinematic alternative rock, female smoky alto vocal, intricate electric guitar solos, deep bass guitar, powerful restrained drums, gothic art-rock atmosphere, subtle analog synth texture, haunted theremin accents in key emotional moments, dramatic dynamic build, intimate verses, explosive but controlled choruses, long melodic guitar solo bridge, grief turning into defiance, not metal, not pop-punk, not Broadway, no heavy Auto-Tune.
+
+## Released Audio
+
+- Main release: `wolf.wav` - 5:03
+- Extended version: `wolf-extended.wav` - 6:07

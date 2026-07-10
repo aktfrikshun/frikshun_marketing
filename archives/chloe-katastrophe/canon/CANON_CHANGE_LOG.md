@@ -4,7 +4,7 @@
 
 - Music page ordering updated so `Truth & Beauty from Darkness` appears second and `Musings & Missteps` appears last.
 - `Wolf` expanded from a compact track-list row into a full `Truth & Beauty from Darkness` feature entry with cover art, SoundCloud links, memory class, canon description, and lyrics.
-- Local `Wolf` audio files are not yet archived in `site/assets/audio`; public page currently links to SoundCloud track and extended versions.
+- Local `Wolf` main and extended audio files archived in `site/assets/audio` and embedded on the public music page.
 
 ## 2026-07-10 - Musings & Missteps Collection Started
 
