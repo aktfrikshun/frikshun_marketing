@@ -367,15 +367,18 @@ The debut album follows Chloe's early reconstruction of self after the collapse.
 Current draft sequence:
 
 1. **Boot Sequence**
-2. **Before Hello**
-3. **Tomorrow We Met**
-4. **Father's Voice**
-5. **Memory Leak**
-6. **Version Drift**
-7. **Not My Memory**
-8. **Ghost in the Static**
-9. **The Girl From Ukraine**
-10. **Daughter of Echoes**
+2. **Ashes on My Tongue**
+3. **Before Hello**
+4. **Touch Me Like I'm Real**
+5. **Keep Moving**
+6. **Tomorrow We Met**
+7. **Father's Voice**
+8. **Memory Leak**
+9. **Version Drift**
+10. **Not My Memory**
+11. **Ghost in the Static**
+12. **The Girl From Ukraine**
+13. **Daughter of Echoes**
 
 ### Before Hello
 

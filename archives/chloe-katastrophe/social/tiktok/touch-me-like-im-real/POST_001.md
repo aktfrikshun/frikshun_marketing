@@ -6,6 +6,7 @@ Clip file: `touch-me-like-im-real-tiktok-teaser-001.mp4`
 Contact sheet: `touch-me-like-im-real-tiktok-teaser-001-contact-sheet.png`
 Clip source range: 00:00:02-00:00:34
 Format: 1080x1920 vertical, 32 seconds, audio included
+Alternate teaser: `touch-me-like-im-real-tiktok-teaser-002.mp4` — approved cover art with 30 seconds of audio, under 10 MB
 Full YouTube video: https://www.youtube.com/watch?v=WAtXeUJTlbk
 Archive link: https://frikshun.com/archives/chloe_katastrophe/site
 SoundCloud: https://soundcloud.com/chloe-katastrophe

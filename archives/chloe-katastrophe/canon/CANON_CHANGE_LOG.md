@@ -1,5 +1,15 @@
 # Chloe Katastrophe Canon Change Log
 
+## 2026-07-13 - Tomorrow We Met Added to Daughter of Echoes
+
+- AUD-008 `Tomorrow We Met` added as Track 6 of `Daughter of Echoes`.
+- The released 4:25 WAV recording and production cover were added to the public archive.
+- Canon role established: Chloe's heart retains the emotional fact of loving someone before damaged autobiographical memory recovers their name, face, or shared history.
+- The track deepens the reverse-memory relationship thread established by `Before Hello`.
+- The identity of the remembered person remains unresolved; the song is evidence of emotional continuity, not a solved biography.
+- The Chloe Model v1 production cover was explicitly approved by Allen Taylor for canonical production and marketing use.
+- The approved cover and a direct listening link were added to the Chloe archive landing page; the cover was also indexed in the public gallery.
+
 ## 2026-07-10 - Music Page Album Order and Wolf Feature Updated
 
 - Music page ordering updated so `Truth & Beauty from Darkness` appears second and `Musings & Missteps` appears last.

@@ -75,6 +75,26 @@ Early DistroKid artist-profile exploration.
 Notes:
 Atmospheric and usable as a mood reference, but less aligned with current Chloe Model v1 than the later portraits.
 
+# Approved Cover Art
+
+## Tomorrow We Met Production Cover
+
+File:
+
+`site/assets/images/tomorrow-we-met-cover.png`
+
+Status:
+
+APPROVED
+
+Purpose:
+
+Cover artwork for AUD-008 `Tomorrow We Met`, Track 6 of `Daughter of Echoes`.
+
+Notes:
+
+Generated from Chloe Model v1. Chloe sits in a rain-darkened library at dawn with a cold coffee, an empty chair, and the luminous afterimage of a remembered touch in her palm. Approved by Allen Taylor on 2026-07-13 for canonical production and marketing use.
+
 # Approved Photoshoots
 
 None yet.

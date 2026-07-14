@@ -62,3 +62,12 @@ Established:
 
 Notes:
 The older porcelain-skin, emerald-eye, straight jet-black-hair language remains part of the archive's visual history, but it is no longer the active generation target unless explicitly requested as an older artifact style.
+
+---
+
+# 2026-07-13 - Tomorrow We Met Production Cover
+
+- Created a square production cover for AUD-008 `Tomorrow We Met` using Chloe Model v1 as the identity reference.
+- Preserved current gray-green eyes, fair lightly freckled skin, dark natural waves, and restrained `remembering` / `quiet_hope` performance.
+- Established the cover's visual motifs: old library, rainy dawn, cold coffee, empty chair, and luminous touch afterimage.
+- Approved by Allen Taylor for canonical production and marketing use.
