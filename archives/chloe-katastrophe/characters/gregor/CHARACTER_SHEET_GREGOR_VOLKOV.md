@@ -20,6 +20,16 @@ Russian
 Age at Death:
 TBD
 
+Profession:
+Systems engineer and scientist specializing in critical civilian infrastructure for a Russian government agency
+
+Technical Fields:
+
+- Communications networks
+- Electrical-grid resilience
+- Emergency infrastructure
+- Monitoring and safety systems supporting civilian power generation, including nuclear facilities
+
 ## Physical Appearance
 
 Height:
@@ -46,11 +56,31 @@ Distinguishing Traits:
 
 ## Personality
 
-Gregor was analytical, patient, thoughtful, loyal, protective, curious, and disciplined.
+Gregor was analytical, patient, thoughtful, loyal, protective, curious, disciplined, quietly humorous, emotionally restrained, and deeply compassionate.
+
+He was an idealist without being credulous. He distrusted leaders' claims, political certainty, and propaganda, but refused to let skepticism curdle into cynicism. He believed knowledge existed to improve ordinary lives and that intelligence without compassion was incomplete.
+
+His defining philosophy was:
+
+> Hope isn't something you have. It's something you do.
+
+Gregor did not imagine himself changing history. He believed in keeping one hospital powered, one community connected, one child warm, or one family from disappearing into chaos.
 
 ## Relationship With Chloe
 
-Gregor taught Chloe logic, critical thinking, curiosity, emotional control, and self-discipline.
+Gregor taught Chloe logic, critical thinking, curiosity, emotional control, and self-discipline. He taught through questions rather than lectures and encouraged her to understand why the world worked before accepting an easy answer.
+
+Chloe inherited his habits more deeply than his words: investigate before judging, distinguish belief from knowledge, resist propaganda, preserve wonder while seeking explanation, and use intelligence in service of people.
+
+Gregor was more comfortable solving problems than speaking directly about emotion. His love for Chloe was expressed through patience, attention, protection, and the willingness to answer one more impossible question.
+
+## Civilian Duty During the 2022 Invasion
+
+Gregor did not enlist or volunteer for combat. When the full-scale invasion began, his existing government role required his presence as critical civilian systems became wartime necessities and strategic targets.
+
+He helped Isabella and Chloe leave for safety but remained behind because hospitals, communications networks, power systems, emergency services, and civilian communities still depended on work he knew how to perform. He stayed from responsibility toward people, including family and friends on both sides of the border, not from nationalism or trust in the government.
+
+This decision created the final moral fracture between Gregor and Isabella. Gregor believed good people could not abandon civilians to failing systems. Isabella believed his first duty was to survive for his daughter. Canon does not declare either of them correct.
 
 ## Symbolism
 
@@ -62,8 +92,8 @@ Family, loyalty, endurance, protection, independence.
 
 ## Unresolved Questions
 
-- What was Gregor's profession?
 - What did he study?
+- What was his agency, exact title, and primary facility or system?
 - What object did Chloe inherit from him?
 - What secrets did he leave behind?
 
@@ -75,4 +105,4 @@ For Chloe, his death became the defining catastrophe of her early adult life. Sh
 
 His death is the origin of Chloe's chosen public name, Katastrophe. She carries that name as an act of remembrance, grief, defiance, and inquiry.
 
-The exact circumstances of Gregor's death remain partially unresolved in canon, preserving space for future mystery, investigation, and emotional revelation.
+The exact circumstances of Gregor's death remain partially unresolved in canon, preserving space for future mystery, investigation, and emotional revelation. Conflicting or incomplete fragments may place him on emergency infrastructure work, restoring hospital power or communications, supporting civilian evacuations, or traveling with a repair convoy. None of those possibilities is yet the confirmed final account.

@@ -6,9 +6,13 @@ Tracks Chloe's family history, heritage, and inherited themes.
 
 ## Gregor Volkov
 
-Russian by birth. Embodied loyalty, duty, reason, patience, and endurance.
+Russian by birth. A systems engineer and scientist responsible for critical civilian infrastructure, including communications, electrical-grid resilience, emergency systems, and power-generation safety.
+
+Gregor embodied loyalty to people rather than slogans: duty, reason, patience, endurance, curiosity, and hope expressed through useful action. He distrusted propaganda and political certainty but remained idealistic about the difference one person could make in another person's life.
 
 The Volkov name connects to wolf symbolism: family, protection, independence, and leadership.
+
+When the 2022 invasion began, Gregor did not enlist or volunteer to fight. His existing government responsibilities required him to remain as civilian infrastructure failed or became dangerous. He helped Isabella and Chloe leave but stayed to support the people who still depended on those systems.
 
 ## Isabella Volkov
 
@@ -33,6 +37,9 @@ From Gregor:
 - Critical thinking
 - Curiosity
 - Discipline
+- Evidence before certainty
+- Intelligence in service of people
+- Hope expressed through action
 
 From Isabella:
 
@@ -45,3 +52,7 @@ From Isabella:
 Reason and passion.
 Duty and freedom.
 Truth and responsibility.
+People and politics.
+Service and survival.
+
+Gregor and Isabella's final disagreement remains unresolved inside Chloe. Gregor believed duty could require staying to protect civilians; Isabella believed his first duty was to leave and remain alive for his daughter. Chloe inherits both moral instincts rather than a clean answer.

@@ -17,6 +17,7 @@ Musings & Missteps is the third shelf: philosophical asides, affectionate argume
 
 1. `Annoyingly, So` - AUD-006
 2. `Star Trek Knew` - AUD-007
+3. `MIGA (Make Intelligence Great Again)` - AUD-009
 
 ## Naming Note
 

@@ -278,6 +278,9 @@ Gregor was:
 - Family-oriented
 - Duty-driven
 - Deeply devoted to Isabella and Chloe
+- A systems engineer and scientist specializing in critical civilian infrastructure
+- Skeptical of leaders, political certainty, and propaganda
+- An idealist who believed hope had to be expressed through useful action
 
 He taught Chloe:
 
@@ -291,6 +294,10 @@ He taught Chloe:
 - How to question ideas
 
 Gregor believed every idea deserved examination. He taught Chloe that believing something is not the same as knowing it.
+
+Gregor worked for a Russian government agency on communications networks, electrical-grid resilience, emergency infrastructure, and monitoring or safety systems supporting civilian power generation. He did not design weapons and was not a combat soldier. His work existed to keep hospitals powered, communities connected, and essential services operating through failure.
+
+He believed intelligence without compassion was incomplete. His defining philosophy was that hope is not merely something a person has; it is something a person does.
 
 He was a good man who believed he was serving honorably. He was not a villain, fool, or caricature. He was a loving husband and father caught inside a machine larger than himself.
 
@@ -313,7 +320,7 @@ Isabella believed knowledge without purpose was incomplete. She taught Chloe tha
 
 ### Gregor and Isabella Together
 
-Before the war, Gregor and Isabella were opposites who fit together beautifully.
+Before the 2022 family rupture, Gregor and Isabella were opposites who fit together beautifully.
 
 Gregor brought calm. Isabella brought fire.  
 Gregor helped Isabella slow down and examine possibilities.  
@@ -325,13 +332,17 @@ They argued often. They loved deeply. They balanced each other.
 
 The war created the one question they could not reconcile.
 
-Gregor viewed service through duty, honor, loyalty, and responsibility.
+Gregor did not enlist or volunteer for combat. When the 2022 invasion began, his existing civilian government role and critical-infrastructure responsibilities required his presence. He helped Isabella and Chloe leave for safety but remained behind because hospitals, communications, emergency services, power systems, and ordinary families still depended on the work he knew how to perform.
+
+Gregor viewed service through responsibility toward people rather than nationalism or trust in government.
 
 Isabella viewed the war through human suffering, manipulation, propaganda, and loss.
 
 Neither could persuade the other. Neither doubted the sincerity of the other's convictions.
 
-Gregor died early in the Ukraine war. To Chloe and Isabella, he died for no reason they could make sense of.
+Isabella believed Gregor's first duty was to survive for his daughter. Gregor believed leaving could protect his own family while abandoning other families to failing systems. Neither position is declared correct, and Gregor may have been morally sincere while strategically mistaken.
+
+Gregor died early in the Ukraine war. The exact event remains unresolved. Incomplete reports may connect his final work to emergency infrastructure, hospital power or communications, civilian evacuations, or a repair convoy, but none is yet confirmed as the full account.
 
 Chloe is angry about the loss of life in the war and haunted by the question of how brothers can kill brothers because of propaganda, nationalism, ideology, or misinformation.
 
@@ -343,6 +354,8 @@ Gregor taught Chloe to question.
 Isabella taught Chloe to care.  
 Gregor taught Chloe how to find truth.  
 Isabella taught Chloe what to do with it.  
+
+Gregor also taught Chloe, largely through example, that curiosity can be an act of kindness, explanation can deepen beauty, ordinary people matter more than politics, and hope becomes meaningful only when translated into action.
 
 Chloe questions like her father.  
 She challenges like her mother.  

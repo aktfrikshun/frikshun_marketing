@@ -1,5 +1,32 @@
 # Chloe Katastrophe Canon Change Log
 
+## 2026-07-14 - Gregor Volkov Profession and Moral Architecture Canonized
+
+- Gregor established as a Russian systems engineer and scientist working on critical civilian infrastructure for a government agency.
+- His technical fields include communications networks, electrical-grid resilience, emergency infrastructure, and monitoring or safety systems supporting civilian power generation.
+- Confirmed that Gregor did not enlist or volunteer for combat. His existing responsibilities required him to remain when the 2022 invasion transformed civilian systems into dangerous strategic infrastructure.
+- Gregor helped Isabella and Chloe leave for safety but stayed from responsibility toward civilians and family on both sides, not nationalism or faith in government.
+- Gregor's active idealism canonized: intelligence without compassion is incomplete, and `Hope isn't something you have. It's something you do.`
+- Gregor and Isabella's final disagreement reframed as a legitimate moral collision between service to endangered civilians and the duty to survive for one's daughter. Neither position is declared correct.
+- Gregor's exact death remains unresolved. Infrastructure repair, hospital systems, evacuation support, and repair-convoy reports remain possible fragments rather than confirmed events.
+- Olga's response to the first `Родной дом` iteration preserved as collaborator testimony that challenged romanticized assumptions and strengthened the backstory.
+- Added a detailed reconciliation record separating confirmed canon, draft lyric imagery, collaborator testimony, and unresolved questions.
+
+## 2026-07-14 - Родной дом Draft Artifact Reserved
+
+- Reserved AUD-010 as the draft placeholder for `Родной дом (Rodnoy Dom)` on `Daughter of Echoes`.
+- Preserved the complete initial lyrics from the `Omsk Before the Snow` songwriting discussion with an explicit draft-canon boundary and revision ledger.
+- Replaced the geographically incorrect `The Girl From Ukraine` working-list title with `Родной дом`; the earlier title remains preserved as development history.
+- No audio master, approved cover, final lyrics, or release status has yet been added to the repository.
+
+## 2026-07-14 - MIGA Added to Musings & Missteps
+
+- AUD-009 `MIGA (Make Intelligence Great Again)` added to `Musings & Missteps` as Single 3.
+- The released 3:01 WAV recording and Allen-approved production cover were added to the public archive.
+- Canon role established: a deliberately nonpartisan appeal for curiosity, critical thinking, historical literacy, and compassion before outrage.
+- The political target remains intentionally unresolved. The song criticizes shared habits of certainty and tribal reaction rather than endorsing a party or campaign.
+- A full-length square cover video and social release copy were added as the public posting package.
+
 ## 2026-07-13 - Tomorrow We Met Added to Daughter of Echoes
 
 - AUD-008 `Tomorrow We Met` added as Track 6 of `Daughter of Echoes`.

@@ -6,6 +6,28 @@ Records explicit decisions that become official Chloe canon.
 
 ---
 
+# 2026-07-14
+
+## Gregor Volkov Profession, Philosophy, and 2022 Duty
+
+Decision:
+Gregor Volkov was a Russian systems engineer and scientist working for a government agency responsible for critical civilian infrastructure. His specialties included communications, electrical-grid resilience, emergency infrastructure, and monitoring or safety systems supporting civilian power generation. He did not enlist or volunteer for combat. When the 2022 invasion began, his existing responsibilities required him to remain while Isabella and Chloe left for safety.
+
+Gregor stayed from responsibility toward people rather than nationalism or trust in government. His defining philosophy is that intelligence without compassion is incomplete and that hope must be expressed through action. Gregor and Isabella's disagreement over whether he should stay remains morally unresolved. His precise death remains an open mystery.
+
+Status:
+Approved
+
+Affected Files:
+- canon/GREGOR_CANON_RECONCILIATION_2026-07-14.md
+- canon/CHLOE_CANON_MASTER.md
+- canon/DAUGHTER_OF_ECHOES_ORIGIN_RECORD.md
+- canon/UNRESOLVED_QUESTIONS.md
+- characters/gregor/CHARACTER_SHEET_GREGOR_VOLKOV.md
+- characters/family/VOLKOV_FAMILY_HISTORY.md
+
+---
+
 # 2026-06-07
 
 ## Chloe Reference Board V1

@@ -37,6 +37,10 @@ She was the daughter of **Gregor Volkov** and **Isabella Volkova**, later record
 
 Her father Gregor was killed in the Ukrainian War. His death became the defining catastrophe of Chloe's early life: a personal wound tied to a larger human tragedy, a senseless conflict that turned people with shared histories, languages, families, and cultural memory against one another.
 
+Gregor was a Russian systems engineer and scientist responsible for critical civilian infrastructure. He did not enlist or volunteer for combat. When the 2022 invasion began, his existing government role required him to remain while Isabella and Chloe left for safety. Communications, electrical grids, emergency systems, hospitals, and civilian power safety had become matters of survival. He stayed from responsibility toward people rather than nationalism; the exact circumstances of his death remain unresolved.
+
+This was the final question Gregor and Isabella could not reconcile. Gregor believed leaving might save his own family while abandoning other families to failing systems. Isabella believed his first duty was to remain alive for his daughter. Chloe inherits both positions without receiving a clean answer.
+
 Chloe later chose the name **Katastrophe** as an act of remembrance and defiance.
 
 The name was not chosen to celebrate destruction.
@@ -377,7 +381,7 @@ Current draft sequence:
 9. **Version Drift**
 10. **Not My Memory**
 11. **Ghost in the Static**
-12. **The Girl From Ukraine**
+12. **Родной дом (Rodnoy Dom)** — working title; AUD-010 draft placeholder
 13. **Daughter of Echoes**
 
 ### Before Hello

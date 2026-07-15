@@ -4,13 +4,16 @@ Use this document as future story fuel.
 
 ## Family
 
-- What was Gregor Volkov's profession before the war?
+- What was the name of Gregor's government agency, his exact title, and the primary infrastructure systems or facilities under his care?
+- What did Gregor study, and where?
 - How did Gregor and Isabella meet?
+- Why did Isabella choose to build a life with Gregor in Omsk?
 - What was Isabella's maiden name?
-- What city or region was Chloe born in?
+- Was Chloe born in Omsk or only raised there?
 - What relatives remained in Russia or Europe?
 - Did Chloe keep contact with anyone from her father's side?
 - What object of Gregor's did Chloe keep?
+- Was English spoken in Chloe's childhood home, and how did she develop native-level fluency?
 
 ## Immigration and Childhood
 
