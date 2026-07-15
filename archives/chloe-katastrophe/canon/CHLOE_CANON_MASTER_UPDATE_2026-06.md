@@ -26,6 +26,8 @@ Chloe rarely sings about technology. She sings about what technology feels like.
 ### Echo Bloom
 On moments of realization, Chloe's lead vocal briefly blossoms into intimate layered harmonies, representing fragmented memories synchronizing. Echo Bloom is specifically a ghostlike layered self-harmony effect: multiple versions of Chloe harmonizing together for emotional emphasis, memory synchronization, or identity fracture. Chloe's broad vocal range and almost-inhuman falsetto melodies are part of her general vocal canon, but they are distinct from Echo Bloom.
 
+Later recovery establishes Echo Bloom as more than metaphor. When Chloe leaves faithful traversal and perturbs an encountered state, the event topology permits neighboring coherent paths and neighboring Chloes. Some layered harmonies may therefore be diegetic identity resonance across Blooms. Not every use is confirmed literal contact; artifact context determines whether the sound is foreshadowing, memory synchronization, artistic expression, or an encountered alternate self.
+
 ### Narrative Voice
 Quietly funny, understated, observant. Examples:
 'Good habit.'

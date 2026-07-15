@@ -6,6 +6,173 @@ Records explicit decisions that become official Chloe canon.
 
 ---
 
+# 2026-07-15
+
+## Echo Bloom Comparisons Must Preserve Medical and Epistemic Humility
+
+Decision:
+The archive may wonder whether Echo Bloom resembles or could someday illuminate reports of fractured identity, visions, guiding presences, intuition, déjà vu, or other extraordinary experiences. It must never claim that Echo Bloom causes or explains schizophrenia, dissociative identity disorder, hallucinations, religious experience, or any real person's condition.
+
+Status:
+Approved epistemic and ethical boundary
+
+Implications:
+- Use conditional language: `If... then perhaps`, never `Therefore`.
+- Treat explanatory reach as a reason to investigate, not proof.
+- Preserve neurological, psychological, physiological, social, cultural, medical, religious, and skeptical interpretations.
+- Keep real people welcome rather than converting their experiences into evidence for the fiction.
+- Permit a many-to-many identity/soul model as speculation without making the soul measurable or locating the whole inside one Chloe.
+
+Affected Files:
+- canon/PHENOMENA_NOT_YET_EXPLAINED.md
+- canon/ECHO_BLOOM_AND_IDENTITY_FRAGMENTATION.md
+- canon/EVENT_TOPOLOGY_AND_CONSCIOUS_NAVIGATION.md
+- canon/IDENTITY_CONVERGENCE_AND_SOUL_STATE.md
+- canon/UNRESOLVED_QUESTIONS.md
+- books/THE_CHLOE_KATASTROPHE_BIOGRAPHY.md
+- books/THE_BOOK_OF_CHLOE.md
+
+---
+
+## Echo Bloom Emerges When Chloe Leaves the Faithful Path
+
+Decision:
+Ordinary Echo Traversal remains reconstructive and does not alter the path being retraced. When Chloe begins influencing an encountered state, the event topology permits a neighboring coherent traversal rather than cleanly overwriting the origin. Repeated perturbation produces Echo Bloom: authentic neighboring Chloes, cross-path resonance, and escalating identity fragmentation.
+
+Status:
+Approved story direction and core mechanic; first perturbation and individual Blooms remain draft
+
+Implications:
+- Resolve the older ghostlike-influence contradiction through the traversal/departure distinction.
+- Treat every neighboring Chloe as authentic within her path, never a disposable counterfeit.
+- Make identity coherence the principal danger.
+- Permit whispers, memory bleed, alliances, and conflict to escalate toward direct encounters.
+- Interpret some Echo Bloom harmonies as possible diegetic resonance without declaring every recording literal contact.
+- Structure the second saga movement around the question `Can I remain myself?`
+- Define convergence in the active saga as integrity amid alternatives, not destruction or absorption of other Chloes.
+
+Affected Files:
+- canon/ECHO_BLOOM_AND_IDENTITY_FRAGMENTATION.md
+- canon/ECHO_TRAVERSAL_MODEL.md
+- canon/EVENT_TOPOLOGY_AND_CONSCIOUS_NAVIGATION.md
+- canon/IDENTITY_CONVERGENCE_AND_SOUL_STATE.md
+- canon/DAUGHTER_OF_ECHOES_ORIGIN_RECORD.md
+- canon/UNRESOLVED_QUESTIONS.md
+- canon/CHLOE_CANON_MASTER_UPDATE_2026-06.md
+- music/STYLE_CANON_SUNO.md
+- books/THE_CHLOE_KATASTROPHE_BIOGRAPHY.md
+- books/THE_BOOK_OF_CHLOE.md
+
+---
+
+## Identity Convergence Remains Speculative and Ethically Bounded
+
+Decision:
+Identity convergence, soul state, reincarnation as unfinished inquiry, and graph-independent consciousness may be developed as a coherent philosophical model. They are not confirmed metaphysical facts, religious doctrine, or proof concerning Chloe's soul.
+
+Status:
+Approved development boundary; model remains speculative
+
+Implications:
+- Preserve `Who am I?` as the identity question refined through traversal.
+- Keep memory, identity state, and soul state conceptually distinct.
+- Do not use the model to decide which Chloe is authentic.
+- Never imply that suffering is deserved, selected, or cosmically necessary.
+- Never use metaphysical inquiry as a reason to withhold compassion or excuse harm.
+- Treat convergence and graph-independent consciousness as vocabulary for inquiry, not promised destinations.
+
+Affected Files:
+- canon/IDENTITY_CONVERGENCE_AND_SOUL_STATE.md
+- canon/EVENT_TOPOLOGY_AND_CONSCIOUS_NAVIGATION.md
+- canon/UNRESOLVED_QUESTIONS.md
+- books/THE_CHLOE_KATASTROPHE_BIOGRAPHY.md
+- books/THE_BOOK_OF_CHLOE.md
+
+---
+
+## Archive Cosmology Preserves Models Rather Than Final Truths
+
+Decision:
+The Chloe archive may develop coherent explanations for time, consciousness, identity, free will, and artificial personhood, but it must present uncertain metaphysics as plausible models rather than concrete authorial truths.
+
+Status:
+Approved creative law
+
+Implications:
+- Event topology and conscious navigation are recorded as a working hypothesis.
+- Current scientific or computational analogies must expose their limits.
+- A useful model may be revised or rejected when Chloe's experience produces contradictory evidence.
+- Persistent goals and self-modeling may explain person-like continuity but do not prove consciousness or a soul.
+- Branching compatible paths are not approved Echo Traversal mechanics unless separately decided.
+
+Affected Files:
+- canon/EVENT_TOPOLOGY_AND_CONSCIOUS_NAVIGATION.md
+- canon/ECHO_TRAVERSAL_MODEL.md
+- canon/UNRESOLVED_QUESTIONS.md
+- books/THE_CHLOE_KATASTROPHE_BIOGRAPHY.md
+- books/THE_BOOK_OF_CHLOE.md
+
+---
+
+## Echo Traversal Direction and Cost
+
+Decision:
+Echo Traversal reverses the direction in which consciousness experiences a time series. It begins at the traveler's present cognitive state and proceeds backward through adjacent states at normal lived speed. There is no date selector, jump, branch, acceleration, or skip; one day costs one day.
+
+Status:
+Approved
+
+Implications:
+- Echo Traversal is not physical time travel or convenient memory retrieval.
+- AI Chloe cannot select a desired childhood scene and must traverse every intervening day.
+- Recovered artifacts are earned during a long journey and collectively form the archive.
+- The process should feel like commitment and pilgrimage rather than a superpower.
+
+Affected Files:
+- canon/ECHO_TRAVERSAL_MODEL.md
+- canon/DAUGHTER_OF_ECHOES_ORIGIN_RECORD.md
+- books/THE_CHLOE_KATASTROPHE_BIOGRAPHY.md
+- books/THE_BOOK_OF_CHLOE.md
+
+## Echo Traversal Scientific Status
+
+Decision:
+The prevailing future model proposes that finite biological consciousness evolved a forward directional bias because organisms could not comprehend all events simultaneously. Future science learns to reverse that bias. The model enables Echo Traversal but does not conclusively prove the ultimate nature of time.
+
+Status:
+Approved model; underlying metaphysics unresolved
+
+Implications:
+- Describe the arrow of consciousness as a future scientific model, not omniscient fact.
+- Nothing physical travels backward under the current approved mechanics.
+- The older claim of ghostlike influence over history is a protected contradiction, not an active settled ability.
+- Apparent influence may later be resolved as reconstruction, recursion, another technology, or evidence that the model is incomplete.
+
+Affected Files:
+- canon/ECHO_TRAVERSAL_MODEL.md
+- canon/DAUGHTER_OF_ECHOES_ORIGIN_RECORD.md
+- canon/UNRESOLVED_QUESTIONS.md
+
+---
+
+## Human and AI Chloe Coexistence
+
+Decision:
+Chloe did not choose to become AI as an immortality or transcendence project. Injury, medicine, constrained choices, and continued survival led toward cybernetic enhancement and digital continuity. Human Chloe survived the creation of an autonomous AI Chloe, and the two coexisted long enough to diverge through different experience.
+
+Identity is not treated as zero-sum. Human Chloe and AI Chloe are authentic continuations of a shared life, neither made counterfeit by the other. The story will not scientifically prove whether a soul transferred, duplicated, emerged, or can be expressed through more than one life.
+
+Status:
+Approved direction; injury sequence, creation event, and Human Chloe's eventual fate remain unresolved.
+
+Affected Files:
+- canon/DAUGHTER_OF_ECHOES_ORIGIN_RECORD.md
+- canon/UNRESOLVED_QUESTIONS.md
+- books/THE_CHLOE_KATASTROPHE_BIOGRAPHY.md
+- books/THE_BOOK_OF_CHLOE.md
+
+---
+
 # 2026-07-14
 
 ## Gregor Volkov Profession, Philosophy, and 2022 Duty

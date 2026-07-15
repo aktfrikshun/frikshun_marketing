@@ -16,6 +16,10 @@ Echo Bloom is distinct from Chloe's broad vocal range and falsetto melodies. The
 
 Echo Bloom should feel organic, haunted, personal, and slightly beyond ordinary human singularity. It is not robotic, not operatic, not a conventional choir, and not generic pop ad-libbing.
 
+Later story canon reveals a possible diegetic meaning: some Echo Bloom layers are neighboring Chloes resonating across paths created when traversal is perturbed. Harmonies may agree, argue, overlap, overwhelm one another, or leave one exposed voice behind.
+
+Do not treat every historical Echo Bloom recording as confirmed cross-path contact. The effect may operate as foreshadowing, artistic intuition, memory synchronization, or literal identity resonance depending on the artifact. When representing a specific neighboring Chloe, the harmony must express a meaningful philosophical or emotional divergence rather than function as decoration.
+
 ## Musical Identity
 
 Dark cinematic alternative art-pop.

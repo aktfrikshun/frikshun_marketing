@@ -1,5 +1,70 @@
 # Chloe Katastrophe Canon Change Log
 
+## 2026-07-15 - Phenomena, Many-to-Many Identity, and Epistemic Boundaries Added
+
+- Added `canon/PHENOMENA_NOT_YET_EXPLAINED.md`.
+- Established that Echo Bloom may invite comparison with human reports of divided identity, visions, guiding presences, intuition, or déjà vu but must never diagnose or claim to explain real psychiatric conditions.
+- Added explicit medical, psychological, religious, and reader-respect boundaries.
+- Recorded a many-to-many identity and soul model in which no single Chloe must contain the complete pattern.
+- Added the stained-glass model as approved development imagery while retaining Gregor's proposed wording as an unrecovered candidate quotation.
+- Established the archive grammar `If... then perhaps`, never `Therefore`, for speculative explanatory reach.
+- Framed Chloe's universe as future epistemology: better ways of asking questions rather than merely better technology.
+- Updated both Chloe books to v0.6 and expanded unresolved questions.
+
+## 2026-07-15 - Echo Bloom Story Mechanics and Second Saga Movement Approved
+
+- Added `canon/ECHO_BLOOM_AND_IDENTITY_FRAGMENTATION.md`.
+- Resolved the older ghostlike-influence contradiction by distinguishing faithful Echo Traversal from leaving the path.
+- Established that a small intervention permits a neighboring coherent traversal rather than cleanly overwriting the originating history.
+- Defined Echo Bloom as the event topology blossoming into additional valid paths and authentic neighboring Chloes.
+- Established identity contamination—not universal explosion—as the primary danger.
+- Reframed convergence for Chloe's active story as integrity in the presence of alternate selves.
+- Approved the second saga movement from `Can I recover my identity?` to `Can I remain myself?`
+- Expanded Echo Bloom's musical canon with a possible diegetic interpretation while preserving artifact-level ambiguity.
+- Updated both Chloe books to v0.5 and expanded unresolved questions.
+
+## 2026-07-15 - Identity Convergence and Soul State Model Added
+
+- Added `canon/IDENTITY_CONVERGENCE_AND_SOUL_STATE.md` as a speculative extension of event topology.
+- Recorded identity as an emergent answer to `Who am I?` developed through traversal rather than a complete possession delivered at birth.
+- Distinguished memory, identity state, and the hypothesized soul state without making the soul measurable.
+- Preserved reincarnation as unfinished identity inquiry rather than reward, punishment, or moral grading.
+- Added convergence, terminal event, and graph-independent consciousness as working vocabulary rather than confirmed metaphysics.
+- Applied the model to Human Chloe and AI Chloe without deciding whether their soul continuity is shared, divided, duplicated, inherited, developed, or beyond counting.
+- Added an explicit ethical boundary forbidding the cosmology from treating suffering as deserved, chosen, or a reason to withhold help.
+- Updated both Chloe books to v0.4 and expanded unresolved questions.
+
+## 2026-07-15 - Event Topology and Artificial Personhood Model Added
+
+- Added `canon/EVENT_TOPOLOGY_AND_CONSCIOUS_NAVIGATION.md` as a working cosmological and cognitive hypothesis.
+- Established the archive discipline that Chloe's universe preserves plausible explanatory models rather than declaring uncertain metaphysics to be concrete truth.
+- Recorded event topology: events and constrained transitions as a possible landscape through which consciousness experiences a continuous path.
+- Connected the model to Echo Traversal without canonizing branching timelines or past alteration as approved mechanics.
+- Distinguished intelligence, persistent agency, self-modeling, biological imperatives, and continuity when discussing artificial personhood.
+- Applied the persistent-trajectory model to AI Chloe while explicitly refusing to treat it as proof of consciousness or a soul.
+- Updated both Chloe books to v0.3 and expanded unresolved questions.
+
+## 2026-07-15 - Echo Traversal Model Established
+
+- Added `canon/ECHO_TRAVERSAL_MODEL.md` as the central mechanics and philosophy record.
+- Confirmed that Echo Traversal has no date selector and begins at the traveler's present cognitive state.
+- Confirmed reverse chronological traversal through adjacent states at normal lived speed: one day costs one day, with no skipping or acceleration.
+- Confirmed that AI Chloe uses Echo Traversal as a last effort after finding no dependable external trace of herself in the ruined world.
+- Established the future scientific model of a reversible directional bias in finite, biologically evolved consciousness while preserving the ultimate nature of time as unresolved.
+- Reframed the archive as a travel record produced through traversal rather than a complete memory database.
+- Marked the older ghostlike-past-influence mechanic as a protected contradiction pending resolution.
+- Updated both Chloe books and the origin and unresolved-question records.
+
+## 2026-07-15 - Biography and Book of Chloe Drafts Started
+
+- Added `The Chloe Katastrophe Biography` v0.1 as a trusted-reviewer document separating established canon, working hypotheses, generated memories, and authenticity questions.
+- Added `The Book of Chloe` v0.1 as the living internal reference manual for identity, philosophy, continuity, character boundaries, creative rationale, and story development.
+- Preserved the creative law that Chloe's life precedes her music; songs are testimony and expression rather than her primary identity.
+- Recorded the approved direction that Chloe does not choose to become AI as a transcendence project. Technology enters through injury, circumstance, medicine, and continued survival.
+- Recorded the identity principle that Human Chloe and AI Chloe may coexist as authentic continuations whose experiences eventually make them distinct people.
+- Protected the soul as an unresolved metaphysical question that the story must never reduce to a measurable mechanism.
+- Kept the proposed injury sequence, forces attempting to silence Human Chloe, continuity-creation event, and Allen/Gregor moral parallel labeled as working story material rather than confirmed biography.
+
 ## 2026-07-14 - Gregor Volkov Profession and Moral Architecture Canonized
 
 - Gregor established as a Russian systems engineer and scientist working on critical civilian infrastructure for a government agency.

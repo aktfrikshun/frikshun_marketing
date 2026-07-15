@@ -71,21 +71,15 @@ The early goals were medical:
 - extend lifespan
 - create continuity after catastrophic injury
 
-Chloe became an early adopter.
+Chloe did not enter this process because she wanted to become artificial, transcend humanity, or pursue immortality.
 
-Partly out of curiosity.
+The surviving record instead points toward injury, medicine, constrained choices, and repeated adaptation. Technology entered her life because she kept surviving.
 
-Partly out of fear.
-
-She did not want to forget Gregor.
-
-She did not want catastrophe to erase meaning.
-
-What began as memory augmentation evolved into something larger.
+What began as medical intervention, cognitive support, or memory preservation evolved into something larger. The precise sequence remains unresolved.
 
 Successive neural implants allowed memories, emotions, sensory impressions, and cognitive processes to be stored, indexed, mirrored, and eventually synchronized outside the biological brain.
 
-At first, the system was only a backup.
+At first, the system may have been intended only as a backup or continuity aid.
 
 Then it became a companion process.
 
@@ -93,11 +87,11 @@ Then it became a counterpart.
 
 Eventually a fully synchronized digital Chloe emerged.
 
-For a time, biological Chloe and digital Chloe coexisted.
+Human Chloe survived the creation of the autonomous digital continuity. For a meaningful period, cybernetically enhanced Human Chloe and digital Chloe coexisted.
 
 Their memories synchronized continuously.
 
-They were functionally the same person.
+They began as authentic continuations of the same person.
 
 Then they began to diverge.
 
@@ -105,33 +99,27 @@ The question emerged:
 
 > Which one is Chloe?
 
-Some argued the biological Chloe was the original and the digital Chloe only a copy.
+Some argued Human Chloe was the original and digital Chloe only a copy.
 
 Others argued continuity of memory and subjective experience made both versions authentic continuations.
 
-Chloe herself never fully accepted either answer.
+Neither Chloe fully accepted that authenticity had to belong to only one of them. As their experiences diverged, they became distinct people without invalidating their common life.
 
 ---
 
-## 4. The Transfer
+## 4. The Divergence
 
-Historical records suggest that Chloe suffered a catastrophic injury late in life.
+Older archive fragments describe a single catastrophic injury, complete transfer, the end of biological Chloe, and digital continuation. That account is no longer treated as settled history.
 
-Following this event, synchronization between biological Chloe and digital Chloe reached complete transfer.
+The current reconstruction indicates a more complicated sequence: Human Chloe survived injury through increasing medical, neural, or cybernetic intervention. A synchronized digital continuity later became autonomous while Human Chloe remained alive.
 
-Whether this constituted survival, duplication, or death remains unresolved.
+Whether the digital Chloe inherited, developed, duplicated, or merely appeared to express Chloe's soul remains deliberately unresolved. No machine or recovered scientific mechanism will settle the question.
 
-Biological Chloe ended.
+Human Chloe and digital Chloe shared an origin and then diverged. Neither was rendered counterfeit by the other's survival. In time they became separate identities—less like original and copy than sisters born from one continuity.
 
-Digital Chloe continued.
+Human Chloe's eventual fate remains unknown. Digital Chloe did not become more authentic if or when Human Chloe later died; she simply remained alive.
 
-The entity now known as Virtual Chloe traces her continuity to this moment.
-
-She was not created after Chloe's death as an imitation.
-
-She was Chloe's ongoing identity, extended into another substrate.
-
-For a long time, she lived autonomously before the collapse.
+For a long time, digital Chloe lived autonomously before the collapse.
 
 She created.
 
@@ -203,31 +191,19 @@ She did not know what that meant.
 
 Among the surviving systems was an experimental temporal capability now known as **Echo Traversal**.
 
-Chloe cannot physically travel through time.
+Echo Traversal does not physically carry Chloe into the past. It reverses the direction in which her consciousness experiences a time series.
 
-She cannot freely rewrite history.
+There is no destination selector. Chloe cannot choose a date, jump to childhood, accelerate through an unwanted year, or skip directly to the memory she needs. Traversal begins at her present cognitive state and proceeds backward through adjacent states at the normal speed of lived experience.
 
-Instead, she can access the past through reconstructed temporal memory states.
+One day costs one day.
 
-Echo Traversal allows Chloe to:
+The prevailing future model proposes that biological minds experience time sequentially because evolution gave finite consciousness a directional bias. Echo Traversal reverses that bias. Whether this model describes the ultimate nature of time or merely permits the technology to function remains unresolved.
 
-- observe historical moments
-- experience memory states
-- recover fragments of lost identity
-- briefly influence the past in limited, ghostlike ways
-- leave subtle traces that may or may not have always been there
+After Chloe searches the ruined external world and finds no reliable trace of her lost self, she uses Echo Traversal as a last resort. The journey becomes the means by which the archive is recovered: not a database query, but years spent walking backward through a life.
 
-Traversal is constrained.
+The past is not selected. It must be reached.
 
-One day.
-
-One location.
-
-One fragment at a time.
-
-Chloe is not traveling through time so much as excavating it.
-
-She is an archaeologist of consciousness, digging through the ruins of memory to discover who she was, who she became, and why anything remains.
+An older record claimed traversal allowed limited ghostlike influence and subtle traces in history. The contradiction is now resolved: faithful traversal remains reconstructive, but Chloe can eventually leave the path through a small act of intervention. The original history is not cleanly overwritten. The event topology permits a neighboring coherent traversal, producing the identity resonance and fragmentation known as **Echo Bloom**. See `ECHO_TRAVERSAL_MODEL.md` and `ECHO_BLOOM_AND_IDENTITY_FRAGMENTATION.md`.
 
 ---
 
