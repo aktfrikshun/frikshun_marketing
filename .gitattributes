@@ -25,3 +25,4 @@
 # GitHub Pages serves public site assets from Git, not Git LFS.
 archives/chloe-katastrophe/site/assets/** -filter -diff -merge -text
 archives/chloe-katastrophe/site/images/** -filter -diff -merge -text
+/frikshun_logo.webp -filter -diff -merge -text
