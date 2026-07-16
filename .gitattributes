@@ -26,3 +26,7 @@
 archives/chloe-katastrophe/site/assets/** -filter -diff -merge -text
 archives/chloe-katastrophe/site/images/** -filter -diff -merge -text
 /frikshun_logo.webp -filter -diff -merge -text
+/apple-touch-icon.png -filter -diff -merge -text
+/favicon-16x16.png -filter -diff -merge -text
+/favicon-32x32.png -filter -diff -merge -text
+/favicon.ico -filter -diff -merge -text
