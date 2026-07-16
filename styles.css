@@ -978,7 +978,50 @@ section {
 .archive-cta .archive-kicker { color: #fff; opacity: 0.78; }
 .archive-cta .btn { background: #000; color: #fff; white-space: nowrap; }
 .archive-cta .btn:hover { box-shadow: 0 8px 30px rgba(0, 0, 0, 0.45); transform: translateY(-2px); }
-.archive-nav-menu a[href="archives.html"] { color: var(--primary-color); }
+.nav-menu .nav-active {
+  color: var(--primary-color);
+  text-shadow: 0 0 10px rgba(239, 68, 68, 0.45);
+}
+
+.archive-subnav {
+  position: sticky;
+  top: 73px;
+  z-index: 900;
+  background: rgba(5, 5, 5, 0.96);
+  border-bottom: 1px solid var(--border-color);
+  backdrop-filter: blur(12px);
+}
+
+.archive-subnav .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0;
+  padding-top: .7rem;
+  padding-bottom: .7rem;
+}
+
+.archive-subnav a {
+  color: var(--text-light);
+  font-family: 'Oswald', 'Montserrat', sans-serif;
+  font-size: .82rem;
+  font-weight: 600;
+  letter-spacing: .12em;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: .5rem 1.4rem;
+  border-right: 1px solid var(--border-color);
+  transition: color .2s, background .2s;
+}
+
+.archive-subnav a:first-child { border-left: 1px solid var(--border-color); }
+
+.archive-subnav a:hover,
+.archive-subnav a:focus-visible {
+  color: #fff;
+  background: rgba(239, 68, 68, .12);
+  outline: none;
+}
 .footer-brand { color: inherit; text-decoration: none; }
 
 @media (max-width: 1024px) {
@@ -1085,19 +1128,23 @@ section {
 
   .archive-cta-inner { align-items: flex-start; flex-direction: column; }
 
-  .archive-nav-menu {
-    display: flex;
-    position: static;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: flex-end;
-    background: transparent;
-    box-shadow: none;
-    padding: 0;
+  .archive-subnav { top: 73px; }
+
+  .archive-subnav .container {
+    justify-content: flex-start;
+    overflow-x: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    scrollbar-width: none;
   }
 
-  .archive-nav-menu li:nth-child(2),
-  .archive-nav-menu li:nth-child(3) { display: none; }
+  .archive-subnav .container::-webkit-scrollbar { display: none; }
+
+  .archive-subnav a {
+    flex: 0 0 auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
 }
 
 @media (max-width: 480px) {
@@ -1121,7 +1168,4 @@ section {
     grid-template-columns: 1fr;
   }
 
-  .archive-nav-menu li:first-child { display: none; }
-
-  .archive-nav-menu .btn-primary { padding: 0.5rem 0.8rem; }
 }
