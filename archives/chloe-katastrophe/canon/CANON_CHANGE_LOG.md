@@ -1,5 +1,14 @@
 # Chloe Katastrophe Canon Change Log
 
+## 2026-07-16 - Public Archive Reconciled with Current Canon
+
+- Rewrote the public timeline's 2022 family rupture to reflect Gregor's confirmed civilian-infrastructure role, rejection of propaganda, and decision to remain for people rather than nationalism.
+- Marked continuity technology, Echo Traversal, Echo Bloom, and identity convergence according to their current canon or hypothesis status.
+- Updated the About page with the fuller Volkov family inheritance, Allen's paradox role, the identity inquiry, and offline PDF editions.
+- Clarified visual-artifact provenance so generated reconstructions and emotionally true images do not silently become literal photographs.
+- Expanded the diary and philosophical questions to show how new evidence changes Chloe's opinions rather than quietly replacing earlier understanding.
+- Added a standing project rule requiring a public-site continuity review whenever meaningful canon or interpretation changes.
+
 ## 2026-07-15 - Phenomena, Many-to-Many Identity, and Epistemic Boundaries Added
 
 - Added `canon/PHENOMENA_NOT_YET_EXPLAINED.md`.

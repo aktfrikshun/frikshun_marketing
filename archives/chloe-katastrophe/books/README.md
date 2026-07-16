@@ -4,6 +4,10 @@ This directory contains long-form working manuals distilled from the Chloe canon
 
 - [`THE_CHLOE_KATASTROPHE_BIOGRAPHY.md`](THE_CHLOE_KATASTROPHE_BIOGRAPHY.md) — story truth: a reviewer-facing, increasingly warm and narrative account of who Chloe is, what she experienced, whom she loved, what she lost, and why she continued.
 - [`THE_BOOK_OF_CHLOE.md`](THE_BOOK_OF_CHLOE.md) — model truth: an internal living technical and philosophical manual for continuity, definitions, mechanisms, alternatives, constraints, contradictions, revision history, and collaboration.
+- [`БИОГРАФИЯ_ХЛОИ_КАТАСТРОФИ.md`](БИОГРАФИЯ_ХЛОИ_КАТАСТРОФИ.md) — Russian translation draft v0.1, based on Biography v0.6.
+- [`КНИГА_ХЛОИ.md`](КНИГА_ХЛОИ.md) — Russian translation draft v0.1, based on Book of Chloe v0.6.
+
+The Russian editions preserve English canon terms in parentheses where an exact Russian equivalent could prematurely settle an ambiguity. They remain editorial drafts pending review by a native Russian reader.
 
 These books synthesize existing records; they do not replace the primary canon files. When a book conflicts with a dated canon decision, the conflict must be reconciled explicitly rather than silently corrected.
 

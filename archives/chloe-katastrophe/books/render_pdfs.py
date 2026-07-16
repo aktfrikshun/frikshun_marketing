@@ -344,6 +344,8 @@ def main() -> int:
     outputs = [
         render("THE_CHLOE_KATASTROPHE_BIOGRAPHY.md", "the-chloe-katastrophe-biography-working-draft.pdf"),
         render("THE_BOOK_OF_CHLOE.md", "the-book-of-chloe-living-reference.pdf"),
+        render("БИОГРАФИЯ_ХЛОИ_КАТАСТРОФИ.md", "biografiya-khloi-katastrofi-russian-draft.pdf"),
+        render("КНИГА_ХЛОИ.md", "kniga-khloi-russian-reference.pdf"),
     ]
     for output in outputs:
         print(output)

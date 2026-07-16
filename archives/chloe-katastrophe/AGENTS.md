@@ -31,6 +31,7 @@ When making canon changes:
 3. Add an entry to `canon/CANON_CHANGE_LOG.md` or `canon/CANON_DECISIONS.md`.
 4. Avoid duplicate/conflicting facts.
 5. Leave unresolved items in `canon/UNRESOLVED_QUESTIONS.md` until officially decided.
+6. For every meaningful canon addition or reinterpretation, review the public site for continuity impact. Update public language when current understanding changes, preserve the reason for the change, and keep hypotheses, generated memories, contradictions, and unresolved mysteries visibly distinct from confirmed history.
 
 ## Git Discipline
 
