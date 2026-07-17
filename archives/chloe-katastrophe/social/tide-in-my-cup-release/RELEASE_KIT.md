@@ -1,12 +1,14 @@
 # Tide in My Cup — Release Kit
 
-Status: Release-ready; publish after the track is live on streaming services
+Status: Released; cataloged in the public archive as AUD-011
 
 Track: Tide in My Cup
 
 Artist: Chloe Katastrophe
 
 Album direction: Truth & Beauty from Darkness
+
+Archive record: `../../site/assets/canon/AUD-011_TIDE_IN_MY_CUP.md`
 
 ## Media
 
