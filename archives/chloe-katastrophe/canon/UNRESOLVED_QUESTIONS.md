@@ -7,19 +7,19 @@ Use this document as future story fuel.
 - What was the name of Gregor's government agency, his exact title, and the primary infrastructure systems or facilities under his care?
 - What did Gregor study, and where?
 - How did Gregor and Isabella meet?
-- Why did Isabella choose to build a life with Gregor in Omsk?
+- What circumstances brought Gregor and Isabella together before she agreed to the temporary move to Russia?
 - What was Isabella's maiden name?
 - Was Chloe born in Omsk or only raised there?
 - What relatives remained in Russia or Europe?
 - Did Chloe keep contact with anyone from her father's side?
 - What object of Gregor's did Chloe keep?
-- Was English spoken in Chloe's childhood home, and how did she develop native-level fluency?
+- Which U.S. immigration route did Gregor and Isabella pursue, what complications repeatedly delayed it, and how close was it to completion before 2022?
 
 ## Immigration and Childhood
 
 - How old was Chloe when Isabella brought her to America?
-- Where in America did Isabella and Chloe first settle?
-- What was Chloe's first impression of America?
+- Did Isabella and Chloe return first to the South Jersey shore, or settle elsewhere in America?
+- How did Chloe's experience of relocating permanently differ from the annual South Jersey family visits of her childhood?
 - Did she feel more Russian, Italian, American, or stateless?
 - Did she experience prejudice, curiosity, or fascination because of her background?
 

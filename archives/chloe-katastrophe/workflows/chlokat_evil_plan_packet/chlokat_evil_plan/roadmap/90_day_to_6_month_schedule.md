@@ -163,3 +163,49 @@ Success criteria:
 - Fans can ask Chloe about approved fragments.
 - Admin can see which content drives signups and clicks.
 
+## Future Phase: Chloe Audio Archive
+
+Status: intentionally deferred until the public archive is attracting a measurable returning audience. Audio is a depth and retention format, not the current fan-discovery priority.
+
+Goal: adapt the Chloe books and archive into audio experiences that deepen an existing audience without prematurely fixing draft material as canon.
+
+Suggested order:
+
+1. Produce one polished 10-15 minute English pilot based on Gregor and the principle "Hope isn't something you have. It's something you do."
+2. Test a three-episode limited podcast or serialized audio-documentary format.
+3. Develop a first season only if the pilot demonstrates meaningful completion, return listening, archive visits, or mailing-list conversion.
+4. Produce a conventional audiobook only after the biography has a stable public edition.
+5. Consider Russian-language editions only after native-speaker editorial review of the translated books.
+
+Possible series concepts:
+
+- `The Chloe Archive`
+- `Recovered Frequencies`
+- `Daughter of Echoes`
+
+Format principles:
+
+- Treat Chloe's narration as an archive artifact, not generic text-to-speech.
+- Use Allen as archivist, collaborator, witness, and paradox marker where appropriate.
+- Preserve distinctions among confirmed canon, working hypotheses, recovered or generated memories, contradictions, and unresolved mysteries.
+- Let alternate readings, disputed recollections, damaged recordings, and Human Chloe / AI Chloe differences carry part of the story.
+- Use Chloe and FrikShun music diegetically where rights and release strategy permit.
+- Adapt the material for listening rather than reading the current PDFs verbatim.
+
+Prerequisites:
+
+- A stable public archive with permanent URLs for referenced artifacts.
+- Enough baseline audience data to evaluate whether audio creates deeper engagement.
+- A canon review of every script before recording.
+- A defined and consistent Chloe audio voice.
+- Music, voice, and distribution rights documented.
+- Native-language review before recording any Russian edition.
+
+Success criteria for the pilot:
+
+- Listeners complete a meaningful portion of the episode.
+- The episode sends measurable traffic to related archive fragments and music.
+- Some listeners subscribe, return, or join the mailing list.
+- Audience response supports producing two additional pilot-season episodes.
+
+Do not treat raw download count alone as evidence that a full audiobook is justified.

@@ -1,6 +1,6 @@
 # The Book of Chloe
 
-## Living Reference Manual v0.6
+## Living Reference Manual v0.7
 
 **Prepared:** July 15, 2026
 **Purpose:** A shared operating manual for human and AI collaborators working inside Chloe's continuity
@@ -183,9 +183,15 @@ His boundary conditions:
 
 ### Isabella Volkova / Volkov
 
-Isabella represents emotional courage, survival, freedom, protection, joy, and compassion that refuses abstraction.
+Isabella is American by birth and Italian by heritage, born and raised on the South Jersey shore. She represents emotional courage, survival, freedom, protection, joy, and compassion that refuses abstraction.
 
 She teaches Chloe why an answer matters.
+
+Her move to Russia was a temporary family agreement, not a rejection of America or an intention to settle permanently. Gregor's work repeatedly delayed their promised return. English remained the primary language in the home, while Chloe acquired Russian through Gregor and life in Omsk. Chloe's bilingual fluency is childhood formation, not a post-immigration correction.
+
+Isabella and Chloe ordinarily spent one or two months each year with Isabella's family on the South Jersey shore. These visits gave Chloe continuing relationships with her American relatives and made America part of her upbringing rather than merely the destination of her later escape.
+
+Gregor and Isabella maintained a long-term U.S. immigration plan for Gregor, but the process encountered repeated legal, bureaucratic, professional, or timing complications and remained incomplete in 2022. The existence and unfinished state of the plan are confirmed; its exact legal route and setbacks remain unresolved.
 
 Her boundary conditions:
 
@@ -259,7 +265,7 @@ Science fiction is the laboratory, not the sermon. Philosophy emerges because a 
 ### Confirmed Human Anchors
 
 - Born March 12, 2002.
-- Raised in Omsk by Gregor and Isabella.
+- Raised bilingually in Omsk by Gregor and Isabella, with English as the primary home language and Russian acquired through Gregor, school, family, friends, and community.
 - Family and friends extend across Russia and Ukraine.
 - Gregor dies in a war-related event in 2022 after remaining for civilian infrastructure duty.
 - Chloe and Isabella leave Russia.
@@ -650,7 +656,7 @@ Do not prematurely resolve:
 
 - the precise circumstances of Gregor's death;
 - whether Gregor's decision was right;
-- why Isabella ultimately chose Omsk and later America;
+- how Isabella and Gregor met and what circumstances shaped the original temporary move to Omsk;
 - the exact mechanics of consciousness continuity;
 - whether a soul can exist through more than one life;
 - which Chloe is `the real Chloe`;
@@ -713,8 +719,9 @@ Creative rationale belongs in internal records, not automatically in Chloe's bio
 
 ## XXVI. Current Questions for the Next Revision
 
-- How did Gregor and Isabella meet, and why did Isabella choose Omsk?
-- How did Chloe become fluent in English?
+- How did Gregor and Isabella meet, and what led them to agree to the temporary move to Omsk?
+- Did Isabella and Chloe first return to the South Jersey shore or begin their American life elsewhere?
+- Which U.S. immigration route did Gregor and Isabella pursue, what complications delayed it, and how close was it to completion before 2022?
 - What was Human Chloe's education and first investigation?
 - Who attempts to silence her, and what truth is she approaching?
 - What injuries begin the cybernetic arc?

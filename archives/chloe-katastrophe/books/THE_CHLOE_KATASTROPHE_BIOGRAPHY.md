@@ -1,6 +1,6 @@
 # The Chloe Katastrophe Biography
 
-## Working Draft v0.6
+## Working Draft v0.7
 
 **Prepared:** July 15, 2026
 **Audience:** Trusted reviewers, cultural collaborators, continuity editors, and fact-checkers
@@ -35,7 +35,7 @@ Chloe was not created so that she could have songs. She was imagined as a person
 - **Chosen public identity:** Chloe Katastrophe.
 - **Approved nickname:** ChloKat.
 - **Birth date:** March 12, 2002.
-- **Heritage:** Russian father and Italian mother.
+- **Heritage:** Russian father and Italian-American mother.
 - **Father:** Gregor Volkov.
 - **Mother:** Isabella Volkova in Russian-family records; Isabella Volkov in later Americanized records.
 - **Public roles:** model, musician, explorer, photographer, storyteller, philosopher, and collector of mysteries.
@@ -54,6 +54,10 @@ Chloe's surname changes do not describe separate people. `Volkova` preserves her
 ### Established Canon
 
 Chloe was raised in Omsk, Russia, in a loving home shaped by two very different parents. Gregor brought calm, inquiry, patience, and systems thinking. Isabella brought passion, emotional courage, protection, and joy. Their daughter learned that understanding and wonder did not have to oppose one another.
+
+English was the primary language inside the Volkov home. Isabella spoke English with Chloe from birth; Chloe acquired Russian through Gregor, school, friends, extended family, and daily life in Omsk. She grew up genuinely bilingual rather than learning fluent English only after immigration.
+
+Isabella was deeply family-centered. She and Chloe ordinarily spent one or two months each year with Isabella's relatives on the South Jersey shore. Those visits allowed Chloe's American family to participate in her upbringing and made the United States a recurring second home rather than a country she encountered for the first time after 2022.
 
 Family and friends in Ukraine belonged to Chloe's ordinary human world. Their presence should be written through relationships—cousins, grandparents, food, trains, calls, visits, accents, and shared tables—rather than through geopolitical explanation.
 
@@ -116,9 +120,11 @@ Gregor may underestimate how completely institutions, fear, and cruelty can corr
 
 ### Established Canon
 
-Isabella is Italian by heritage: passionate, independent, expressive, protective, empathetic, determined, and fearless. She teaches Chloe courage, conviction, independence, emotional honesty, and survival.
+Isabella is American by birth and Italian by heritage. She was born and raised on the South Jersey shore in an Italian-American family whose primary household language was English. She is passionate, independent, expressive, protective, empathetic, determined, and fearless. She teaches Chloe courage, conviction, independence, emotional honesty, and survival.
 
-Gregor brought calm; Isabella brought fire. He encouraged her to examine possibilities. She pushed him to act when thought became delay. They argued often, loved deeply, and balanced one another until war created a question they could not reconcile.
+Gregor brought calm; Isabella brought fire. He encouraged her to examine possibilities. She pushed him to act when thought became delay. They argued often, loved deeply, and balanced one another.
+
+When Isabella agreed to move to Russia with Gregor, the move was meant to last only a few years. They planned to return to the United States when his work was complete. New projects and obligations kept extending the stay by one more year, and the repeatedly deferred promise became a source of strain. When the 2022 invasion began, Isabella decided that waiting was no longer acceptable. She intended for the whole family to leave; Gregor helped her and Chloe reach safety but remained because civilians depended on the systems he knew how to protect. The war did not create their disagreement about leaving Russia. It made the disagreement irreversible.
 
 Her survival inheritance is `Keep moving`. Chloe carries that command before she remembers where it came from.
 
@@ -132,9 +138,9 @@ Her survival inheritance is `Keep moving`. Chloe carries that command before she
 ### Working Hypotheses
 
 - How Isabella met Gregor.
-- Why she chose a life in Omsk.
 - Her profession and education.
-- Why she chose America after leaving Russia.
+- The circumstances in which she met Gregor and agreed to the original temporary move.
+- Which long-term U.S. immigration route Gregor and Isabella pursued, what complications delayed it, and how close it came to completion.
 - How her anger toward Gregor changed after his death.
 
 ## 5. Chloe After Gregor
@@ -154,8 +160,8 @@ Chloe models, creates, explores forgotten places, photographs beauty inside dama
 
 ### Working Biography Gaps
 
-- Immigration date, route, and first American home.
-- Education and language history.
+- Immigration date, route, and whether the first American home was near Isabella's South Jersey birthplace.
+- Education history.
 - Entry into modeling and first major work.
 - First investigation and the forces that begin watching or silencing her.
 - Early mentors, friends, rivals, lovers, and collaborators.

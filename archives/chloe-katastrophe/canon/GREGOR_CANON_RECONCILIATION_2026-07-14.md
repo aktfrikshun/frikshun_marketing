@@ -36,6 +36,7 @@ This record preserves the reasoning behind the canon changes without converting 
 - He stayed from responsibility toward people, including family and friends on both sides of the border, not from nationalism or faith in the government.
 - Gregor and Isabella's final moral conflict was real and unresolved. Gregor believed someone had to protect civilian systems and the people depending on them. Isabella believed his first duty was to survive for his daughter and leave with his family.
 - Neither position is declared correct. Gregor's choice may have been morally sincere and strategically mistaken.
+- Isabella's move to Russia had always been understood as temporary. The family's planned return to the United States was repeatedly delayed by Gregor's continuing work, so the invasion intensified a long-standing marital conflict rather than creating the question of departure from nothing.
 
 ### Death and Missing Record
 
@@ -106,8 +107,7 @@ The discussion generated vivid possibilities that remain lyric candidates rather
 ## Still Unresolved
 
 - How Gregor and Isabella met.
-- Why Isabella chose to build a life in Omsk.
-- Whether English was spoken in Chloe's childhood home and how she developed native-level fluency.
+- The precise circumstances in which Isabella and Gregor agreed to the first move to Omsk.
 - Gregor's agency name, exact title, education, and specific facilities or systems.
 - Gregor's age at death.
 - The exact sequence and location of Gregor's death.

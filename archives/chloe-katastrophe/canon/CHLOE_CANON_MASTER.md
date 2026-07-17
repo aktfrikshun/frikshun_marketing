@@ -9,7 +9,7 @@
 **Birth date:** March 12, 2002
 **Zodiac:** Pisces
 **Age:** 24 in 2026; apparent age range 24-26
-**Family heritage:** Italian mother, Russian father  
+**Family heritage:** Italian-American mother, Russian father
 **Current visual model:** primarily Slavic / Eastern European appearance  
 **Height:** approximately 5'7" / 170 cm  
 **Role:** Fictional model, adventurer, philosopher, storyteller, collector of mysteries, and future FrikFan social presence.
@@ -303,7 +303,15 @@ He was a good man who believed he was serving honorably. He was not a villain, f
 
 ### Mother: Isabella Volkova / Isabella Volkov
 
-Isabella is Italian by heritage. In Russian-family records she appears as Isabella Volkova; after immigration she uses the Americanized family form Isabella Volkov in English-language paperwork and public records. She is independent, passionate, expressive, fierce, and protective.
+Isabella is American by birth and Italian by heritage. She was born and raised on the South Jersey shore in an Italian-American family whose primary household language was English. In Russian-family records she appears as Isabella Volkova; after returning to the United States she uses the Americanized family form Isabella Volkov in English-language paperwork and public records. She is independent, passionate, expressive, fierce, and protective.
+
+When Isabella agreed to move to Russia with Gregor, both expected the move to last only a few years. Their shared plan was to return to the United States after Gregor's work was complete. His responsibilities repeatedly produced one more project, one more obligation, and one more year, gradually turning a temporary compromise into a source of conflict.
+
+English remained the family's primary home language after Chloe was born. Chloe acquired Russian through Gregor, school, friends, extended family, and daily life in Omsk. She therefore grew up genuinely bilingual and did not acquire fluent English only after immigration.
+
+Isabella remained deeply family-centered. She and Chloe ordinarily spent one or two months each year visiting Isabella's family on the South Jersey shore, allowing Chloe's American relatives to participate in her upbringing. These recurring visits made the United States a second family home long before the 2022 departure from Russia.
+
+Gregor and Isabella maintained a long-term U.S. immigration plan for Gregor in preparation for the family's eventual return. The process encountered recurring legal, bureaucratic, professional, or timing complications and remained incomplete when the 2022 invasion began. The exact applications and setbacks remain unresolved and must not be explained by marriage alone.
 
 She taught Chloe:
 
@@ -320,7 +328,7 @@ Isabella believed knowledge without purpose was incomplete. She taught Chloe tha
 
 ### Gregor and Isabella Together
 
-Before the 2022 family rupture, Gregor and Isabella were opposites who fit together beautifully.
+Before the 2022 family rupture, Gregor and Isabella were opposites who fit together beautifully. Their marriage remained loving, but the repeatedly deferred return to the United States created a real and accumulating strain.
 
 Gregor brought calm. Isabella brought fire.  
 Gregor helped Isabella slow down and examine possibilities.  
@@ -332,7 +340,7 @@ They argued often. They loved deeply. They balanced each other.
 
 The war created the one question they could not reconcile.
 
-Gregor did not enlist or volunteer for combat. When the 2022 invasion began, his existing civilian government role and critical-infrastructure responsibilities required his presence. He helped Isabella and Chloe leave for safety but remained behind because hospitals, communications, emergency services, power systems, and ordinary families still depended on the work he knew how to perform.
+Gregor did not enlist or volunteer for combat. When the 2022 invasion began, Isabella decided the family could no longer postpone leaving Russia. Gregor's existing civilian government role and critical-infrastructure responsibilities required his presence. He helped Isabella and Chloe leave for safety but remained behind because hospitals, communications, emergency services, power systems, and ordinary families still depended on the work he knew how to perform.
 
 Gregor viewed service through responsibility toward people rather than nationalism or trust in government.
 

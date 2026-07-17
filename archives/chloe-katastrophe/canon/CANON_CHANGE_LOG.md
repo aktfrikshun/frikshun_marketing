@@ -1,5 +1,16 @@
 # Chloe Katastrophe Canon Change Log
 
+## 2026-07-17 - Isabella's American Origin and Chloe's Bilingual Childhood Canonized
+
+- Established Isabella as American-born and Italian by ancestry, raised on the South Jersey shore in a primarily English-speaking family.
+- Confirmed that Isabella's move to Russia was intended to last only a few years and that the family always planned to return to the United States after Gregor's work was complete.
+- Established Gregor's repeated work extensions as a source of accumulating marital strain before 2022.
+- Confirmed English as the primary language inside the Volkov home and Chloe as bilingual from childhood through English at home and Russian through Gregor, school, family, friends, and life in Omsk.
+- Established Isabella as deeply family-centered and confirmed that she and Chloe ordinarily spent one or two months each year with Isabella's family on the South Jersey shore, allowing those relatives to share in Chloe's upbringing.
+- Confirmed that Gregor and Isabella maintained a long-term U.S. immigration plan for him, but recurring complications left it incomplete in 2022; the exact legal route and setbacks remain unresolved.
+- Clarified that the invasion made a long-deferred departure urgent rather than creating the question of leaving Russia from nothing.
+- Updated both English Chloe books to v0.7, regenerated their PDFs, and reconciled the public archive with the approved history.
+
 ## 2026-07-16 - Public Archive Reconciled with Current Canon
 
 - Rewrote the public timeline's 2022 family rupture to reflect Gregor's confirmed civilian-infrastructure role, rejection of propaganda, and decision to remain for people rather than nationalism.
