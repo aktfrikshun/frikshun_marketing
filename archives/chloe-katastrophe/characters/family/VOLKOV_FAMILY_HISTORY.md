@@ -16,7 +16,15 @@ When the 2022 invasion began, Gregor did not enlist or volunteer to fight. His e
 
 ## Isabella Volkov
 
-Italian by heritage. Embodied passion, courage, empathy, and purpose.
+American by birth and Italian by heritage. Isabella was born and raised on the South Jersey shore in an Italian-American family whose primary household language was English. She embodied passion, courage, empathy, and purpose.
+
+When she agreed to move to Russia with Gregor, they expected the arrangement to last only a few years. The family intended to return to the United States when Gregor's work was complete. Successive projects and obligations kept producing one more reason to remain for one more year, and the deferred promise became a source of conflict in the marriage.
+
+English remained the primary language in the Volkov home after Chloe was born. Chloe learned Russian through Gregor, school, friends, extended family, and life in Omsk, growing up bilingual rather than acquiring English only after immigration.
+
+Isabella remained closely connected to her South Jersey family. She and Chloe usually returned to the United States for one or two months each year, allowing Isabella's relatives to share in Chloe's upbringing. America was therefore a recurring part of Chloe's childhood rather than a wholly unfamiliar country encountered only after 2022.
+
+Gregor and Isabella maintained a long-term immigration plan intended to let Gregor relocate permanently to the United States with the family. The process encountered recurring legal, bureaucratic, professional, or timing complications and was never completed before the 2022 rupture. The exact applications, status, and setbacks remain unresolved; marriage to Isabella alone is not treated as sufficient explanation.
 
 ## The Catastrophe
 
@@ -55,4 +63,4 @@ Truth and responsibility.
 People and politics.
 Service and survival.
 
-Gregor and Isabella's final disagreement remains unresolved inside Chloe. Gregor believed duty could require staying to protect civilians; Isabella believed his first duty was to leave and remain alive for his daughter. Chloe inherits both moral instincts rather than a clean answer.
+Gregor and Isabella's final disagreement remains unresolved inside Chloe. The war did not create their disagreement about leaving Russia; it made a long-deferred decision impossible to postpone. Gregor believed duty could require staying to protect civilians; Isabella believed his first duty was to leave and remain alive for his daughter. Chloe inherits both moral instincts rather than a clean answer.

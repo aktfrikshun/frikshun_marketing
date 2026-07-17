@@ -11,9 +11,17 @@ TBD
 
 Raised by Gregor and Isabella.
 
+English is the primary language inside the family home. Chloe learns Russian through Gregor, school, friends, extended family, and ordinary life in Omsk, growing up bilingual.
+
+Isabella's move to Russia was intended to last only a few years. The family planned to return to the United States after Gregor's work was complete, but successive obligations repeatedly delayed the move and created strain in the marriage.
+
+Isabella and Chloe ordinarily spend one or two months each year with Isabella's family on the South Jersey shore. Chloe's American relatives share in her upbringing, and the United States becomes a recurring second home rather than an unknown destination.
+
 ## 2022 — Full-Scale Invasion of Ukraine
 
-Gregor Volkov is killed in a war-related event during the full-scale Russian invasion of Ukraine.
+When the invasion begins, Isabella decides the family can no longer postpone leaving Russia. Gregor helps Isabella and Chloe depart but remains because civilians depend on the critical systems he knows how to protect.
+
+Gregor Volkov is later killed in a war-related event during the full-scale Russian invasion of Ukraine.
 
 Chloe is 19, nearly 20. She experiences his death as the defining catastrophe of her life: a senseless war that turned people with shared histories, languages, families, and cultural memory against one another — brother against brother.
 

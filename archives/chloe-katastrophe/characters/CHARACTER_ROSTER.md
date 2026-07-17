@@ -35,7 +35,7 @@ Status:
 Active
 
 Description:
-Italian mother who raised Chloe after Gregor's death.
+American-born, Italian-heritage mother from the South Jersey shore who raised Chloe bilingually and returned to the United States with her after the 2022 invasion began.
 
 ---
 

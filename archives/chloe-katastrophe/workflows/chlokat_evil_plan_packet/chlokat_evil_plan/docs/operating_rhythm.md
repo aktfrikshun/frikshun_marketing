@@ -1,5 +1,7 @@
 # Weekly Operating Rhythm
 
+> **Audience-growth override:** While the project is building its first active audience, follow [`../roadmap/audience_growth_work_plan.md`](../roadmap/audience_growth_work_plan.md). The cadence below is a later multi-channel operating target, not a requirement to publish everywhere before the discovery formats and priority platforms are validated.
+
 ## Weekly Goal
 
 Create once. Adapt everywhere. Lead people deeper into the ChloKat world.

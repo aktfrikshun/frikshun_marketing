@@ -75,3 +75,9 @@ The system should turn one artifact into platform-appropriate drafts, each writt
 ## First Useful Version
 
 One upload. Seven drafts. Five minutes.
+
+## Deferred Depth Format: Audio
+
+Podcast, serialized audio-documentary, and audiobook adaptations belong after the discovery and fan-funnel phases. The current books are valuable source material, but the immediate priority is building an audience for them.
+
+When a measurable returning audience exists, begin with a short English podcast pilot rather than a full audiobook. A conventional audiobook should wait for a stable public biography; Russian audio should wait for native-speaker editorial review. The detailed gating criteria and format principles are recorded in the implementation schedule under `Future Phase: Chloe Audio Archive`.

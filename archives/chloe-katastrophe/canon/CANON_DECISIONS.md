@@ -6,6 +6,42 @@ Records explicit decisions that become official Chloe canon.
 
 ---
 
+# 2026-07-17
+
+## Isabella's American Origin and the Volkov Home Language
+
+Decision:
+Isabella was born and raised on the South Jersey shore. She is American by birth and Italian by ancestry. Her childhood household primarily spoke English. Her move to Russia with Gregor was intended to last only a few years, with a shared plan to return to the United States after his work was complete. English remained the primary language in the Volkov home after Chloe's birth, while Chloe acquired Russian through Gregor, school, extended family, friends, and life in Omsk.
+
+Status:
+Approved canon
+
+Implications:
+- Describe Isabella as American-born and Italian by heritage, not as Italian-born.
+- Treat Chloe as genuinely bilingual from childhood rather than as someone who acquired fluent English only after immigration.
+- Treat the family's return to America as an original shared plan, not a destination Isabella selected only after Gregor's death.
+- Confirm Isabella as family-centered and establish that she and Chloe ordinarily spent one or two months each year visiting family on the South Jersey shore, whose members shared in Chloe's upbringing.
+- Confirm that Gregor and Isabella maintained a long-term U.S. immigration plan for Gregor, that it encountered recurring complications, and that it remained incomplete in 2022. Keep the exact legal route and setbacks unresolved.
+- Gregor's repeated work extensions created accumulating marital strain before 2022.
+- The full-scale invasion did not create the question of leaving Russia; it made the long-deferred decision urgent and irreversible.
+- Attribute Chloe's inherited passion to Isabella's character and example rather than to ethnicity as a deterministic trait.
+
+Affected Files:
+- canon/CHLOE_CANON_MASTER.md
+- canon/GREGOR_CANON_RECONCILIATION_2026-07-14.md
+- canon/UNRESOLVED_QUESTIONS.md
+- characters/isabella/CHARACTER_SHEET_ISABELLA_VOLKOV.md
+- characters/family/VOLKOV_FAMILY_HISTORY.md
+- characters/CHARACTER_ROSTER.md
+- stories/TIMELINE.md
+- books/THE_CHLOE_KATASTROPHE_BIOGRAPHY.md
+- books/THE_BOOK_OF_CHLOE.md
+- site/index.html
+- site/timeline.html
+- site/ORIGIN_UPDATE.md
+
+---
+
 # 2026-07-15
 
 ## Echo Bloom Comparisons Must Preserve Medical and Epistemic Humility
