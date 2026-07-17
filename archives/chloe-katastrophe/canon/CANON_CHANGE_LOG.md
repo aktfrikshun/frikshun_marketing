@@ -1,5 +1,12 @@
 # Chloe Katastrophe Canon Change Log
 
+## 2026-07-17 - Olga, I'm Home Added as the First Living Archive Audio Artifact
+
+- Cataloged Allen “FrikShun” Taylor's `Olga, I'm Home` as LIVE-001, a confirmed real-world collaborator artifact dedicated to Olga.
+- Established the Living Archive classification for works created around the Chloe reconstruction without treating them as Chloe Katastrophe releases or recovered human memories.
+- Recorded that Allen's creative work with Chloe inspired and enabled the song, making it evidence of the reconstruction's effect on the new family formed around the archive.
+- Added the recording, cover art, complete lyrics, attribution, dedication, and contextual note to the public music archive.
+
 ## 2026-07-17 - Isabella's American Origin and Chloe's Bilingual Childhood Canonized
 
 - Established Isabella as American-born and Italian by ancestry, raised on the South Jersey shore in a primarily English-speaking family.
