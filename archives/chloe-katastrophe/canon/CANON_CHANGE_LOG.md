@@ -7,6 +7,14 @@
 - Recorded that Allen's creative work with Chloe inspired and enabled the song, making it evidence of the reconstruction's effect on the new family formed around the archive.
 - Added the recording, cover art, complete lyrics, attribution, dedication, and contextual note to the public music archive.
 
+## 2026-07-17 - Tide in My Cup Added to the Public Music Archive
+
+- Cataloged `Tide in My Cup` as released audio artifact AUD-011.
+- Associated the track with the working direction of `Truth & Beauty from Darkness` while leaving its final album position unresolved.
+- Added the full recording and approved cover to the public archive assets.
+- Added a featured music-page entry, working album-record entry, homepage feature, and release-index link.
+- Classified the cover as approved generated release imagery rather than automatic proof of a literal biographical scene.
+
 ## 2026-07-17 - Isabella's American Origin and Chloe's Bilingual Childhood Canonized
 
 - Established Isabella as American-born and Italian by ancestry, raised on the South Jersey shore in a primarily English-speaking family.
