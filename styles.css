@@ -1113,3 +1113,28 @@ section {
   }
 
 }
+
+/* Legal pages */
+.legal-page { background: #050505; min-height: 100vh; }
+.legal-nav .nav-brand { color: inherit; }
+.legal-main { padding: 4.5rem 0 6rem; }
+.legal-header { max-width: 850px; margin-bottom: 3rem; }
+.legal-kicker { color: var(--primary-color); font-weight: 800; letter-spacing: .16em; text-transform: uppercase; font-size: .78rem; }
+.legal-header h1 { margin: .55rem 0 1rem; font-family: 'Oswald', sans-serif; font-size: clamp(2.8rem, 7vw, 5rem); line-height: 1; text-transform: uppercase; }
+.legal-effective { color: var(--text-light); }
+.legal-layout { display: grid; grid-template-columns: minmax(180px, 240px) minmax(0, 780px); gap: 4rem; align-items: start; }
+.legal-toc { position: sticky; top: 100px; padding: 1.25rem; border: 1px solid var(--border-color); background: var(--bg-card); }
+.legal-toc strong { display: block; margin-bottom: .75rem; color: #fff; text-transform: uppercase; font-size: .78rem; letter-spacing: .1em; }
+.legal-toc a { display: block; padding: .35rem 0; color: var(--text-light); text-decoration: none; font-size: .9rem; }
+.legal-toc a:hover { color: var(--primary-color); }
+.legal-content section { scroll-margin-top: 110px; padding: 0 0 2.2rem; margin-bottom: 2.2rem; border-bottom: 1px solid var(--border-color); }
+.legal-content h2 { margin-bottom: .9rem; color: #fff; font-family: 'Oswald', sans-serif; font-size: 1.65rem; text-transform: uppercase; letter-spacing: .03em; }
+.legal-content h3 { margin: 1.4rem 0 .55rem; color: #fff; font-size: 1rem; }
+.legal-content p, .legal-content li { color: #c5c8cf; }
+.legal-content p + p { margin-top: 1rem; }
+.legal-content ul { margin: .8rem 0 0 1.25rem; }
+.legal-content li + li { margin-top: .5rem; }
+.legal-content a { color: #f87171; }
+.legal-callout { padding: 1rem 1.15rem; border-left: 3px solid var(--primary-color); background: rgba(239,68,68,.07); }
+.legal-footer-links { display: flex; gap: 1rem; flex-wrap: wrap; }
+@media (max-width: 768px) { .legal-main { padding-top: 3rem; } .legal-layout { grid-template-columns: 1fr; gap: 2rem; } .legal-toc { position: static; } }
