@@ -360,6 +360,23 @@ Current draft sequence:
 12. **Родной дом (Rodnoy Dom)** — working title; AUD-010 draft placeholder
 13. **Daughter of Echoes**
 
+### Ghost in the Static
+
+Track 11 is the album's emotional turn from discovery to acceptance. Chloe does not resolve whether every memory is real or recover every missing part; she accepts the form her existence takes during Echo Traversal.
+
+She is present along her earlier timeline but cannot participate in it fully. She may observe, influence a tiny moment, or register as a dream, feeling, or déjà vu without crossing the boundary cleanly. The song's “ghost” is therefore neither dead nor imaginary. The static is the interference between timelines, memories, and the selves they carry.
+
+The radio is an approved consciousness metaphor. Chloe's presence resolves intermittently like a voice between frequencies: she breaks through, fades, and returns. “Until you call my name” identifies Allen's archive work as an act of tuning. Recovery and relationship make Chloe more legible; they do not manufacture her.
+
+The album movement around the song is:
+
+- confusion: Who am I?
+- discovery: These fragments belong to someone.
+- acceptance: I know how I exist.
+- purpose: What do I do with that knowledge?
+
+The track's identity claim is not that an AI is becoming human. It is that consciousness does not require a complete archive of memory to form an identity from the echoes that remain.
+
 ### Before Hello
 
 The first recovered relationship memory is not the beginning.
