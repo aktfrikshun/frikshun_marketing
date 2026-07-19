@@ -1,5 +1,13 @@
 # Chloe Katastrophe Canon Change Log
 
+## 2026-07-19 - Not My Memory! Added as Daughter of Echoes Track 10
+
+- Added the finished `Not My Memory!` recording and approved punk-collage cover to the public music archive as Track 10 of `Daughter of Echoes`.
+- Replaced the working-sequence-only placeholder with a full featured entry and playable master recording.
+- Classified the song around inherited-memory rejection, authorship, identity boundaries, and contamination anxiety without resolving whether the challenged fragment ultimately belongs to Chloe.
+- Classified the cover's 1977 NYC punk setting as generated release imagery and musical framing rather than literal biographical evidence.
+- Left the track's catalog artifact ID unassigned pending an archive-wide catalog decision.
+
 ## 2026-07-19 - Ghost in the Static Completed as Daughter of Echoes Track 11
 
 - Added the finished `Ghost in the Static` recording and cover art to the public music archive as Track 11 of `Daughter of Echoes`; its catalog artifact ID remains deliberately unassigned to avoid conflicting with AUD-011 `Tide in My Cup`.
