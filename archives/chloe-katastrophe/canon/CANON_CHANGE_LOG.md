@@ -1,5 +1,11 @@
 # Chloe Katastrophe Canon Change Log
 
+## 2026-07-19 - Daughter of Echoes Tracks 10–12 Normalized on Music Page
+
+- Added consistent individual-entry, WAV, and lyrics links to the working album rows for Track 10 `Not My Memory!`, Track 11 `Ghost in the Static`, and Track 12 `Родной дом`.
+- Added the existing `Родной дом` musical draft to the public archive as an archival WAV and exposed its complete first-draft lyrics while preserving its AUD-010 draft status.
+- Added only the lyric fragment visibly preserved by the approved `Not My Memory!` cover; the missing complete creator lyric sheet remains explicitly undeclared rather than reconstructed or invented.
+
 ## 2026-07-19 - Not My Memory! Added as Daughter of Echoes Track 10
 
 - Added the finished `Not My Memory!` recording and approved punk-collage cover to the public music archive as Track 10 of `Daughter of Echoes`.
