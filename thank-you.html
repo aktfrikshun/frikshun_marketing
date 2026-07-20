@@ -1,68 +1,76 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Thank You - FrikShun</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Your FrikShun project inquiry has been received.">
+  <meta name="theme-color" content="#07090b">
+  <title>Message received — FrikShun</title>
+  <link rel="icon" href="favicon.ico">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&family=Oswald:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css">
-  <style>
-    .thank-you {
-      min-height: 60vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      text-align: center;
-      padding: 4rem 2rem;
-    }
-    .thank-you-content {
-      max-width: 600px;
-    }
-    .thank-you h1 {
-      font-family: 'Oswald', 'Montserrat', sans-serif;
-      font-size: 2.5rem;
-      font-weight: 700;
-      margin-bottom: 1rem;
-      color: var(--primary-color);
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
-    }
-    .thank-you p {
-      font-size: 1.2rem;
-      color: var(--text-light);
-      margin-bottom: 2rem;
-      line-height: 1.8;
-    }
-  </style>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css?v=20260719-thanks">
+  <script src="script.js" defer></script>
 </head>
-<body>
-  <nav class="navbar">
-    <div class="container">
-      <div class="nav-brand">
-        <img src="frikshun_logo.webp" alt="FrikShun Logo" class="logo">
-        <span class="brand-name">FrikShun</span>
-      </div>
-      <ul class="nav-menu">
-        <li><a href="index.html#services">Services</a></li>
-        <li><a href="index.html#contact">Contact</a></li>
-      </ul>
-    </div>
-  </nav>
+<body id="top" class="thank-you-page">
+  <a class="skip-link" href="#main">Skip to content</a>
 
-  <section class="thank-you">
-    <div class="container">
-      <div class="thank-you-content">
-        <h1>Thank You!</h1>
-        <p>Your message has been sent successfully. We'll get back to you as soon as possible.</p>
-        <a href="index.html" class="btn btn-large">Return to Home</a>
-        <p style="margin-top: 1.5rem; font-size: 0.9rem; color: var(--text-light);">
-          Or email us directly at <a href="mailto:aktfrikshun@gmail.com" style="color: var(--primary-color); text-decoration: none;">aktfrikshun@gmail.com</a>
-        </p>
-      </div>
+  <header class="site-header" data-header>
+    <div class="shell nav-wrap">
+      <a class="brand" href="index.html" aria-label="FrikShun home">
+        <img src="frikshun_logo.webp" alt="" width="48" height="48">
+        <span>FRIKSHUN</span>
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+        <span></span><span></span><span></span><span class="sr-only">Open navigation</span>
+      </button>
+      <nav id="site-nav" class="site-nav" aria-label="Primary navigation">
+        <a href="index.html#approach">Approach</a>
+        <a href="index.html#services">Capabilities</a>
+        <a href="index.html#work">Work</a>
+        <a href="archives.html">Archives</a>
+        <a class="nav-cta" href="index.html#contact">Start a project <span aria-hidden="true">↗</span></a>
+      </nav>
     </div>
-  </section>
+  </header>
+
+  <main id="main" class="thank-you-main">
+    <div class="thank-you-grid" aria-hidden="true"></div>
+    <div class="thank-you-orbit" aria-hidden="true"></div>
+    <section class="shell thank-you-layout" aria-labelledby="thank-you-title">
+      <div class="thank-you-copy">
+        <p class="eyebrow"><span></span> Transmission received</p>
+        <h1 id="thank-you-title">The conversation<br><em>starts here.</em></h1>
+        <p class="thank-you-lede">Your message made it through. We’ll review the constraint, the outcome you’re pursuing, and the right next move—then get back to you soon.</p>
+        <div class="hero-actions">
+          <a class="button" href="index.html">Return home <span aria-hidden="true">→</span></a>
+          <a class="button button-ghost" href="mailto:aktfrikshun@gmail.com">Email directly</a>
+        </div>
+      </div>
+
+      <aside class="thank-you-status" aria-label="Inquiry status">
+        <span class="signal-status"><i></i> Inquiry status</span>
+        <strong>Message received</strong>
+        <dl>
+          <div><dt>01</dt><dd>Submission secured</dd></div>
+          <div><dt>02</dt><dd>Review pending</dd></div>
+          <div><dt>03</dt><dd>Response to follow</dd></div>
+        </dl>
+        <small>FRIKSHUN / NEW BERN, NC / REMOTE</small>
+      </aside>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="shell footer-grid">
+      <a class="brand" href="index.html"><img src="frikshun_logo.webp" alt="" width="42" height="42"><span>FRIKSHUN</span></a>
+      <p>Engineering complex challenges into measurable progress.</p>
+      <nav aria-label="Social links"><a href="https://github.com/aktfrikshun" target="_blank" rel="noopener">GitHub</a><a href="https://linkedin.com/in/allenktaylor" target="_blank" rel="noopener">LinkedIn</a><a href="archives.html">Archives</a></nav>
+      <nav aria-label="Legal links"><a href="terms.html">Terms</a><a href="privacy.html">Privacy</a><a href="acceptable-use.html">Acceptable use</a></nav>
+      <small>© 2026 FrikShun. All rights reserved.</small>
+    </div>
+  </footer>
 </body>
 </html>
-
