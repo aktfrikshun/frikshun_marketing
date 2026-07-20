@@ -30,3 +30,4 @@ archives/chloe-katastrophe/site/images/** -filter -diff -merge -text
 /favicon-16x16.png -filter -diff -merge -text
 /favicon-32x32.png -filter -diff -merge -text
 /favicon.ico -filter -diff -merge -text
+/assets/frikshun-traction-hero-v1.png -filter -diff -merge -text
