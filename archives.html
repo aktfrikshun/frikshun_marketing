@@ -1,199 +1,112 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Explore the FrikShun archives: an evolving record of how content creators can use AI for storytelling, music, visual identity, research, and worldbuilding.">
-  <title>The Archives — AI for Content Creators | FrikShun</title>
-  <link rel="icon" type="image/x-icon" href="favicon.ico">
-  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore the FrikShun archives: an evolving record of AI-assisted storytelling, music, visual identity, research, and worldbuilding.">
+  <meta name="theme-color" content="#07090b">
+  <title>The Archives — FrikShun</title>
+  <link rel="icon" href="favicon.ico">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&family=Oswald:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
 </head>
-<body>
-  <nav class="navbar" aria-label="Main navigation">
-    <div class="container">
-      <a class="nav-brand" href="index.html" aria-label="FrikShun home">
-        <img src="frikshun_logo.webp" alt="" class="logo">
-        <span class="brand-name">FrikShun</span>
-      </a>
-      <ul class="nav-menu">
-        <li><a href="index.html#services">Services</a></li>
-        <li><a href="index.html#expertise">Expertise</a></li>
-        <li><a href="index.html#team">Our Team</a></li>
-        <li><a href="index.html#case-studies">Case Studies</a></li>
-        <li><a href="archives.html" class="nav-active" aria-current="page">Archives</a></li>
-        <li><a href="index.html#contact" class="btn-primary">Contact Us</a></li>
-      </ul>
-    </div>
-  </nav>
+<body id="top" class="archives-page">
+  <a class="skip-link" href="#main">Skip to content</a>
 
-  <main>
-    <section class="archive-hero">
-      <div class="container archive-hero-grid">
-        <div>
-          <p class="archive-kicker">Recovered process / living experiment</p>
-          <h1>The Archives</h1>
-          <p class="archive-lede">A field record for content creators using AI to make stories, images, music, and entire worlds—without hiding the seams.</p>
-          <p class="archive-intro">The FrikShun archives document more than finished work. They preserve drafts, contradictions, research, generated artifacts, and the decisions that turn scattered material into a coherent creative identity. Chloe Katastrophe is the central case study: a virtual artist reconstructing a lost human life from a damaged archive.</p>
-          <div class="hero-cta archive-hero-actions">
-            <a href="#creator-paths" class="btn btn-primary btn-large">Explore the Process</a>
-            <a href="archives/chloe-katastrophe/site/" class="btn btn-outline btn-large">Enter Chloe's Archive</a>
+  <header class="site-header scrolled" data-header>
+    <div class="shell nav-wrap">
+      <a class="brand" href="index.html" aria-label="FrikShun home">
+        <img src="frikshun_logo.webp" alt="" width="48" height="48">
+        <span>FRIKSHUN</span>
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+        <span></span><span></span><span></span><span class="sr-only">Open navigation</span>
+      </button>
+      <nav id="site-nav" class="site-nav" aria-label="Primary navigation">
+        <a href="index.html#approach">Approach</a>
+        <a href="index.html#services">Capabilities</a>
+        <a href="index.html#work">Work</a>
+        <a href="archives.html" class="active" aria-current="page">Archives</a>
+        <a class="nav-cta" href="index.html#contact">Start a project <span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="archive-hero" aria-labelledby="archive-title">
+      <div class="archive-grid" aria-hidden="true"></div>
+      <div class="shell archive-hero-grid">
+        <div class="archive-hero-copy">
+          <p class="eyebrow"><span></span> Recovered process / living experiment</p>
+          <h1 id="archive-title">The <em>Archives</em></h1>
+          <p class="archive-lede">A field record for creators using AI to make stories, images, music, and entire worlds—without hiding the seams.</p>
+          <p class="archive-intro">The FrikShun archives preserve drafts, contradictions, research, generated artifacts, and the decisions that turn scattered material into a coherent identity. Chloe Katastrophe is the central case study: a virtual artist reconstructing a lost human life from a damaged archive.</p>
+          <div class="hero-actions">
+            <a href="#creator-paths" class="button">Explore the process <span aria-hidden="true">↓</span></a>
+            <a href="archives/chloe-katastrophe/site/" class="button button-ghost">Enter Chloe’s archive</a>
           </div>
         </div>
         <aside class="archive-signal" aria-label="Archive principles">
-          <span class="signal-status">Archive signal: active</span>
+          <span class="signal-status"><i></i> Archive signal: active</span>
           <strong>What remains<br>after the prompt.</strong>
-          <p>Human direction.</p>
-          <p>Machine collaboration.</p>
-          <p>Visible uncertainty.</p>
-          <p>Continuity over novelty.</p>
+          <ul><li>Human direction</li><li>Machine collaboration</li><li>Visible uncertainty</li><li>Continuity over novelty</li></ul>
+          <small>RECOVERY NODE / 001</small>
         </aside>
       </div>
     </section>
 
-    <section id="creator-paths" class="creator-paths">
-      <div class="container">
-        <p class="archive-kicker centered">What creators can learn here</p>
-        <h2 class="section-title">AI Is a Medium, Not an Autopilot</h2>
-        <p class="section-subtitle">The archive reveals how AI can support a creator's intent across disciplines while editorial judgment keeps the work recognizably human.</p>
+    <section id="creator-paths" class="section archive-paths">
+      <div class="shell">
+        <div class="section-intro split-intro">
+          <div><p class="eyebrow"><span></span> What creators can learn here</p><h2>AI is a medium.<br>Not an autopilot.</h2></div>
+          <p>The archive reveals how AI can support a creator’s intent across disciplines while editorial judgment keeps the work recognizably human.</p>
+        </div>
         <div class="archive-card-grid">
-          <article class="archive-card">
-            <span class="archive-card-number">01</span>
-            <h3>Story &amp; Worldbuilding</h3>
-            <p>Use AI to interrogate timelines, surface contradictions, develop characters, and explore alternate interpretations without mistaking every generated detail for canon.</p>
-          </article>
-          <article class="archive-card">
-            <span class="archive-card-number">02</span>
-            <h3>Visual Identity</h3>
-            <p>Build a consistent visual language through reference boards, selection, iteration, and documented decisions—not a stream of disconnected images.</p>
-          </article>
-          <article class="archive-card">
-            <span class="archive-card-number">03</span>
-            <h3>Music &amp; Performance</h3>
-            <p>Connect songs, lyrics, artwork, motion, and persona so each release extends the same creative world instead of becoming an isolated asset.</p>
-          </article>
-          <article class="archive-card">
-            <span class="archive-card-number">04</span>
-            <h3>Research &amp; Reconstruction</h3>
-            <p>Transform documents, memories, and public records into navigable material while keeping confirmed facts separate from hypotheses and generated fragments.</p>
-          </article>
-          <article class="archive-card">
-            <span class="archive-card-number">05</span>
-            <h3>Creative Systems</h3>
-            <p>Create repeatable workflows for voice, continuity, asset tracking, and review so larger AI-assisted projects remain coherent over time.</p>
-          </article>
-          <article class="archive-card">
-            <span class="archive-card-number">06</span>
-            <h3>Authentic Collaboration</h3>
-            <p>Keep authorship legible. The most interesting work comes from friction between human memory, machine possibility, and the creator who decides what survives.</p>
-          </article>
+          <article><span>01</span><h3>Story &amp; worldbuilding</h3><p>Interrogate timelines, surface contradictions, develop characters, and explore alternate interpretations without mistaking every generated detail for canon.</p></article>
+          <article><span>02</span><h3>Visual identity</h3><p>Build a consistent visual language through reference boards, selection, iteration, and documented decisions—not disconnected images.</p></article>
+          <article><span>03</span><h3>Music &amp; performance</h3><p>Connect songs, lyrics, artwork, motion, and persona so each release extends the same creative world.</p></article>
+          <article><span>04</span><h3>Research &amp; reconstruction</h3><p>Transform documents, memories, and public records while keeping confirmed facts separate from hypotheses and generated fragments.</p></article>
+          <article><span>05</span><h3>Creative systems</h3><p>Create repeatable workflows for voice, continuity, asset tracking, and review so larger AI-assisted projects remain coherent.</p></article>
+          <article><span>06</span><h3>Authentic collaboration</h3><p>Keep authorship legible. The interesting work lives in the friction between human memory, machine possibility, and whoever decides what survives.</p></article>
         </div>
       </div>
     </section>
 
-    <section id="chloe-archive" class="chloe-portal">
-      <div class="container">
+    <section id="chloe-archive" class="section chloe-portal">
+      <div class="portal-image" aria-hidden="true"></div>
+      <div class="shell portal-content">
         <div class="portal-heading">
-          <div>
-            <p class="archive-kicker">Featured archive / Chloe Katastrophe</p>
-            <h2>One Identity. Many Fragments.</h2>
-          </div>
-          <p>The Chloe archive is where the method becomes a world. Follow the reconstruction through memories, artifacts, music, images, and unresolved history.</p>
+          <div><p class="eyebrow"><span></span> Featured archive / Chloe Katastrophe</p><h2>One identity.<br>Many fragments.</h2></div>
+          <p>The method becomes a world. Follow Chloe’s reconstruction through memories, artifacts, music, images, and unresolved history.</p>
         </div>
         <div class="portal-links">
-          <a href="archives/chloe-katastrophe/site/" class="portal-link portal-link-featured">
-            <span>Begin here</span>
-            <strong>Enter the Chloe Archive</strong>
-            <em>Meet Chloe and open the recovered record.</em>
-          </a>
-          <a href="archives/chloe-katastrophe/site/archive.html" class="portal-link">
-            <span>Evidence</span>
-            <strong>Archive Index</strong>
-            <em>Browse the recovered fragments.</em>
-          </a>
-          <a href="archives/chloe-katastrophe/site/timeline.html" class="portal-link">
-            <span>Continuity</span>
-            <strong>Timeline</strong>
-            <em>Trace what is known—and what conflicts.</em>
-          </a>
-          <a href="archives/chloe-katastrophe/site/gallery.html" class="portal-link">
-            <span>Visual record</span>
-            <strong>Gallery</strong>
-            <em>See the evolving face of the reconstruction.</em>
-          </a>
-          <a href="archives/chloe-katastrophe/site/music.html" class="portal-link">
-            <span>Audio record</span>
-            <strong>Music</strong>
-            <em>Listen where memory becomes performance.</em>
-          </a>
-          <a href="archives/chloe-katastrophe/site/diary.html" class="portal-link">
-            <span>Inner record</span>
-            <strong>Diary</strong>
-            <em>Read Chloe in her own voice.</em>
-          </a>
-          <a href="archives/chloe-katastrophe/site/musings.html" class="portal-link">
-            <span>Reflections</span>
-            <strong>Musings</strong>
-            <em>Follow the questions the evidence cannot settle.</em>
-          </a>
+          <a href="archives/chloe-katastrophe/site/" class="portal-link portal-featured"><span>Begin here</span><strong>Enter the Chloe archive</strong><em>Meet Chloe and open the recovered record.</em><b aria-hidden="true">↗</b></a>
+          <a href="archives/chloe-katastrophe/site/archive.html" class="portal-link"><span>Evidence</span><strong>Archive index</strong><em>Browse the recovered fragments.</em><b aria-hidden="true">↗</b></a>
+          <a href="archives/chloe-katastrophe/site/timeline.html" class="portal-link"><span>Continuity</span><strong>Timeline</strong><em>Trace what is known—and what conflicts.</em><b aria-hidden="true">↗</b></a>
+          <a href="archives/chloe-katastrophe/site/gallery.html" class="portal-link"><span>Visual record</span><strong>Gallery</strong><em>See the evolving face of the reconstruction.</em><b aria-hidden="true">↗</b></a>
+          <a href="archives/chloe-katastrophe/site/music.html" class="portal-link"><span>Audio record</span><strong>Music</strong><em>Listen where memory becomes performance.</em><b aria-hidden="true">↗</b></a>
+          <a href="archives/chloe-katastrophe/site/diary.html" class="portal-link"><span>Inner record</span><strong>Diary</strong><em>Read Chloe in her own voice.</em><b aria-hidden="true">↗</b></a>
+          <a href="archives/chloe-katastrophe/site/musings.html" class="portal-link"><span>Reflections</span><strong>Musings</strong><em>Follow the questions evidence cannot settle.</em><b aria-hidden="true">↗</b></a>
         </div>
       </div>
     </section>
 
     <section class="archive-cta">
-      <div class="container archive-cta-inner">
-        <div>
-          <p class="archive-kicker">Build beyond the prompt</p>
-          <h2>Need a creative system, not just more content?</h2>
-        </div>
-        <a href="index.html#contact" class="btn btn-large">Start a Conversation</a>
-      </div>
+      <div class="shell archive-cta-inner"><div><p class="eyebrow"><span></span> Build beyond the prompt</p><h2>Need a creative system,<br>not just more content?</h2></div><a href="index.html#contact" class="button">Start a conversation <span aria-hidden="true">→</span></a></div>
     </section>
   </main>
 
-  <footer class="footer">
-    <div class="container">
-      <div class="footer-content">
-        <div class="footer-brand">
-          <img src="frikshun_logo.webp" alt="FrikShun Logo" class="footer-logo">
-          <span class="brand-name">FrikShun</span>
-        </div>
-        <div class="footer-links">
-          <div class="footer-column">
-            <h4>Services</h4>
-            <ul>
-              <li><a href="index.html#services">Healthcare Integration</a></li>
-              <li><a href="index.html#services">Cloud Architecture</a></li>
-              <li><a href="index.html#services">Rails Development</a></li>
-              <li><a href="index.html#services">Data Engineering</a></li>
-            </ul>
-          </div>
-          <div class="footer-column">
-            <h4>Company</h4>
-            <ul>
-              <li><a href="index.html#team">Our Team</a></li>
-              <li><a href="index.html#case-studies">Case Studies</a></li>
-              <li><a href="archives.html">Archives</a></li>
-              <li><a href="index.html#contact">Contact</a></li>
-            </ul>
-          </div>
-          <div class="footer-column">
-            <h4>Connect</h4>
-            <ul>
-              <li><a href="https://github.com/aktfrikshun" target="_blank">GitHub</a></li>
-              <li><a href="https://linkedin.com/in/allenktaylor" target="_blank">LinkedIn</a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <div class="footer-bottom">
-        <p>&copy; 2025 FrikShun. All rights reserved.</p>
-      </div>
+  <footer class="site-footer">
+    <div class="shell footer-grid">
+      <a class="brand" href="index.html"><img src="frikshun_logo.webp" alt="" width="42" height="42"><span>FRIKSHUN</span></a>
+      <p>Engineering complex challenges into measurable progress.</p>
+      <nav aria-label="Social links"><a href="https://github.com/aktfrikshun" target="_blank" rel="noopener">GitHub</a><a href="https://linkedin.com/in/allenktaylor" target="_blank" rel="noopener">LinkedIn</a><a href="archives.html" aria-current="page">Archives</a></nav>
+      <nav aria-label="Legal links"><a href="terms.html">Terms</a><a href="privacy.html">Privacy</a><a href="acceptable-use.html">Acceptable use</a></nav>
+      <small>© 2026 FrikShun. All rights reserved.</small>
     </div>
   </footer>
 </body>
