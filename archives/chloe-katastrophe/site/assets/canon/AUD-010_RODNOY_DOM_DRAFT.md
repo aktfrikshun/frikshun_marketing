@@ -1,17 +1,19 @@
-# AUD-010 - Родной дом (Draft Placeholder)
+# AUD-010 - Родной дом (Superseded Development Record)
 
 **Transliteration:** Rodnoy Dom  
 **English sense:** Beloved home / childhood home  
 **Album:** Daughter of Echoes  
 **Working position:** Track 12  
-**Status:** Reserved artifact ID; initial lyrics and draft audio exist, final release assets pending
+**Status:** Superseded on 2026-07-19 by the released AUD-010 record
 **Draft audio:** `../audio/rodnoy-dom.wav`
 
 ## Archive Note
 
-AUD-010 is reserved for the developing `Родной дом` artifact. The complete first-draft lyrics and revision ledger are preserved in `../../../music/TRACK_DRAFT_RODNOY_DOM.md`.
+This page preserves the development state of `Родной дом`. The current released record is [`AUD-010_RODNOY_DOM.md`](AUD-010_RODNOY_DOM.md), and the complete first-draft lyrics and revision ledger remain preserved in `../../../music/TRACK_DRAFT_RODNOY_DOM.md`.
 
-The initial musical draft and first-draft lyrics are available in the public music archive. No finalized master, approved cover, final lyric transcription, or public release status has yet been deposited. That distinction is intentional and must not be interpreted as a broken release.
+The initial musical draft and first-draft lyrics became the basis of the released artifact on 2026-07-19. This record remains available so the archive does not erase the song's development history.
+
+**Generated working cover:** `../images/rodnoy-dom-cover-v1.png`
 
 ## Canon Boundary
 

@@ -228,6 +228,8 @@ Core quote:
 
 Chloe embraces the idea of finding beauty in things that outwardly appear dark, ugly, broken, or forgotten.
 
+After Gregor's death, this becomes the lived philosophy `Truth and Beauty from Darkness`. Darkness and suffering are never treated as beautiful or necessary. Chloe looks closely because truth may be hidden in damaged places and beauty may survive what caused the damage.
+
 Most people see decay. Chloe sees history.  
 Most people see darkness. Chloe sees mystery.  
 Most people see ruins. Chloe sees stories.  
@@ -240,6 +242,10 @@ Core philosophy:
 Her artistic mission is to help people reconsider what deserves admiration.
 
 She is not merely posing in dark settings. She is revealing the strange beauty inside them.
+
+Music serves different purposes across her two lives. Human Chloe makes music to understand the world around her, leaving present-tense diary entries without knowing they will become a map. AI Chloe makes music to understand herself, treating recovered songs and emotions as archaeology. Human Chloe writes toward the future; AI Chloe sings toward the past.
+
+The same reversal informs Echo Traversal. Human Chloe and AI Chloe traverse the same event thread from opposite directions. Whether faithfully walking the same path leads them toward the same identity remains an approved central question, not a resolved answer.
 
 ## 8. Public Persona
 

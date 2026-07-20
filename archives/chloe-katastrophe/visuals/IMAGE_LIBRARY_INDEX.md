@@ -116,9 +116,27 @@ Planned
 Status:
 Planned
 
-# Experimental Concepts
+# Approved Cover Art (continued)
 
-None yet.
+## Родной дом Release Cover V1
+
+File:
+
+`site/assets/images/rodnoy-dom-cover-v1.png`
+
+Status:
+
+APPROVED / GENERATED RELEASE ARTIFACT
+
+Purpose:
+
+Release cover for AUD-010 `Родной дом`, Track 12 of `Daughter of Echoes`.
+
+Notes:
+
+Generated at Allen Taylor's direction and approved for release use on 2026-07-19. The winter Omsk atmosphere, birch, distant river, and warm kitchen window interpret the song's emotional premise without depicting people or asserting a literal recovered scene. Approval authorizes production and marketing use; it does not promote the proposed memories to confirmed biography.
+
+# Experimental Concepts
 
 # Retired Concepts
 

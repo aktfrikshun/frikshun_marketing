@@ -113,7 +113,7 @@ The discussion generated vivid possibilities that remain lyric candidates rather
 - The exact sequence and location of Gregor's death.
 - Which accounts of his final work Chloe eventually recovers or distrusts.
 - What physical object of Gregor's Chloe preserved.
-- Final revised lyrics and release assets for `Родной дом`; AUD-010 is reserved as its draft placeholder and Track 12 remains a working position.
+- Historical note: this item was resolved on 2026-07-19 when Allen approved the existing lyrics, audio, and cover as released AUD-010, Track 12. Individual lyric scenes remain unresolved as biography.
 
 ## Continuity Rule
 

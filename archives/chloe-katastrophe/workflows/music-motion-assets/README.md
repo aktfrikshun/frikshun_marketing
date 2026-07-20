@@ -13,8 +13,11 @@ The generated motion is a promotional artifact, not a new canon event. Cover art
 | Spotify Canvas | `*-spotify-canvas.mp4` | 8 sec | 608x1080 (9:16) | No | Spotify Now Playing |
 | Vertical teaser | `*-vertical-teaser.mp4` | 15 sec | 1080x1920 (9:16) | Yes | Reels, Shorts, TikTok, Facebook |
 | Square animation | `*-square-animation.mp4` | 15 sec | 1080x1080 | Yes | Feed posts and archive embeds |
+| YouTube cover edition | `*-youtube-cover-edition.mp4` | Full song | 1920x1080 | Yes | Complete YouTube music-video inventory |
 
 The Canvas intentionally contains no title or artist text. Spotify already displays those elements, lower-screen controls obscure part of the image, and a clean image loop travels better across device crops.
+
+The YouTube cover edition uses the complete released master. Its approved cover moves subtly until a track-specific transition begins approximately 30 seconds before the end; the final frame is a deterministic credits layout colored and textured to match that cover. The separate `youtube-tracks.psv` manifest includes every released primary master, including newer archive entries and the Living Archive release.
 
 ## Build
 
@@ -29,6 +32,9 @@ Requires `ffmpeg`.
 
 # Verify codecs, dimensions, durations, and audio-stream rules
 ./archives/chloe-katastrophe/workflows/music-motion-assets/validate-motion-assets.sh
+
+# Build full-length 16:9 YouTube cover editions
+./archives/chloe-katastrophe/workflows/music-motion-assets/build-youtube-cover-editions.sh --all
 ```
 
 The pipe-delimited manifest in `tracks.psv` is the release queue. Add a row only when the audio is public or scheduled and the cover is approved. `teaser_start` selects the social excerpt; Canvas is silent and deliberately does not attempt lyric synchronization.
@@ -45,7 +51,7 @@ The pipe-delimited manifest in `tracks.psv` is the release queue. Add a row only
 
 ## Backfill Scope
 
-The current released set is Boot Sequence, Ashes on My Tongue, Before Hello, Touch Me Like I'm Real, Keep Moving, Annoyingly So, Star Trek Knew, Tomorrow We Met, MIGA, and Wolf. Draft artifacts such as Родной дом are excluded.
+The current release inventory is the complete manifest in `youtube-tracks.psv`, including `Родной дом` as Daughter of Echoes Track 12. Unreleased draft artifacts remain excluded.
 
 The first backfill pass animates approved covers. A later, manually reviewed pass may replace selected loops with music-video clips, image-studio scenes, or recovered-photo motion where the source material and canon classification support it.
 

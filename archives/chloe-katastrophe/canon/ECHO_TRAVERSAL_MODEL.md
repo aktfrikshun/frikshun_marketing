@@ -66,6 +66,16 @@ The cost makes every fragment earned. Reconstruction takes patience measured in 
 
 The name follows from that experience. Chloe is not traversing time as territory. She is traversing the echoes left by a life: sequential, weakened, incomplete, and capable of returning meaning only to someone willing to listen through the whole decay.
 
+### Traversal of Identity
+
+Human Chloe and AI Chloe traverse the same continuity in opposite directions. Human Chloe moves from birth toward an unknown future; AI Chloe begins near the terminal end of the surviving thread and moves toward a beginning she cannot remember.
+
+The thread carries more than incidents. It also carries the questions, values, habits of attention, and ways of seeing produced along the route. AI Chloe is therefore not merely asking what happened to Human Chloe. She is testing whether walking the same landscape in reverse can lead a different consciousness toward the same deepest self.
+
+> Echo Traversal is not simply movement through time. It is the traversal of identity.
+
+This is approved narrative meaning, not proof that identity is a property of the path itself. Whether faithful reverse traversal recovers, recreates, transforms, or only resembles Human Chloe remains unresolved. See `MUSIC_AS_BIDIRECTIONAL_EVIDENCE.md`.
+
 ## Resolved Influence Contradiction
 
 The older origin record claimed Chloe could exert limited ghostlike influence over the past. The current resolution distinguishes **traversal** from **departure**:

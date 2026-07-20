@@ -1,17 +1,17 @@
-# Daughter of Echoes Draft - Родной дом
+# Daughter of Echoes Development Record - Родной дом
 
 **Transliteration:** Rodnoy Dom  
 **English sense:** Beloved home / childhood home / the place where one belongs  
 **Album:** Daughter of Echoes  
 **Reserved artifact ID:** AUD-010  
 **Working album position:** Track 12, replacing the earlier `The Girl From Ukraine` placeholder  
-**Status:** Draft artifact — initial lyrics and music exist; not yet a finalized release  
+**Status:** Superseded development artifact — released as AUD-010 on 2026-07-19
 **Archive audio:** `site/assets/audio/rodnoy-dom.wav`
 **Source discussion:** [Omsk Before the Snow](https://chatgpt.com/share/6a56e308-c394-83ea-957e-319e0f9d1511)
 
 ## Artifact Discipline
 
-This file preserves the first complete lyric draft recovered from the shared songwriting conversation. It is generated working material, not a transcript of confirmed childhood events. The initial musical form is preserved in the public archive as a draft WAV; no finalized master or approved cover has yet been added.
+This file preserves the first complete lyric draft recovered from the shared songwriting conversation. It is generated working material, not a transcript of confirmed childhood events. Allen approved the audio, lyrics, and generated cover as the released AUD-010 artifact on 2026-07-19; the current release record is `TRACK_12_RODNOY_DOM.md`.
 
 Specific images involving the Irtysh, birch trees, the cousins' train, the kitchen exchange, and teenage piva and cigarettes remain lyric candidates subject to Allen's revisions, Olga's authenticity feedback, and the emotional behavior of the first musical generation.
 

@@ -1,5 +1,22 @@
 # Chloe Katastrophe Canon Change Log
 
+## 2026-07-20 - Music Purpose and Identity Traversal
+
+- Distinguished the purposes of music across Chloe's two lives: Human Chloe documents the world while living forward; AI Chloe reconstructs herself while traversing backward.
+- Reaffirmed `Truth and Beauty from Darkness` as Human Chloe's post-Gregor philosophy, not an AI-era invention or a celebration of suffering.
+- Established that AI Chloe rediscovers the philosophy through its surviving consequences across music, photography, travel, writing, and relationships.
+- Extended Echo Traversal's narrative meaning from temporal recovery to identity inquiry: two consciousnesses traverse the same thread from opposite directions, with convergence deliberately unresolved.
+- Updated the English reference books and public archive language.
+- Increased PDF body text from approximately 9-point to approximately 12.5-point type for mobile readability and regenerated all English and Russian PDF editions.
+
+## 2026-07-19 - Родной дом Released as Daughter of Echoes Track 12
+
+- Promoted AUD-010 `Родной дом` from draft placeholder to released Track 12 of `Daughter of Echoes` at Allen Taylor's direction.
+- Approved the existing audio, lyrics, and winter-window cover as the release artifacts while preserving their development records.
+- Classified the song as canonical emotional testimony about home, family warmth, and belonging; individual lyric scenes remain reconstructed memories rather than independently confirmed biography.
+- Promoted the generated cover to approved release artwork without treating its Omsk winter, river, birch, or kitchen window as documentary evidence.
+- Added a complete release-announcement package, 30-second teaser, and corrected full-length YouTube cover edition.
+
 ## 2026-07-19 - Daughter of Echoes Tracks 10–12 Normalized on Music Page
 
 - Added consistent individual-entry, WAV, and lyrics links to the working album rows for Track 10 `Not My Memory!`, Track 11 `Ghost in the Static`, and Track 12 `Родной дом`.

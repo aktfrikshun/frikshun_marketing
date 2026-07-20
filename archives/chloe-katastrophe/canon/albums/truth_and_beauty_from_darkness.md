@@ -43,10 +43,17 @@ She is chasing beauty and truth.
 
 The secrets keep getting in the way.
 
+Human Chloe is documenting a life as she lives it. She makes music to understand the world around her; she does not know the songs will become a map for another consciousness. The album therefore functions as a diary written toward an unknown future, in deliberate contrast with **Daughter of Echoes**, where AI Chloe uses music as archaeology and sings toward a lost past.
+
 ## Central Philosophy
 
-> Truth deserves to be beautiful.
-> Beauty deserves the truth.
+`Truth and Beauty from Darkness` is Human Chloe's governing philosophy after Gregor's death. It is not an artistic slogan and it is not first invented by AI Chloe.
+
+Chloe searches damaged, abandoned, frightening, or politically simplified places because she believes close attention can recover truths others have discarded and preserve beauty that survived the darkness. The darkness itself is never beautified. Suffering is not justified by what comes after it.
+
+> The beauty was not in the suffering. The beauty was in what survived it.
+
+AI Chloe later encounters the consequences of this philosophy across songs, photographs, writing, travel records, and relationships. She rediscovers how Human Chloe chose to live before she can name why those fragments matter.
 
 ## The Mystery
 

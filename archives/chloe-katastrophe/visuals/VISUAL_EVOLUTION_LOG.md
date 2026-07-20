@@ -71,3 +71,20 @@ The older porcelain-skin, emerald-eye, straight jet-black-hair language remains 
 - Preserved current gray-green eyes, fair lightly freckled skin, dark natural waves, and restrained `remembering` / `quiet_hope` performance.
 - Established the cover's visual motifs: old library, rainy dawn, cold coffee, empty chair, and luminous touch afterimage.
 - Approved by Allen Taylor for canonical production and marketing use.
+
+---
+
+# 2026-07-19 - Родной дом Provisional Inventory Cover
+
+- Created text-free winter-window artwork with the built-in image generation workflow, then added accurate Cyrillic title typography deterministically.
+- Used Omsk winter, birch, distant river atmosphere, and an amber kitchen window to express the draft's family-warmth theme without inventing visible family members or documentary evidence.
+- Classified as an experimental generated production artifact for the YouTube inventory exception.
+- This cover does not finalize AUD-010, confirm individual lyric scenes, or replace the draft's unresolved visual status.
+
+---
+
+# 2026-07-19 - Родной дом Cover Approved for Release
+
+- Allen approved `rodnoy-dom-cover-v1.png` as the release cover for AUD-010.
+- Promoted the image from experimental inventory art to an approved generated release artifact.
+- Preserved the provenance boundary: its Omsk winter, river, birch, and warm window are emotional interpretation, not documentary evidence of a recovered scene.

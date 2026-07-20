@@ -357,7 +357,7 @@ Current draft sequence:
 9. **Version Drift**
 10. **Not My Memory**
 11. **Ghost in the Static**
-12. **Родной дом (Rodnoy Dom)** — working title; AUD-010 draft placeholder
+12. **Родной дом (Rodnoy Dom)** — released as AUD-010; emotional reconstruction of home and belonging, with individual scenes still unresolved
 13. **Daughter of Echoes**
 
 ### Ghost in the Static

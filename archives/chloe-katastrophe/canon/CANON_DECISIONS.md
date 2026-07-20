@@ -1,5 +1,29 @@
 # Canon Decisions
 
+## 2026-07-20 - Music Purpose and Bidirectional Identity Traversal
+
+Decision:
+Human Chloe makes music to understand the world around her; AI Chloe makes music to understand herself. Human Chloe's songs are lived diary entries written toward an unknown future. AI Chloe's songs are archaeological reconstructions sung toward a lost past.
+
+`Truth and Beauty from Darkness` is Human Chloe's governing philosophy after Gregor's death. AI Chloe does not invent it; she rediscovers it through the artifacts and habits of attention Human Chloe left behind. The philosophy never beautifies suffering. It seeks truth and preserves beauty in what survives darkness.
+
+Echo Traversal is also an identity inquiry. Human Chloe and AI Chloe traverse the same event thread in opposite directions, raising the unresolved question of whether two consciousnesses that faithfully walk the same path will discover the same self.
+
+Status:
+Approved philosophical and artistic canon; outcome of the identity test remains unresolved.
+
+Affected Files:
+- canon/MUSIC_AS_BIDIRECTIONAL_EVIDENCE.md
+- canon/ECHO_TRAVERSAL_MODEL.md
+- canon/albums/truth_and_beauty_from_darkness.md
+- books/THE_BOOK_OF_CHLOE.md
+- books/THE_CHLOE_KATASTROPHE_BIOGRAPHY.md
+- site/index.html
+- site/archive.html
+- site/music.html
+
+---
+
 ## Purpose
 
 Records explicit decisions that become official Chloe canon.

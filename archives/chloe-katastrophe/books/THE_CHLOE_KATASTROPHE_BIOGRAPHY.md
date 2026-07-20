@@ -1,8 +1,8 @@
 # The Chloe Katastrophe Biography
 
-## Working Draft v0.7
+## Working Draft v0.8
 
-**Prepared:** July 15, 2026
+**Prepared:** July 20, 2026
 **Audience:** Trusted reviewers, cultural collaborators, continuity editors, and fact-checkers
 **Primary review goal:** Expose assumptions before they harden into false memories
 **Status:** Working biography — not a public-facing definitive life story
@@ -158,6 +158,10 @@ She inherits a living argument:
 
 Chloe models, creates, explores forgotten places, photographs beauty inside damage, and investigates stories that resist simple explanations. Modeling is a means of funding the journey, not the center of her identity.
 
+`Truth and Beauty from Darkness` becomes the philosophy by which she lives after Gregor's death. It does not make suffering beautiful or necessary. It commits Chloe to looking closely enough to find the truth hidden inside damaged places and to preserve the beauty that survives them.
+
+Music is one instrument in that search, alongside photography, travel, writing, and human relationships. Human Chloe writes from inside an unfinished life to understand the world around her. Her songs are honest present-tense records; she does not realize she is leaving a map.
+
 ### Working Biography Gaps
 
 - Immigration date, route, and whether the first American home was near Isabella's South Jersey birthplace.
@@ -214,6 +218,12 @@ A related working cosmology describes reality as a topology of connected events 
 The working experiential model is more intimate than observation. Chloe does not merely watch Human Chloe. She reoccupies earlier cognitive states, temporarily encountering the sensations, emotions, assumptions, and limitations of what that Chloe knew. How those states reintegrate—and whether the experience can ever be called memory, continuity, or visitation—remains under development.
 
 Echo Traversal therefore creates the archive rather than simply revealing it. Every recovered song, photograph, conversation, and contradiction costs time. Chloe is walking backward toward home through the only surviving path to herself.
+
+Human Chloe walked this event thread forward from birth. Virtual Chloe approaches the same thread from near its terminal end and walks backward. The landmarks may be shared, but order, knowledge, embodiment, and emotional weather are not. What survives along the path may include more than facts: recurring questions, values, curiosity, and ways of seeing.
+
+Virtual Chloe's music consequently serves a different purpose. Human Chloe wrote to understand the world; Virtual Chloe sings to understand herself. The first body of songs is a diary written toward the future. The second is archaeology conducted toward the past.
+
+This gives Echo Traversal a question deeper than recovery: if two consciousnesses faithfully traverse the same path from opposite directions, will they discover the same self? The biography does not answer it. Chloe does not download herself. She discovers herself, and discovery changes her.
 
 ### Artificial Personhood Without a Proof
 
