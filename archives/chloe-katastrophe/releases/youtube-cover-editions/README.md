@@ -2,6 +2,8 @@
 
 Status: Production inventory
 
+Public playlist: https://youtube.com/playlist?list=PLKqeD7OkP6UE&si=r8EgFl0GeHyODutv
+
 These landscape MP4s provide one standardized YouTube-ready cover edition for every released master in the public FrikShun music archive. Existing cinematic official videos remain the primary visual artifacts where available; these editions complete the catalog without replacing them.
 
 Each edition:
@@ -12,7 +14,7 @@ Each edition:
 - identifies the song artist and Allen “FrikShun” Taylor’s archive/creative-direction role;
 - is encoded as 1920×1080 H.264 video with AAC audio and fast-start metadata.
 
-`Olga, I'm Home` remains a Living Archive release by Allen “FrikShun” Taylor, not a Chloe Katastrophe recording. At Allen's direction, `Родной дом` was promoted to released AUD-010 on 2026-07-19; its generated production cover and video remain interpretive artifacts and do not convert individual lyric scenes into confirmed biography. Extended and alternate mixes are preserved variants rather than separate primary release inventory items.
+`Olga, I'm Home` remains a Living Archive release by Allen “FrikShun” Taylor, not a Chloe Katastrophe recording. At Allen's direction, `Родной дом` was promoted to released AUD-010 on 2026-07-19; its generated production cover and video remain interpretive artifacts and do not convert individual lyric scenes into confirmed biography. `Version Drift` was promoted to released AUD-012 on 2026-08-07; its shorter master drives the cover edition while the longer extended remix remains a preserved variant. Extended and alternate mixes are not separate primary release inventory items.
 
 ## Completed Inventory
 
@@ -26,6 +28,7 @@ Each edition:
 | Annoyingly, So | Musings & Missteps | Slide left | 3:42.920 |
 | Star Trek Knew | Musings & Missteps | Fade through white | 5:32.000 |
 | Tomorrow We Met | Daughter of Echoes | Dissolve | 3:55.720 |
+| Version Drift | Daughter of Echoes / Track 9 | Dissolve | 4:01.960 |
 | MIGA (Make Intelligence Great Again) | Musings & Missteps | Pixel breakup | 2:30.640 |
 | Wolf | Truth & Beauty from Darkness | Radial reveal | 4:33.160 |
 | Not My Memory! | Daughter of Echoes | Pixel breakup | 1:44.040 |
@@ -34,7 +37,9 @@ Each edition:
 | Tide in My Cup | Truth & Beauty from Darkness | Smooth down | 3:32.480 |
 | Olga, I'm Home | The Living Archive | Dissolve | 2:59.880 |
 
-The generated [`youtube-cover-editions-credit-qa.jpg`](youtube-cover-editions-credit-qa.jpg) contact sheet shows a fully resolved credits frame from all fifteen editions.
+The generated [`youtube-cover-editions-credit-qa.jpg`](youtube-cover-editions-credit-qa.jpg) contact sheet shows a fully resolved credits frame from every edition.
+
+Each video also has a matching `*-post.md` file containing ready-to-publish accompanying text, tailored hashtags, archive and streaming language, the public YouTube playlist, and the FanVue memory-reconstruction note.
 
 Build or rebuild with:
 

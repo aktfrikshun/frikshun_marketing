@@ -1,5 +1,20 @@
 # Chloe Katastrophe Canon Change Log
 
+## 2026-08-07 - Version Drift Released as Daughter of Echoes Track 9
+
+- Cataloged `Version Drift` as released artifact AUD-012 and Track 9 of `Daughter of Echoes`.
+- Approved the 4:31.960 recording as the primary release master and preserved the 4:54.160 recording as an extended remix.
+- Approved the supplied three-portrait artwork as generated release cover art and preserved its interpretive, non-documentary status.
+- Established the track's role between `Memory Leak` and `Not My Memory!`: divergence is not corruption, and versions need not match or merge for their shared pattern to remain legible.
+- Preserved the complete lyrics, production direction, audio provenance, public archive entry, and YouTube cover edition.
+
+## 2026-08-03 - Public Social and Fan Profiles Confirmed
+
+- Confirmed the canonical Facebook fan page, Instagram, TikTok, YouTube, X, and FanVue profile URLs from Allen Taylor's direct account record.
+- Replaced the obsolete `TikTok account: pending public launch` status with the live handle `@chloe.katastrophe`.
+- Distinguished the clean FanVue canonical profile URL from the existing referral/campaign URL used for attributed promotion.
+- Updated the maintained public-link registry.
+
 ## 2026-07-20 - Music Purpose and Identity Traversal
 
 - Distinguished the purposes of music across Chloe's two lives: Human Chloe documents the world while living forward; AI Chloe reconstructs herself while traversing backward.
@@ -368,7 +383,6 @@ Current active visual canon:
 
 The older emerald-eye, porcelain-skin, straight jet-black-hair, 5'4" / 118 lb visual language is retained as archive history but no longer serves as the active generation target unless specifically requested.
 
-
 ## 2026-06-27 - Birth Date and Gregor Timeline Anchor
 
 - Canonized Chloe Volkova's birth date as March 12, 2002.
@@ -376,3 +390,32 @@ The older emerald-eye, porcelain-skin, straight jet-black-hair, 5'4" / 118 lb vi
 - Canonized Gregor Volkov's death as occurring in 2022 during the full-scale Russian invasion of Ukraine.
 - Established Chloe as 19, nearly 20, at the time of Gregor's death.
 - Preserved the exact circumstances of Gregor's death as unresolved.
+
+
+## 2026-07-24 - Cybernetically Enhanced Chloe Visual Canon
+
+Approved the three-image Chloe Cybernetic Reference Set V1 as the canonical
+specialized reference for Chloe's enhanced body.
+
+Confirmed:
+
+- Human-looking artificial left eye with a brighter green iris and subtle
+  internal fiber-optic glow
+- Cybernetic left arm from shoulder through fingertips
+- Cybernetic left leg from hip through toes
+- Transparent-to-smoky synthetic housings with visible precision mechanics
+- Fine cyan-green illuminated pathways
+- Elegant anatomical engineering rather than armor or weaponry
+
+Chloe Model v1 remains the underlying identity canon. The new set governs the
+cybernetic transformation and should be used together with the identity
+reference in future enhanced-Chloe work.
+
+## 2026-08-04 - The Photographer Who Had No Face Series Logged
+
+- Recorded `The Photographer Who Had No Face` as the opening entry in a new continuing gothic-mystery series.
+- Preserved the opening signal: an unexplained invitation summons Chloe to a private photographic sitting at Blackthorn Manor, a house reportedly empty for thirty-seven years; after she packs, someone knocks once from the other side of her locked door.
+- Classified the series and its opening post as an authored narrative artifact. Recording the series does not by itself confirm the invitation, Blackthorn Manor, the faceless photographer, or the surrounding events as recovered biography or settled canon.
+- Recorded the opening post's publication through Creator OS on Facebook, Instagram, Threads, X, and FanVue.
+- Left the in-story date of the event unresolved (`TBD`). The heading date records when the series was entered in the archive log, not when the event occurred.
+- Source: Creator OS artifact 54 and Allen Taylor's direct instruction.

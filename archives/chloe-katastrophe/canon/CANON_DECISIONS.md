@@ -1,5 +1,30 @@
 # Canon Decisions
 
+## 2026-08-03 - Canonical Public Social and Fan Profiles
+
+Decision:
+The following URLs are Chloe Katastrophe's confirmed public profiles:
+
+- Facebook fan page: https://www.facebook.com/chlokat.fans/
+- Instagram: https://www.instagram.com/chloekatastrophe/
+- TikTok: https://www.tiktok.com/@chloe.katastrophe
+- YouTube: https://www.youtube.com/@ChloeKatastrophe
+- X: https://x.com/chloekatastroph
+- FanVue canonical profile: https://www.fanvue.com/chloekat
+
+The existing FanVue URL `https://fanvue.com/chloekat/fv-9` is the referral/campaign form and remains appropriate when attributed promotional traffic is intended. It does not replace the clean profile URL in canonical identity records.
+
+Status:
+Approved public identity canon, confirmed by Allen Taylor on 2026-08-03.
+
+Affected Files:
+- canon/PUBLIC_IDENTITY.md
+- canon/CANON_CHANGE_LOG.md
+- canon/CANON_DECISIONS.md
+- brand/PUBLIC_LINKS.md
+
+---
+
 ## 2026-07-20 - Music Purpose and Bidirectional Identity Traversal
 
 Decision:
@@ -519,3 +544,40 @@ Affected Files:
 - prompts/image_prompts/CHLOE_BASELINE_IMAGE_PROMPT.md
 - canon/CANON_DECISIONS.md
 - /Users/allentaylor/src/frikshun_image_studio/AGENTS.md
+
+---
+
+# 2026-07-24
+
+## Cybernetically Enhanced Chloe Reference Set V1
+
+Decision:
+The three-image Chloe Cybernetic Reference Set V1 is the canonical visual
+reference for Chloe's cybernetically enhanced body.
+
+Status:
+Approved
+
+Implications:
+
+- Chloe's artificial left eye remains human-looking, with a brighter green iris
+  and restrained internal fiber-optic glow.
+- Chloe's entire left arm and entire left leg are cybernetic.
+- Their design language combines transparent-to-smoky synthetic housings,
+  visible precision mechanics, and fine cyan-green luminous pathways.
+- The cybernetics are elegant anatomical replacements, not armor, weapons,
+  injury imagery, or a full-body robotic conversion.
+- The three images function together: frontal anatomy, facial/eye detail, and
+  three-quarter construction and silhouette.
+- Chloe Model v1 remains the underlying identity canon. Future enhanced-Chloe
+  work should combine that identity with this specialized body reference.
+
+Affected Files:
+
+- visuals/reference_boards/chloe/cybernetic_v1/
+- visuals/VISUAL_REFERENCE_LIBRARY.md
+- visuals/IMAGE_LIBRARY_INDEX.md
+- visuals/VISUAL_EVOLUTION_LOG.md
+- prompts/image_prompts/CHLOE_BASELINE_IMAGE_PROMPT.md
+- canon/CANON_CHANGE_LOG.md
+- canon/CANON_DECISIONS.md

@@ -24,11 +24,18 @@ It is not a full biography, origin record, or memory log.
 
 ## Public Platform Status
 
+- Facebook fan page: https://www.facebook.com/chlokat.fans/
+- Instagram: https://www.instagram.com/chloekatastrophe/
+- TikTok: https://www.tiktok.com/@chloe.katastrophe
+- YouTube: https://www.youtube.com/@ChloeKatastrophe
+- X: https://x.com/chloekatastroph
+- FanVue canonical profile: https://www.fanvue.com/chloekat
 - SoundCloud artist page: https://soundcloud.com/chloe-katastrophe
 - SoundCloud album page — Daughter of Echoes: https://soundcloud.com/chloe-katastrophe/sets/daughter-of-echoes
 - SoundCloud album page — Truth & Beauty from Darkness: https://soundcloud.com/chloe-katastrophe/sets/truth-and-beauty-from-darkness
-- TikTok account: pending public launch
 - TikTok purpose: introduce Chloe to the public, release music/art/log fragments, invite artifact recovery, and build the audience around the archive.
+
+The FanVue referral/campaign URL `https://fanvue.com/chloekat/fv-9` remains valid for attributed promotional links. Use the clean canonical profile URL above when recording Chloe's identity or listing her public channels.
 
 ## Public Positioning
 
@@ -56,7 +63,6 @@ The public-facing voice should preserve:
 
 ## Open Launch Questions
 
-- What is the confirmed TikTok handle?
 - What is the first public post?
 - Which song or visual fragment introduces Chloe best?
 - How should fans submit artifacts once a real submission endpoint exists?

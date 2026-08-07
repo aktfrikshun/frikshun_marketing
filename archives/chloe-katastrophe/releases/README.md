@@ -4,6 +4,7 @@ This section tracks public Chloe Katastrophe releases after they leave draft/can
 
 ## Releases
 
+- [Version Drift — Track Record](../music/TRACK_09_VERSION_DRIFT.md)
 - [Родной дом — Release Announcement Package](../social/rodnoy-dom-release/README.md)
 - [Tide in My Cup - Release Kit](../social/tide-in-my-cup-release/RELEASE_KIT.md)
 - [Touch Me Like I'm Real — Official Music Video](touch-me-like-im-real/RELEASE.md)

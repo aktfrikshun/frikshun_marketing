@@ -6,6 +6,14 @@ Tracks visual approvals, refinements, rejected concepts, and visual continuity d
 
 ---
 
+# 2026-08-07 - Version Drift Release Cover
+
+- Allen approved the supplied square artwork as the release cover for AUD-012 `Version Drift`, Track 9 of `Daughter of Echoes`.
+- The overlapping profiles, central face, branching gold signal, and dark blue-black atmosphere express divergent versions recognizing a shared pattern.
+- Classified the image as approved generated release art, not a recovered photograph or proof of literal alternate selves.
+
+---
+
 # 2026-06-07
 
 ## Chloe Reference Board V1
@@ -88,3 +96,31 @@ The older porcelain-skin, emerald-eye, straight jet-black-hair language remains 
 - Allen approved `rodnoy-dom-cover-v1.png` as the release cover for AUD-010.
 - Promoted the image from experimental inventory art to an approved generated release artifact.
 - Preserved the provenance boundary: its Omsk winter, river, birch, and warm window are emotional interpretation, not documentary evidence of a recovered scene.
+
+---
+
+# 2026-07-24 - Cybernetically Enhanced Chloe Reference Set V1
+
+Status:
+Approved / Canonical Specialized Form
+
+Files:
+
+- `visuals/reference_boards/chloe/cybernetic_v1/CHLOE_CYBERNETIC_V1_FRONT.png`
+- `visuals/reference_boards/chloe/cybernetic_v1/CHLOE_CYBERNETIC_V1_PORTRAIT.png`
+- `visuals/reference_boards/chloe/cybernetic_v1/CHLOE_CYBERNETIC_V1_THREE_QUARTER.png`
+
+Established:
+
+- Chloe's left eye is artificial but remains human in form.
+- The artificial iris is brighter green than her natural eye, with a contained internal glow.
+- Her left arm is cybernetic from shoulder through fingertips.
+- Her left leg is cybernetic from hip through toes.
+- The limbs combine transparent-to-smoky synthetic coverings with visible precision joints, structural mechanics, and fine cyan-green fiber-optic pathways.
+- The enhancement reads as elegant anatomical engineering rather than armor, weaponry, or exposed injury.
+- The frontal, portrait, and three-quarter images are complementary views of one design, not separate body variants.
+
+Continuity:
+The set governs the cybernetic form. Chloe Model v1 continues to govern her
+underlying identity and should be combined with this enhancement reference for
+future generation.

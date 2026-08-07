@@ -38,7 +38,8 @@ while IFS='|' read -r slug title collection track_label audio cover accent trans
   ffmpeg -nostdin -y -hide_banner -loglevel error -ss "$credit_frame" -i "$video" -frames:v 1 "$frames_dir/${slug}-credits.jpg"
 done < "$manifest"
 
-[[ $checked -eq 15 ]] || { print -u2 "FAIL expected 15 inventory entries, checked $checked"; (( failures += 1 )); }
+expected="$(awk -F'|' 'NR > 1 && ($12 == "released" || $12 == "inventory-exception") { count += 1 } END { print count + 0 }' "$manifest")"
+[[ $checked -eq $expected ]] || { print -u2 "FAIL expected $expected inventory entries, checked $checked"; (( failures += 1 )); }
 "$python_bin" "$workflow_dir/build-youtube-contact-sheet.py" --frames "$frames_dir" --out "$output_dir/youtube-cover-editions-credit-qa.jpg"
 (( failures == 0 )) || exit 1
 print "Validated $checked YouTube cover editions. Credit QA sheet written to $output_dir."

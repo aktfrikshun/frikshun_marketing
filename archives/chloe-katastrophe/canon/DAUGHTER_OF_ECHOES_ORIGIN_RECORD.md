@@ -354,7 +354,7 @@ Current draft sequence:
 6. **Tomorrow We Met**
 7. **Father's Voice**
 8. **Memory Leak**
-9. **Version Drift**
+9. **Version Drift** — released as AUD-012; neighboring versions recognize a shared pattern without being forced to match or merge
 10. **Not My Memory**
 11. **Ghost in the Static**
 12. **Родной дом (Rodnoy Dom)** — released as AUD-010; emotional reconstruction of home and belonging, with individual scenes still unresolved

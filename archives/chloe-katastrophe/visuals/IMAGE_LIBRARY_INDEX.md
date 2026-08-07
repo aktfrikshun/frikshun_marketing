@@ -29,6 +29,26 @@ Primary adult visual identity for Chloe Katastrophe.
 Notes:
 Future Chloe images should remain recognizable as the same person.
 
+## Chloe Cybernetic Reference Set V1
+
+Files:
+
+- `visuals/reference_boards/chloe/cybernetic_v1/CHLOE_CYBERNETIC_V1_FRONT.png`
+- `visuals/reference_boards/chloe/cybernetic_v1/CHLOE_CYBERNETIC_V1_PORTRAIT.png`
+- `visuals/reference_boards/chloe/cybernetic_v1/CHLOE_CYBERNETIC_V1_THREE_QUARTER.png`
+
+Status:
+CANONICAL — SPECIALIZED FORM
+
+Purpose:
+Primary visual reference for cybernetically enhanced Chloe.
+
+Notes:
+Approved by Allen Taylor on 2026-07-24. The set canonizes Chloe's artificial
+left eye, cybernetic left arm, and cybernetic left leg; transparent-to-smoky
+synthetic housings; visible precision mechanics; and restrained cyan-green
+fiber-optic illumination. Chloe Model v1 remains the underlying identity anchor.
+
 ---
 
 # Approved Portraits
@@ -135,6 +155,24 @@ Release cover for AUD-010 `Родной дом`, Track 12 of `Daughter of Echoes
 Notes:
 
 Generated at Allen Taylor's direction and approved for release use on 2026-07-19. The winter Omsk atmosphere, birch, distant river, and warm kitchen window interpret the song's emotional premise without depicting people or asserting a literal recovered scene. Approval authorizes production and marketing use; it does not promote the proposed memories to confirmed biography.
+
+## Version Drift Release Cover
+
+File:
+
+`site/assets/images/version-drift-cover.png`
+
+Status:
+
+APPROVED / GENERATED RELEASE ARTIFACT
+
+Purpose:
+
+Release cover for AUD-012 `Version Drift`, Track 9 of `Daughter of Echoes`.
+
+Notes:
+
+Supplied and approved by Allen Taylor on 2026-08-07. Three overlapping Chloe portraits and a branching gold signal visualize neighboring versions touching across divergence. The artwork is approved for production and marketing use; it is interpretive release imagery, not documentary evidence of literal alternate selves.
 
 # Experimental Concepts
 

@@ -11,6 +11,15 @@ Thirty-second square teaser for *Daughter of Echoes*, Track 11.
 - `announcement-copy.md` — platform-ready copy and hashtags
 - `credits-background-prompt.md` — generation prompt and provenance
 
+## Release attachments
+
+The announcement links to the canonical public copies of the four current reference books rather than duplicating them inside this package:
+
+- `../../site/assets/books/the-chloe-katastrophe-biography-working-draft.pdf`
+- `../../site/assets/books/the-book-of-chloe-living-reference.pdf`
+- `../../site/assets/books/biografiya-khloi-katastrofi-russian-draft.pdf`
+- `../../site/assets/books/kniga-khloi-russian-reference.pdf`
+
 ## Edit
 
 - Audio excerpt: 00:50–01:20 from the 4:24.56 master
