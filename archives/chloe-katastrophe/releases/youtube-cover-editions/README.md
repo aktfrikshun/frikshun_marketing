@@ -14,7 +14,7 @@ Each edition:
 - identifies the song artist and Allen “FrikShun” Taylor’s archive/creative-direction role;
 - is encoded as 1920×1080 H.264 video with AAC audio and fast-start metadata.
 
-`Olga, I'm Home` remains a Living Archive release by Allen “FrikShun” Taylor, not a Chloe Katastrophe recording. At Allen's direction, `Родной дом` was promoted to released AUD-010 on 2026-07-19; its generated production cover and video remain interpretive artifacts and do not convert individual lyric scenes into confirmed biography. `Version Drift` was promoted to released AUD-012 on 2026-08-07; its shorter master drives the cover edition while the longer extended remix remains a preserved variant. Extended and alternate mixes are not separate primary release inventory items.
+`Olga, I'm Home` remains a Living Archive release by Allen “FrikShun” Taylor, not a Chloe Katastrophe recording. At Allen's direction, `Родной дом` was promoted to released AUD-010 on 2026-07-19; its generated production cover and video remain interpretive artifacts and do not convert individual lyric scenes into confirmed biography. `Version Drift` was promoted to released AUD-012 on 2026-08-07; its shorter master drives the cover edition while the longer extended remix remains a preserved variant. `Ain't in the Database` is released AUD-013, assigned to *Daughter of Echoes* as a companion with sequence position pending. Extended and alternate mixes are not separate primary release inventory items.
 
 ## Completed Inventory
 
@@ -29,6 +29,7 @@ Each edition:
 | Star Trek Knew | Musings & Missteps | Fade through white | 5:32.000 |
 | Tomorrow We Met | Daughter of Echoes | Dissolve | 3:55.720 |
 | Version Drift | Daughter of Echoes / Track 9 | Dissolve | 4:01.960 |
+| Ain't in the Database | Daughter of Echoes / Companion | Fade through black | 2:03.360 |
 | MIGA (Make Intelligence Great Again) | Musings & Missteps | Pixel breakup | 2:30.640 |
 | Wolf | Truth & Beauty from Darkness | Radial reveal | 4:33.160 |
 | Not My Memory! | Daughter of Echoes | Pixel breakup | 1:44.040 |

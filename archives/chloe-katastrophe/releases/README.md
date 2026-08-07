@@ -4,6 +4,7 @@ This section tracks public Chloe Katastrophe releases after they leave draft/can
 
 ## Releases
 
+- [Ain't in the Database — AUD-013 Track Record](../music/AUD_013_AINT_IN_THE_DATABASE.md)
 - [Version Drift — Track Record](../music/TRACK_09_VERSION_DRIFT.md)
 - [Родной дом — Release Announcement Package](../social/rodnoy-dom-release/README.md)
 - [Tide in My Cup - Release Kit](../social/tide-in-my-cup-release/RELEASE_KIT.md)

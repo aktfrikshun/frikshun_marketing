@@ -6,6 +6,14 @@ Tracks visual approvals, refinements, rejected concepts, and visual continuity d
 
 ---
 
+# 2026-08-07 - Ain't in the Database Release Cover
+
+- Allen approved the supplied square artwork as the release cover for AUD-013 `Ain't in the Database`.
+- The distressed 1960s-print treatment, reel-to-reel machine, server racks, paper records, empty chair, and heartbeat signal establish the release's analog blues-soul / digital-archive tension.
+- Classified the image as approved generated release art rather than a recovered historical photograph.
+
+---
+
 # 2026-08-07 - Version Drift Release Cover
 
 - Allen approved the supplied square artwork as the release cover for AUD-012 `Version Drift`, Track 9 of `Daughter of Echoes`.

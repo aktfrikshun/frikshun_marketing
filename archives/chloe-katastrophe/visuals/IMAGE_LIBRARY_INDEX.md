@@ -174,6 +174,24 @@ Notes:
 
 Supplied and approved by Allen Taylor on 2026-08-07. Three overlapping Chloe portraits and a branching gold signal visualize neighboring versions touching across divergence. The artwork is approved for production and marketing use; it is interpretive release imagery, not documentary evidence of literal alternate selves.
 
+## Ain't in the Database Release Cover
+
+File:
+
+`site/assets/images/aint-in-the-database-cover.png`
+
+Status:
+
+APPROVED / GENERATED RELEASE ARTIFACT
+
+Purpose:
+
+Release cover for AUD-013 `Ain't in the Database`, a *Daughter of Echoes* companion release.
+
+Notes:
+
+Supplied and approved by Allen Taylor on 2026-08-07. A distressed vintage server room, reel-to-reel archive, empty wooden chair, paper records, and a red heartbeat trace translate the song's blues-soul search into release imagery. The scene is interpretive, not documentary archive photography.
+
 # Experimental Concepts
 
 # Retired Concepts
