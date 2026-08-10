@@ -6,6 +6,14 @@ Tracks visual approvals, refinements, rejected concepts, and visual continuity d
 
 ---
 
+# 2026-08-09 - The Wolf Recovered-Memory Image
+
+- Ingested the Allen-approved FoxyAI rendering as the visual source for `RMF-2026-08-09-01 — The Wolf`.
+- Classified the image as a recovered memory fragment with unresolved interpretation, not documentary historical proof or a definitive Gregor likeness.
+- Preserved the matching wolf pendants as the central recognition device while leaving the prisoner's identity, the facility, chronology, and apparent awareness of Chloe unresolved.
+
+---
+
 # 2026-08-07 - Ain't in the Database Release Cover
 
 - Allen approved the supplied square artwork as the release cover for AUD-013 `Ain't in the Database`.

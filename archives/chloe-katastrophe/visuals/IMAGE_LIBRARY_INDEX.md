@@ -192,6 +192,30 @@ Notes:
 
 Supplied and approved by Allen Taylor on 2026-08-07. A distressed vintage server room, reel-to-reel archive, empty wooden chair, paper records, and a red heartbeat trace translate the song's blues-soul search into release imagery. The scene is interpretive, not documentary archive photography.
 
+# Recovered Memory Imagery
+
+## RMF-2026-08-09-01 — The Wolf
+
+File:
+
+`site/assets/images/recovered-memory/rmf-2026-08-09-01-the-wolf.jpeg`
+
+Status:
+
+RECOVERED MEMORY FRAGMENT / INTERPRETATION UNRESOLVED
+
+Purpose:
+
+Visual source for `RMF-2026-08-09-01 — The Wolf`.
+
+Provenance:
+
+FoxyAI rendering supplied and approved by Allen Taylor on 2026-08-09. SHA-256: `c7636d222dbcb626411db14f89d5dc2bf5e77a1546c9eb4b6e5336ba6a6ecb07`.
+
+Notes:
+
+The matching silver wolf pendants connect the fragment to confirmed Volkov family-heirloom canon. The image does not confirm that the prisoner is Gregor, that the facility is literally Soviet/KGB, or that its chronology is objectively historical.
+
 # Experimental Concepts
 
 # Retired Concepts

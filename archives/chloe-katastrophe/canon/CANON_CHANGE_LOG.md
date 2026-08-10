@@ -1,5 +1,12 @@
 # Chloe Katastrophe Canon Change Log
 
+## 2026-08-09 - RMF-2026-08-09-01 The Wolf Ingested
+
+- Preserved the approved FoxyAI rendering as the visual source for recovered memory fragment `RMF-2026-08-09-01 — The Wolf`.
+- Added the stable recovered-memory record and public-safe canon mirror without assigning a competing artifact ID.
+- Confirmed only the Volkov family-heirloom status of the matching silver wolf pendant; the prisoner's identity, chronology, institution, and apparent awareness of Chloe remain unresolved fragment implications.
+- Added the fragment to the recovered-memory index, visual library, provenance record, and public gallery.
+
 ## 2026-08-07 - Ain't in the Database Released as AUD-013
 
 - Cataloged `Ain't in the Database` as released artifact AUD-013 and a *Daughter of Echoes* companion release with sequence position pending.
