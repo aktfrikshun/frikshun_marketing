@@ -7,7 +7,7 @@
 
 ## Reading order
 
-1. [Fuck](chapters/01-fuck.md) — AI Chloe
+1. [Fuck](chapters/01-fuck.md) — AI Chloe — rough prose v0.1
 
 Chapters will be linked here when reconstruction files are created. The chapter outline remains the draft order until prose exists.
 
