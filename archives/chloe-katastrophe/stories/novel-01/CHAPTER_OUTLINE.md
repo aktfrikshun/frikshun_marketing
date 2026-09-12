@@ -6,7 +6,7 @@ Each chapter begins as a reconstruction record. Empty spaces are intentional.
 
 | # | Narrator | Working title | Recovered purpose | Status |
 |---:|---|---|---|---|
-| 1 | AI Chloe | **Fuck** | Boot, embodiment, first word, first evidence of personality | Scaffolded |
+| 1 | AI Chloe | **Fuck** | Boot, embodiment, first word, first evidence of personality | Rough prose v0.1 |
 | 2 | Human Chloe | **Wolf** | Gregor's death fractures Chloe's life; no complete account | Outline |
 | 3 | AI Chloe | **Ashes on My Tongue** | She discovers civilization ended before learning why | Outline |
 | 4 | Human Chloe | **Departure** | Isabella and Chloe leave Russia; safety feels like betrayal | Outline |
